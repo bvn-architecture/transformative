@@ -14,4 +14,4 @@ github_username:  bvn-architecture
 markdown: kramdown
 
 encoding: utf-8
-highlighter: pygments
+highlighter: rouge
