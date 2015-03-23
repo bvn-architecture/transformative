@@ -236,6 +236,14 @@
 }
 
 /*Transformative specific*/
+a{
+  &:link    { color: $text-color;}//Unvisited link.
+  &:visited { color: darken( $text-color, 20%);}//Visited links.
+  &:hover   { color: lighten($text-color, 20%);}//The user mouses over a link.
+  &:focus   { background-color: orange;}//The user clicks on a link.
+  &:active  { }//The user has clicked a link.
+}
+
 
 .issue-number {
   color: $background-color;
@@ -262,12 +270,12 @@
 
 .editorial {
   overflow: hidden;
-  height: 360px;
+  height: 370px;
   .post-picture{display: none;}
 }
 
 .primary-story img {
-  height: 500px;
+  height: 370px;
 }
 .secondary-story img {
   height: 185px;
