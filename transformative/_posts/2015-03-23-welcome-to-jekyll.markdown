@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "things will be happening here soon"
+title:  "ASB"
+tagline: "In conversation"
+featuredimg: "http://lorempixel.com/640/480/abstract"
 date:   2015-03-23 16:57:05
-categories: jekyll update
+categories: transformative-4
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

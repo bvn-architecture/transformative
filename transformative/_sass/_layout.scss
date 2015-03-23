@@ -234,3 +234,18 @@
         }
     }
 }
+
+
+.issue-number {
+  color: $background-color;
+  background-color: $text-color;
+  height: 92px;
+  width: 92px;
+  border-radius: 50%;
+  text-align: center;
+  span.number {
+      font-size: 75px;
+      display: block;
+  }
+  span.issue{}
+}
