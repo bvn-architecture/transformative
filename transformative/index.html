@@ -3,21 +3,21 @@ layout: default
 ---
 <div class="home">
     <div class="row">
-        <div class="col-md-2">
+        <div class="hidden-xs hidden-sm col-md-2">
             <div class="issue-number"><span class="number">4</span><span class="issue">issue</span></div>
         </div>
-        <div class="col-md-10">
+        <div class="col-sm-12 col-md-10">
             <h1 class="page-heading">Transformative:<small>The architecture of work culture</small></h1>
         </div>
     </div>
 
     <div class="row">
-        <div class="col-md-2">
+        <div class="col-sm-4 col-md-2">
             <div class="editorial">
                 {% assign post = site.posts.first %}
                 <h2>{{ post.title }}</h2> {{post.content}}
             </div>
-            <div class="project-stories">
+            <div class="project-stories hidden-xs hidden-sm">
               <h2>Project Stories</h2>
               <ul>
                 {% for page in site.pages %}
@@ -28,13 +28,13 @@ layout: default
               </ul>
             </div>
         </div>
-        <div class="col-md-10">
+        <div class="col-sm-8 col-md-10">
             <ul class="post-list">
               {% for post in site.posts offset:1%}
                 {% if forloop.first %}
-                <li class="col-md-12 primary-story">
+                <li class="col-sm-12 primary-story">
                 {% else %}
-                <li class="sol-sm-6 col-md-3 secondary-story">
+                <li class="col-md-6 col-lg-3 secondary-story">
                 {% endif %}
                   <div class="post-picture">
                       <img src="{{post.featuredimg}}" alt="{{post.alttext}}">
@@ -47,5 +47,5 @@ layout: default
             </ul>
         </div>
     </div>
-    <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>
+    <!--<p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>-->
 </div>
