@@ -235,6 +235,7 @@
     }
 }
 
+/*Transformative specific*/
 
 .issue-number {
   color: $background-color;
@@ -246,6 +247,57 @@
   span.number {
       font-size: 75px;
       display: block;
+      line-height: 77%;
   }
   span.issue{}
 }
+.page-heading {
+  font-size: 70px;
+  line-height: 85%;
+    small {
+      font-size: 50%;
+      display: block;
+    }
+}
+
+.editorial {
+  overflow: hidden;
+  height: 360px;
+  .post-picture{display: none;}
+}
+
+.primary-story img {
+  height: 500px;
+}
+.secondary-story img {
+  height: 185px;
+}
+
+.post-picture {
+  position: relative;
+  img {
+      width: 100%;
+      object-fit: cover;
+    }
+  .post-number {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 34px;
+      height: 34px;
+      color: $text-color;
+      background-color: $background-color;
+      border-radius: 50%;
+      text-align: center;
+      margin: 10px;
+    }
+}
+
+a.post-link {
+  font-size: 36px;
+  line-height: 100%;
+  font-weight: bold;
+}
+
+/*temp stuff*/
+.row{border: 1px dashed red;}

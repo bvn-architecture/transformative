@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "C Drive"
+permalink: /cdrive/
 ---
 I'll just put the about page here
 

@@ -3,34 +3,49 @@ layout: default
 ---
 <div class="home">
     <div class="row">
-      <div class="col-md-2">
-        <div class="issue-number"><span class="number">4</span><span class="issue">issue</span></div>
-      </div>
-      <div class="col-md-10">
-        <h1 class="page-heading">Transformative:
-                          <small>The architecture of work culture</small></h1>
-      </div>
+        <div class="col-md-2">
+            <div class="issue-number"><span class="number">4</span><span class="issue">issue</span></div>
+        </div>
+        <div class="col-md-10">
+            <h1 class="page-heading">Transformative:<small>The architecture of work culture</small></h1>
+        </div>
     </div>
-    <ul class="post-list">
-        {% for post in site.posts%}
-          {% if forloop.first == true %}
-          <li class="col-md-">
-              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-              <img src="{{post.featuredimg}}">
-              <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-          </li>
-          {% else %}
-          <li>
-              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-              <img src="{{post.featuredimg}}">
-              <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-          </li>
-          {% endif %}
-        {% endfor %}
-    </ul>
+
+    <div class="row">
+        <div class="col-md-2">
+            <div class="editorial">
+                {% assign post = site.posts.first %}
+                <h2>{{ post.title }}</h2> {{post.content}}
+            </div>
+            <div class="project-stories">
+              <h2>Project Stories</h2>
+              <ul>
+                {% for page in site.pages %}
+                  {% if page.title %}
+                  <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </div>
+        </div>
+        <div class="col-md-10">
+            <ul class="post-list">
+              {% for post in site.posts offset:1%}
+                {% if forloop.first %}
+                <li class="col-md-12 primary-story">
+                {% else %}
+                <li class="sol-sm-6 col-md-3 secondary-story">
+                {% endif %}
+                  <div class="post-picture">
+                      <img src="{{post.featuredimg}}" alt="{{post.alttext}}">
+                      <div class="post-number">{{forloop.index}}</div>
+                  </div>
+                  <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                  <p>{{post.tagline}}</p>
+                </li>
+              {% endfor %}
+            </ul>
+        </div>
+    </div>
     <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>
 </div>
