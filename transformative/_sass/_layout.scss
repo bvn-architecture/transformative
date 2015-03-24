@@ -241,9 +241,32 @@ a{
   &:visited { color: darken( $text-color, 20%);}//Visited links.
   &:hover   { color: lighten($text-color, 20%);}//The user mouses over a link.
   &:focus   { background-color: orange;}//The user clicks on a link.
-  &:active  { }//The user has clicked a link.
+  &:active  { color: rgba(149,118,68,1)}//The user has clicked a link.
 }
 
+//header
+nav{
+  text-transform: uppercase;
+  ul{
+    display: inline-block;
+  }
+  li {
+    display: inline-block;
+    width: 7em;
+  }
+  .contact-links{
+    float: right;
+    li{width: 3em;}
+  }
+}
+.masthead {
+  display: block;
+}
+.site-title {
+  line-height: 90%;
+  margin-top: 5px;
+}
+//end header
 
 .issue-number {
   color: $background-color;
@@ -306,6 +329,11 @@ a.post-link {
   line-height: 100%;
   font-weight: bold;
 }
+
+//footer
+.bvn-mark{fill: $text-color}
+//end footer
+
 
 /*temp stuff*/
 .row{border: 1px dashed red;}
