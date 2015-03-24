@@ -262,6 +262,14 @@ nav{
     li{margin-right: 2em;}
   }
 }
+.site-nav {
+    float: right;
+    /* line-height: 56px; */
+    display: block;
+    margin-left: 10em;
+    width: 65%;
+    height: 30px;
+  }
 .masthead {
   display: block;
 }
