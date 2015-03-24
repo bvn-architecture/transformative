@@ -15,7 +15,8 @@ layout: default
         <div class="col-sm-4 col-md-2">
             <div class="editorial">
                 {% assign post = site.posts.first %}
-                <h2>{{ post.title }}</h2> {{post.content}}
+                <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                {{post.content}}
             </div>
             <div class="project-stories hidden-xs hidden-sm">
               <h2>Project Stories</h2>
