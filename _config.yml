@@ -1,0 +1,20 @@
+# Site settings
+title: "BVN Transformative"
+email: "ben_doherty@bvn.com.au"
+description: "Write an awesome description for your new site here."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: "architecturebvn"
+github_username:  "bvn-architecture"
+
+# Build settings
+markdown: "kramdown"
+
+encoding:     "utf-8"
+permalink:    "none"
+highlighter:  "rouge"
+
+sass:
+    sass_dir: _sass
+
+source: transformative

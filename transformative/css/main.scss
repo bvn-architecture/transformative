@@ -1,23 +1,22 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+layout: null
 ---
+
 @charset "utf-8";
 
-
-
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: "Blender", Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       rgba(179,179,179,1);
+$background-color: rgba(29,29,29,1);
+$brand-color:      rgba(42,122,226,1);
 
-$grey-color:       #828282;
+$grey-color:       rgba(130,130,130,1);
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -45,8 +44,6 @@ $on-laptop:        800px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+@import "base";
+@import "layout";
+@import "syntax-highlighting";
