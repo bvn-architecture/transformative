@@ -10,8 +10,9 @@ github_username:  "bvn-architecture"
 # Build settings
 markdown: "kramdown"
 
-encoding: "utf-8"
-highlighter: "rouge"
+encoding:     "utf-8"
+permalink:    "none"
+highlighter:  "rouge"
 
 sass:
     sass_dir: _sass
