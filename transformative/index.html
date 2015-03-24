@@ -19,13 +19,11 @@ layout: default
             </div>
             <div class="project-stories hidden-xs hidden-sm">
               <h2>Project Stories</h2>
-              <ul>
                 {% for page in site.pages %}
                   {% if page.title %}
-                  <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                  <p><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></p>
                   {% endif %}
                 {% endfor %}
-              </ul>
             </div>
         </div>
         <div class="col-sm-8 col-md-10">

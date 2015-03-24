@@ -283,6 +283,7 @@ nav{
   width: 92px;
   border-radius: 50%;
   text-align: center;
+  margin: auto;
   span.number {
       font-size: 75px;
       display: block;
@@ -305,7 +306,15 @@ nav{
 .editorial {
   overflow: hidden;
   height: 370px;
+  margin-bottom: 3em;
   .post-picture{display: none;}
+  p{color: rgba(99,99,99,1);}
+}
+.project-stories {
+  p {
+    margin: 0;
+    font-size: 120%;
+  }
 }
 
 .primary-story img {
@@ -335,6 +344,7 @@ nav{
       border-radius: 50%;
       text-align: center;
       margin: 10px;
+      line-height: 200%;
     }
 }
 
@@ -354,4 +364,4 @@ a.post-link {
 
 
 /*temp stuff*/
-.row{border: 1px dashed red;}
+//.row{border: 1px dashed red;}
