@@ -252,11 +252,14 @@ nav{
   }
   li {
     display: inline-block;
-    width: 7em;
   }
   .contact-links{
     float: right;
     li{width: 3em;}
+  }
+  .nav-links{
+    float:left;
+    li{margin-right: 2em;}
   }
 }
 .masthead {
@@ -265,6 +268,11 @@ nav{
 .site-title {
   line-height: 90%;
   margin-top: 5px;
+}
+.site-header {
+  border: 0;
+  padding-top: 1em;
+  margin-bottom: 2em;
 }
 //end header
 
@@ -285,7 +293,10 @@ nav{
 .page-heading {
   font-size: 70px;
   line-height: 85%;
+  text-transform: uppercase;
+  margin-bottom: 0.6em;
     small {
+      text-transform: initial;
       font-size: 50%;
       display: block;
     }
@@ -302,6 +313,9 @@ nav{
 }
 .secondary-story img {
   height: 185px;
+}
+.primary-story h2, .secondary-story h2 {
+  margin: 0;
 }
 
 .post-picture {
@@ -325,9 +339,13 @@ nav{
 }
 
 a.post-link {
-  font-size: 36px;
+  font-size: 26px;
   line-height: 100%;
   font-weight: bold;
+}
+
+.post-list > li {
+  margin-bottom: 1em;
 }
 
 //footer
