@@ -242,15 +242,23 @@ ul.very-small-nav-links {
   span.issue{}
 }
 .page-heading {
-  font-size: 70px;
-  line-height: 85%;
-  text-transform: uppercase;
-  margin-bottom: 0.6em;
-    small {
-      text-transform: initial;
-      font-size: 50%;
+  h1{
+      //font-family:$bold-font-family;
+      //font-size: 70px;
+      line-height: 85%;
+      text-transform: uppercase;
+      margin-bottom: 0;
       display: block;
-    }
+      width: 100%;
+      border: 1px solid red;
+  }
+  p {
+    line-height: 95%;
+    //font-size: 45px;
+    display: block;
+    width: 100%;
+      border: 1px solid red;
+  }
 }
 
 .editorial {
