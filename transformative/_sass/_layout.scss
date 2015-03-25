@@ -243,6 +243,7 @@ ul.very-small-nav-links {
 }
 .page-heading {
   h1{
+      font-family: $medium-font-family;
       line-height: 85%;
       text-transform: uppercase;
       margin-bottom: 0;
@@ -271,8 +272,12 @@ ul.very-small-nav-links {
   }
 }
 
-.primary-story img {
-  height: 370px;
+.primary-story {
+  padding-left:  30px;
+  padding-right: 30px;
+  img {
+    height: 370px;
+  }
 }
 .secondary-story img {
   height: 185px;
@@ -291,6 +296,7 @@ ul.very-small-nav-links {
       position: absolute;
       top: 0;
       right: 0;
+      font-size: 18px;
       width: 34px;
       height: 34px;
       color: $text-color;
@@ -314,6 +320,7 @@ a.post-link {
 
 //footer
 .bvn-mark{fill: $text-color}
+.site-footer{border: none;}
 //end footer
 
 
@@ -337,7 +344,7 @@ p.in-post-nav {
 //end post specific
 
 /*temp stuff*/
-//.row{border: 1px dashed red;}
+// .row{border: 1px dashed red;}
 
 // .site-header .wrapper div {
 //   border: 1px solid red;
