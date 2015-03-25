@@ -2,6 +2,10 @@
   font-family: 'Blender-book';
   src: url("blender/blenderpro-book-webfont.eot");
   src: url("blender/blenderpro-book-webfont.eot?#iefix") format("embedded-opentype"), url("blender/blenderpro-book-webfont.woff") format("woff"), url("blender/blenderpro-book-webfont.ttf") format("truetype"), url("blender/blenderpro-book-webfont.svg#blender_probook") format("svg"); }
+@font-face {
+  font-family: 'Blender-medium';
+  src: url("blender/blenderpro-medium-webfont.eot");
+  src: url("blender/blenderpro-medium-webfont.eot?#iefix") format("embedded-opentype"), url("blender/blenderpro-medium-webfont.woff") format("woff"), url("blender/blenderpro-medium-webfont.ttf") format("truetype"), url("blender/blenderpro-medium-webfont.svg#blender_promedium") format("svg"); }
 /**
  * Reset some basic elements
  */
@@ -336,6 +340,7 @@ ul.very-small-nav-links {
     line-height: 77%; }
 
 .page-heading h1 {
+  font-family: "Blender-medium", "Blender", Arial, sans-serif;
   line-height: 85%;
   text-transform: uppercase;
   margin-bottom: 0;
@@ -359,8 +364,11 @@ ul.very-small-nav-links {
   margin: 0;
   font-size: 120%; }
 
-.primary-story img {
-  height: 370px; }
+.primary-story {
+  padding-left: 30px;
+  padding-right: 30px; }
+  .primary-story img {
+    height: 370px; }
 
 .secondary-story img {
   height: 185px; }
@@ -377,6 +385,7 @@ ul.very-small-nav-links {
     position: absolute;
     top: 0;
     right: 0;
+    font-size: 18px;
     width: 34px;
     height: 34px;
     color: #b3b3b3;
@@ -396,6 +405,9 @@ a.post-link {
 
 .bvn-mark {
   fill: #b3b3b3; }
+
+.site-footer {
+  border: none; }
 
 span.in-post-nav {
   margin-right: 1em; }
