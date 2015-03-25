@@ -340,13 +340,11 @@ ul.very-small-nav-links {
   text-transform: uppercase;
   margin-bottom: 0;
   display: block;
-  width: 100%;
-  border: 1px solid red; }
+  width: 100%; }
 .page-heading p {
   line-height: 95%;
   display: block;
-  width: 100%;
-  border: 1px solid red; }
+  width: 100%; }
 
 .editorial {
   overflow: hidden;
