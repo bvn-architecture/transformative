@@ -36,12 +36,14 @@ layout: default
                 {% else %}
                 <li class="col-md-6 col-lg-3 secondary-story">
                 {% endif %}
-                  <div class="post-picture">
-                      <img src="{{post.featuredimg}}" alt="{{post.alttext}}" title="{{post.titletext}}">
-                      <div class="post-number">{{forloop.index}}</div>
-                  </div>
-                  <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-                  <p>{{post.tagline}}</p>
+                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                    <div class="post-picture">
+                        <img src="{{post.featuredimg}}" alt="{{post.alttext}}" title="{{post.titletext}}">
+                        <div class="post-number">{{forloop.index}}</div>
+                    </div>
+                    <h2>{{ post.title }}</h2>
+                    <p>{{post.tagline}}</p>
+                  </a>
                 </li>
               {% endfor %}
             </ul>
