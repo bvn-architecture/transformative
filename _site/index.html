@@ -18,6 +18,7 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <!--end bootstrap-->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/FitText.js/1.1/jquery.fittext.min.js"></script>
 
     <link rel="stylesheet" href="/transformative/css/main.css ">
     <link rel="canonical" href="http://bvn-architecture.github.io/transformative/">
@@ -68,8 +69,9 @@
         <div class="hidden-xs hidden-sm col-md-2">
             <div class="issue-number"><span class="number">4</span><span class="issue">issue</span></div>
         </div>
-        <div class="col-sm-12 col-md-10">
-            <h1 class="page-heading">Transformative:<small>The architecture of work culture</small></h1>
+        <div class="page-heading col-sm-12 col-md-10">
+            <h1 id="responsive_headline">Transformative:</h1>
+            <p  id="responsive_subtitle">The architecture of work culture</p>
         </div>
     </div>
 
@@ -250,5 +252,8 @@
 
 
   </body>
-
+  <script>
+  jQuery("#responsive_headline").fitText(1  , { minFontSize: '20px', maxFontSize: '100px' });
+  jQuery("#responsive_subtitle").fitText(1.7, { minFontSize: '16px', maxFontSize: '70px' });
+</script>
 </html>

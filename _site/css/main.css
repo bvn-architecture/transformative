@@ -335,15 +335,18 @@ ul.very-small-nav-links {
     display: block;
     line-height: 77%; }
 
-.page-heading {
-  font-size: 70px;
+.page-heading h1 {
   line-height: 85%;
   text-transform: uppercase;
-  margin-bottom: 0.6em; }
-  .page-heading small {
-    text-transform: initial;
-    font-size: 50%;
-    display: block; }
+  margin-bottom: 0;
+  display: block;
+  width: 100%;
+  border: 1px solid red; }
+.page-heading p {
+  line-height: 95%;
+  display: block;
+  width: 100%;
+  border: 1px solid red; }
 
 .editorial {
   overflow: hidden;
