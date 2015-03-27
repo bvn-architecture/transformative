@@ -2,16 +2,18 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
+  border: 0;
+  padding-top: 1em;
+  margin-bottom: 2em;
+  position: fixed;
+  height: 5em;
+  background-color: rgba(29, 29, 29, 0.85);
+  width: 100%;
+  z-index: 1000;
+  text-transform: uppercase;
 }
 
 .site-title {
-    font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -33,7 +35,6 @@
 }
 
 .footer-heading {
-    font-size: 18px;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -44,7 +45,6 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
@@ -121,7 +121,6 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
 }
 
 
@@ -182,7 +181,7 @@ h1,h2,h3,h4,h5{
   color:       $heading-color;
 }
 h2{         font-size: 144.4444444444444%;}
-h2{         font-size: 111.1111111111111%;}
+h3{         font-size: 111.1111111111111%;}
 blockquote{ font-size: 122.2222222222222%;}
 .tagline{   font-size: 88.88888888888889%; font-style: italic;}
 
@@ -202,7 +201,6 @@ img:hover {
 
 //header
 nav{
-  text-transform: uppercase;
   ul{
     display: inline-block;
   }
@@ -230,7 +228,6 @@ nav{
 .site-title {
   line-height: 90%;
   margin-top: 5px;
-  text-transform: uppercase;
 }
 .site-header {
   border: 0;
@@ -249,18 +246,21 @@ ul.very-small-nav-links {
 
 .issue-number {
   color: $background-color;
-  background-color: $text-color;
+  background-color: $heading-color;
   height: 92px;
   width: 92px;
   border-radius: 50%;
   text-align: center;
-  margin: auto;
+  //margin: auto;
   span.number {
-      font-size: 75px;
-      display: block;
-      line-height: 77%;
+    font-size: 55px;
+    display: block;
+    line-height: 75%;
+    padding-top: 0.2em;
   }
-  span.issue{}
+  span.issue{
+    text-transform: uppercase;
+  }
 }
 .page-heading {
   h1{
@@ -328,7 +328,6 @@ ul.very-small-nav-links {
 }
 
 a.post-link {
-  font-size: 26px;
   line-height: 100%;
 }
 
@@ -348,6 +347,9 @@ span.in-post-nav {
 }
 p.in-post-nav {
   text-align: center;
+  position: fixed;
+  top: 2.5em;
+  z-index: 1500;
 }
 .nav-arrow {
   display: block;
@@ -358,7 +360,12 @@ p.in-post-nav {
   text-align: center;
   font-size: 220%;
   margin-top: 200px;
+  position: fixed;
+  
 }
+.nav-arrow.go-prev {
+    transform: rotate(180deg);
+  }
 //end post specific
 
 /*temp stuff*/
@@ -375,8 +382,9 @@ h1.site-title {
   margin-left: -15px;
 }
 .page-content{
+  padding-top: 5em;
   max-width: 1400px;
-  margin: auto
+  margin: auto;
 }
 .site-footer{
   .attr {
