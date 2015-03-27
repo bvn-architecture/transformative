@@ -152,13 +152,17 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
-  min-height: 56px;
-  position: relative; }
+  border: 0;
+  padding-top: 1em;
+  margin-bottom: 2em;
+  position: fixed;
+  height: 5em;
+  background-color: rgba(29, 29, 29, 0.85);
+  width: 100%;
+  z-index: 1000;
+  text-transform: uppercase; }
 
 .site-title {
-  font-size: 26px;
   line-height: 56px;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -174,7 +178,6 @@ pre {
   padding: 30px 0; }
 
 .footer-heading {
-  font-size: 18px;
   margin-bottom: 15px; }
 
 .contact-list,
@@ -183,7 +186,6 @@ pre {
   margin-left: 0; }
 
 .footer-col-wrapper {
-  font-size: 15px;
   color: #828282;
   margin-left: -15px; }
 
@@ -238,8 +240,7 @@ pre {
   color: #828282; }
 
 .post-link {
-  display: block;
-  font-size: 24px; }
+  display: block; }
 
 /**
  * Posts
@@ -285,7 +286,7 @@ h1, h2, h3, h4, h5 {
 h2 {
   font-size: 144.4444444444444%; }
 
-h2 {
+h3 {
   font-size: 111.1111111111111%; }
 
 blockquote {
@@ -309,20 +310,18 @@ a:focus {
 img:hover {
   filter: brightness(0.9); }
 
-nav {
-  text-transform: uppercase; }
-  nav ul {
-    display: inline-block; }
-  nav li {
-    display: inline-block; }
-  nav .contact-links {
-    float: right; }
-    nav .contact-links li {
-      width: 3em; }
-  nav .nav-links {
-    float: left; }
-    nav .nav-links li {
-      margin-right: 2em; }
+nav ul {
+  display: inline-block; }
+nav li {
+  display: inline-block; }
+nav .contact-links {
+  float: right; }
+  nav .contact-links li {
+    width: 3em; }
+nav .nav-links {
+  float: left; }
+  nav .nav-links li {
+    margin-right: 2em; }
 
 .site-nav {
   float: right;
@@ -335,8 +334,7 @@ nav {
 
 .site-title {
   line-height: 90%;
-  margin-top: 5px;
-  text-transform: uppercase; }
+  margin-top: 5px; }
 
 .site-header {
   border: 0;
@@ -353,16 +351,18 @@ ul.very-small-nav-links {
 
 .issue-number {
   color: #1d1d1d;
-  background-color: #646464;
+  background-color: #b4b4b4;
   height: 92px;
   width: 92px;
   border-radius: 50%;
-  text-align: center;
-  margin: auto; }
+  text-align: center; }
   .issue-number span.number {
-    font-size: 75px;
+    font-size: 55px;
     display: block;
-    line-height: 77%; }
+    line-height: 75%;
+    padding-top: 0.2em; }
+  .issue-number span.issue {
+    text-transform: uppercase; }
 
 .page-heading h1 {
   line-height: 85%;
@@ -420,7 +420,6 @@ ul.very-small-nav-links {
     line-height: 200%; }
 
 a.post-link {
-  font-size: 26px;
   line-height: 100%; }
 
 .post-list > li {
@@ -436,7 +435,10 @@ span.in-post-nav {
   margin-right: 1em; }
 
 p.in-post-nav {
-  text-align: center; }
+  text-align: center;
+  position: fixed;
+  top: 2.5em;
+  z-index: 1500; }
 
 .nav-arrow {
   display: block;
@@ -446,7 +448,11 @@ p.in-post-nav {
   border-radius: 50%;
   text-align: center;
   font-size: 220%;
-  margin-top: 200px; }
+  margin-top: 200px;
+  position: fixed; }
+
+.nav-arrow.go-prev {
+  transform: rotate(180deg); }
 
 /*temp stuff*/
 .page-heading {
@@ -456,6 +462,7 @@ h1.site-title {
   margin-left: -15px; }
 
 .page-content {
+  padding-top: 5em;
   max-width: 1400px;
   margin: auto; }
 
