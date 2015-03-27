@@ -253,5 +253,11 @@
   <script>
   jQuery("#responsive_headline").fitText(1  , { minFontSize: '20px', maxFontSize: '100px' });
   jQuery("#responsive_subtitle").fitText(1.7, { minFontSize: '16px', maxFontSize: '70px' });
+
+  jQuery( document ).ready(function() {
+  	var scrollTo = jQuery( ".page-content" ).position().top;
+    window.scrollBy(0, scrollTo);
+    console.log("I scrolled", scrollTo);
+  });
 </script>
 </html>
