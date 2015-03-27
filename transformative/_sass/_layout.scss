@@ -172,13 +172,6 @@
 }
 
 /*Transformative specific*/
-a{
-  &:link    { color: $heading-color; text-decoration: underline;}//Unvisited link.
-  &:visited { color: lighten( $heading-color, 10%);}//Visited links.
-  &:hover   { color: $emphasis-color; text-decoration: none;}//The user mouses over a link.
-  &:focus   { background-color: orange;}//The user clicks on a link.
-  //&:active  { color: $emphasis-color;}//The user has clicked a link.
-}
 
 h1,h2,h3,h4,h5{
   font-family: $medium-font-family;
@@ -192,6 +185,15 @@ h2{         font-size: 144.4444444444444%;}
 h2{         font-size: 111.1111111111111%;}
 blockquote{ font-size: 122.2222222222222%;}
 .tagline{   font-size: 88.88888888888889%; font-style: italic;}
+
+a{
+  &:link    { color: $heading-color; text-decoration: underline;}//Unvisited link.
+  &:visited { color: lighten( $heading-color, 10%);}//Visited links.
+  &:hover   { color: $emphasis-color; text-decoration: none;}//The user mouses over a link.
+  &:focus   { background-color: orange;}//The user clicks on a link.
+  //&:active  { color: $emphasis-color;}//The user has clicked a link.
+}
+
 
 img:hover {
   filter: brightness(0.9); //TODO make this work
@@ -228,6 +230,7 @@ nav{
 .site-title {
   line-height: 90%;
   margin-top: 5px;
+  text-transform: uppercase;
 }
 .site-header {
   border: 0;
@@ -267,9 +270,8 @@ ul.very-small-nav-links {
       display: block;
       width: 100%;
   }
-  p {
+  p.h1-subtitle {
     line-height: 95%;
-    //font-size: 45px;
     display: block;
     width: 100%;
   }
