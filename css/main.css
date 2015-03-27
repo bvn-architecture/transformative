@@ -274,17 +274,6 @@ pre {
         font-size: 18px; } }
 
 /*Transformative specific*/
-a:link {
-  color: #b4b4b4;
-  text-decoration: underline; }
-a:visited {
-  color: #cecece; }
-a:hover {
-  color: #967745;
-  text-decoration: none; }
-a:focus {
-  background-color: orange; }
-
 h1, h2, h3, h4, h5 {
   font-family: "Blender-medium", "Blender", Arial, sans-serif;
   color: #b4b4b4; }
@@ -305,6 +294,17 @@ blockquote {
 .tagline {
   font-size: 88.88888888888889%;
   font-style: italic; }
+
+a:link {
+  color: #b4b4b4;
+  text-decoration: underline; }
+a:visited {
+  color: #cecece; }
+a:hover {
+  color: #967745;
+  text-decoration: none; }
+a:focus {
+  background-color: orange; }
 
 img:hover {
   filter: brightness(0.9); }
@@ -335,7 +335,8 @@ nav {
 
 .site-title {
   line-height: 90%;
-  margin-top: 5px; }
+  margin-top: 5px;
+  text-transform: uppercase; }
 
 .site-header {
   border: 0;
@@ -369,7 +370,7 @@ ul.very-small-nav-links {
   margin-bottom: 0;
   display: block;
   width: 100%; }
-.page-heading p {
+.page-heading p.h1-subtitle {
   line-height: 95%;
   display: block;
   width: 100%; }
