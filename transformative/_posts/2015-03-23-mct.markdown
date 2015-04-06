@@ -11,15 +11,43 @@ publisher-name: BVN
 author-name: Stella DeVulder
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. 
+McCarthy Tetrault
+This project came out of a visit to Sydney by Marc Andre Blanchard, CEO of McCarthy Tetrault where he attended a meeting in the new Herbert Smith Freehills office.  He remarked on the different spaces and configurations of areas and asked to meet with the Principal responsible for the design Bill Dowzer.  Following that meeting Tracie Cookes, COO of McCarthy Tetrault visited and asked BVN to submit a project for their expanding operation in Canada.
+It was decided to develop a national strategy aimed at creating a new model for work based on five principles:
 
-<iframe src="https://player.vimeo.com/video/8741623" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/8741623">abstract visuals</a> from <a href="https://vimeo.com/simonholmedal">Simon Holmedal</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+* Leadership –
+    * Defined by:
+        * future focused
+        * sustainable
+        * bold steps
+* People –
+    * Defined by:
+        * Needs based
+        * Health and well being
+        * Concierge model
+* Diversity –
+    * Defined by:
+        * Choice
+        * Respecting the individual as part of the whole
+        * Appropriateness to place
+* Synergy
+    * Defined by:
+        * Collaboration
+        * Physical connectivity
+        * Virtual connectivity
+* Commerciality
+    * Defined by:
+        * Flexibility
+        * Effectiveness
+        * utilisation
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+BVN has always used intensive briefing workshops to inform the development of workplace designs and so we ran a series of briefings and town hall sessions in all five Canadian offices; Vancouver, Quebec City, Toronto, Montreal and Calgary.  The resulting design is a legal team model that promotes osmotic learning and knowledge sharing by creating a series of harbours that really allow lawyer to lawyer interaction and easy communication with ancillary staff.
+ To enable this high level of collaboration and community a highly flexible office module is used that is a 3m x 3m pavilion style, its sliding doors create complete acoustic privacy when closed , but when opened the corners of the office disappear into the wider workspace.  This pavilion is an important element in creating a transparent and visually connected workspace.
+Equally important is providing really great quality communal facilities with a library, connecting stair and relaxing coffee bays. This fits in very well with the client model that McCarthy Tetrault have been evolving that is less formal and allows people to mingle.  It is based on food and an open servery bar that is replenished with fresh buffet food throughout the day and makes food a part of every meeting. 
 
-Jekyll also offers powerful support for code snippets:
 
-## Team
+
+    * Team
 
 This is the team as a table
 
