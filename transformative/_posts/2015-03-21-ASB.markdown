@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "ASB"
+layout:  post
+title:   "ASB"
 tagline: "In conversation"
 featuredimg: "http://lorempixel.com/640/480/abstract"
 titletext: "title goes here"
@@ -13,14 +13,11 @@ author-name: Stella DeVulder
 
 “Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.” Jury statement, The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards
 
-
 “…the design of the building has fundamentally changed the way we as a business operate for the better,” Barbara Chapman, CEO ASB told BRW.
 
 ’Great result for ASB - electrical savings per year are calculated at $304K” Brian Clohessy responding to advice from ASB
 
 “ASB North Wharf is an international benchmark in sustainable building that provides a head office for ASB Bank with a workplace that places staff wellbeing at the forefront.” James Grose
-
-
 
 Awards
 2014 IDEA High Commendation International category
