@@ -17,6 +17,10 @@ author-name: Stella DeVulder
 	Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
 {% endquote %}
 
+{% quote { "person" : "", "source" : "", "date" : ""  } %}
+	The quote.
+{% endquote %}
+
 
 
 “Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.” Jury statement, The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards
