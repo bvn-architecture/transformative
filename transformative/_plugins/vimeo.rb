@@ -13,7 +13,7 @@ class Vimeo < Liquid::Tag
 
   def render(context)
     "<div class=\"embed-responsive embed-responsive-4by3\">
-    <iframe class=\"embed-responsive-item\" src=\"https://player.vimeo.com/video/9468855\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe class=\"embed-responsive-item\" src=\"https://player.vimeo.com/video/#{@id}\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>"
   end
 
