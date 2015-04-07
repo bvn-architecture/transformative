@@ -22,7 +22,7 @@ layout: default
             {% assign post = site.posts[1] %}
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                 <div class="post-picture">
-                    <img src="{{post.featuredimg}}" alt="{{post.alttext}}" title="{{post.titletext}}">
+                    <img src="{{post.imgfeatured}}" alt="{{post.imgalttext}}" title="{{post.imgtitletext}}">
                     <div class="post-number">1</div>
                 </div>
                 <h2>{{ post.title }}</h2>
@@ -55,7 +55,7 @@ layout: default
                 <li class="col-md-6 col-lg-3 secondary-story">
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <div class="post-picture">
-                            <img src="{{post.featuredimg}}" alt="{{post.alttext}}" title="{{post.titletext}}">
+                            <img src="{{post.imgfeatured}}" alt="{{post.imgalttext}}" title="{{post.imgtitletext}}">
                             <div class="post-number">{{forloop.index}}</div>
                         </div>
                         <h2>{{ post.title }}</h2>

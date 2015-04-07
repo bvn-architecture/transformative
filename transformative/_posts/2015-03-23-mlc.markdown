@@ -2,9 +2,9 @@
 layout: post
 title:  "MLC School"
 tagline: "tagline"
-featuredimg: "http://lorempixel.com/640/480/abstract"
-titletext: "title goes here"
-alttext: "This is an image of something"
+imgfeatured: "http://lorempixel.com/640/480/abstract"
+imgtitletext: "title goes here"
+imgalttext: "This is an image of something"
 date:   2015-02-23 16:57:05
 categories: transformative-4
 publisher-name: BVN
