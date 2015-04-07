@@ -26,3 +26,22 @@ and
 ```
 {% youtube 107651239 %}
 ```
+
+#front matter#
+This is the current post front matter. 
+```
+---
+layout         : post
+title          : "Arup"
+tagline        : "Workplace"
+
+assetsfolder   : "arup"
+imgfeatured    : "arup.jpg"
+imgtitletext   : "title goes here"
+imgalttext     : "This is an image of something"
+date           : 2015-02-22 16:57:05
+categories     : transformative-4
+publisher-name : BVN
+author-name    : Stella DeVulder
+---
+```
