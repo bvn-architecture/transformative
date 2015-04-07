@@ -2,9 +2,12 @@
 layout:         post
 title:          "Kat Martindale"
 tagline:        "tagline"
+
+assetsfolder:   "kat"
 imgfeatured:    "kat-martingdale.jpg"
-imgtitletext:      "title goes here"
-imgalttext:        "This is an image of something"
+imgtitletext:   "title goes here"
+imgalttext:     "This is an image of something"
+
 date:           2015-02-25 16:57:05
 categories:     transformative-4
 publisher-name: BVN

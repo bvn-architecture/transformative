@@ -6,6 +6,7 @@ layout: default
 <meta itemprop="name"      content="{{post.author-name}}"></span>
 <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
 <meta itemprop="name"      content="{{post.publisher-name}}"></span>
+
 <div class="post row">
     <div class="col-sm-offset-1 col-sm-1 hidden-xs"><a href="#" title="go to the previous article"><span class="nav-arrow go-prev">{% include arrow.svg %}</span></a></div>
     <div class="col-sm-8">
@@ -21,7 +22,8 @@ layout: default
             <!-- <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p> -->
         </header>
         <article class="post-content">
-            <img src="{{post.imgfeatured | prepend: '/'| prepend: site.baseurl | prepend: site.url}}">
+            <img class="featured"
+                 src="/transformative/assets/{{page.assetsfolder}}/{{page.imgfeatured}}">
             {{ content }}
         </article>
     </div>

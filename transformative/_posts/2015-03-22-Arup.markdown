@@ -1,14 +1,16 @@
 ---
-layout: post
-title:  "Arup"
-tagline: "Workplace"
-imgfeatured: "http://lorempixel.com/640/480/abstract"
-imgtitletext: "title goes here"
-imgalttext: "This is an image of something"
-date:   2015-02-22 16:57:05
-categories: transformative-4
-publisher-name: BVN
-author-name: Stella DeVulder
+layout         : post
+title          : "Arup"
+tagline        : "Workplace"
+
+assetsfolder   : "arup"
+imgfeatured    : "arup.jpg"
+imgtitletext   : "title goes here"
+imgalttext     : "This is an image of something"
+date           : 2015-02-22 16:57:05
+categories     : transformative-4
+publisher-name : BVN
+author-name    : Stella DeVulder
 ---
 
 ARUP – WORKPLACE AS WORKSHOP

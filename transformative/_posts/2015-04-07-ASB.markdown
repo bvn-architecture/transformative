@@ -1,14 +1,17 @@
 ---
-layout:  post
-title:   "ASB"
-tagline: "In conversation"
-imgfeatured: "http://lorempixel.com/640/480/abstract"
-imgtitletext: "title goes here"
-imgalttext: "This is an image of something"
-date:   2015-02-21 16:57:05
-categories: transformative-4
-publisher-name: BVN
-author-name: Stella DeVulder
+layout         : post
+title          : "ASB"
+tagline        : "In conversation"
+
+assetsfolder   : "asb"
+imgfeatured    : "asb.jpg"
+imgtitletext   : "title goes here"
+imgalttext     : "This is an image of something"
+
+date           : 2015-02-21 16:57:05
+categories     : transformative-4
+publisher-name : BVN
+author-name    : Stella DeVulder
 ---
 
 
@@ -16,11 +19,6 @@ author-name: Stella DeVulder
 {% quote { "person" : "Jury statement", "source" : "The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards", "date" : "Tuesday"  } %}
 	Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
 {% endquote %}
-
-{% quote { "person" : "", "source" : "", "date" : ""  } %}
-	The quote.
-{% endquote %}
-
 
 
 “Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.” Jury statement, The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards
@@ -92,7 +90,7 @@ The void shifts on each floorplate to reveal internal views, bring daylight deep
 
 
 
-{% vimeo 107651238 300 500 %}  - ASB North Wharf with Barbara Chapman
+{% vimeo 107651238 %}  - ASB North Wharf with Barbara Chapman
 
 {% vimeo 107651239 %} - ASB workplace with Barbara Chapman
 
