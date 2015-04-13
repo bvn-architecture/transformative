@@ -118,7 +118,7 @@
             <div class="hidden-xs hidden-sm col-md-2 col-lg-4">
                 <ul class="contact-links">
                     <li><a href="http://twitter.com/architecturebvn">TW</a></li>
-                    <li>FB</li>
+                    <li><a href="https://www.facebook.com/pages/BVN-Architecture/131354776914013?fref=ts">FB</a></li>
                     <li><a href="mailto:stella_devulder@bvn.com.au?Subject=Transformative%20Contact&Body=Hi%20Stella%2C%0AJolly%20good%20show%20with%20this%20Transformative%20business%21" title="Email us">EMAIL</a>
                         <!--http://www.cha4mot.com/t_mailto.html go here to update this-->
                     </li>
@@ -141,7 +141,7 @@
     <div class="col-sm-offset-1 col-sm-1 hidden-xs"><a href="#" title="go to the previous article"><span class="nav-arrow go-prev"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polygon fill="#646464" points="28.7,41.4 25.9,38.6 32.5,32 25.9,25.4 28.7,22.6 38.1,32 38.1,32 38.1,32 	"/>
+	<polygon points="28.7,41.4 25.9,38.6 32.5,32 25.9,25.4 28.7,22.6 38.1,32 38.1,32 38.1,32 	"/>
 	<!-- <path fill="#646464" d="M32,0.5c17.4,0,31.5,14.1,31.5,31.5S49.4,63.5,32,63.5S0.5,49.4,0.5,32S14.6,0.5,32,0.5 M32,0
 		C14.3,0,0,14.3,0,32s14.3,32,32,32s32-14.3,32-32S49.7,0,32,0L32,0z"/> -->
 		<!-- Testing to see if the circle is needed -->
@@ -206,7 +206,7 @@ Graphics: Patrik Typpo</p>
     <div class="col-sm-1 hidden-xs"><a href="#" title="go to the next article"><span class="nav-arrow go-next"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polygon fill="#646464" points="28.7,41.4 25.9,38.6 32.5,32 25.9,25.4 28.7,22.6 38.1,32 38.1,32 38.1,32 	"/>
+	<polygon points="28.7,41.4 25.9,38.6 32.5,32 25.9,25.4 28.7,22.6 38.1,32 38.1,32 38.1,32 	"/>
 	<!-- <path fill="#646464" d="M32,0.5c17.4,0,31.5,14.1,31.5,31.5S49.4,63.5,32,63.5S0.5,49.4,0.5,32S14.6,0.5,32,0.5 M32,0
 		C14.3,0,0,14.3,0,32s14.3,32,32,32s32-14.3,32-32S49.7,0,32,0L32,0z"/> -->
 		<!-- Testing to see if the circle is needed -->
@@ -220,27 +220,35 @@ Graphics: Patrik Typpo</p>
 
     <footer class="site-footer">
     <div class="wrapper">
-        <div class="attr">Presented by <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        <div class="attr"><a href="site.publisher_website">Presented by <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 55 30" enable-background="new 0 0 55 30" xml:space="preserve">
 <path class="bvn-mark" d="M0,0l0,30h55V0H0z M50.2,19L41.6,4.8h8.6V19z M48.3,25.2h-8.6V11L48.3,25.2z M30.4,4.8l-4.5,17.6L21.3,4.8
 	H30.4z M8.7,4.8c2.1,0,3.9,1.8,3.9,3.9c0,2.1-1.7,3.9-3.9,3.9H4.8l0-7.8H8.7z M4.8,25.2l0-7.8h3.9c2.1,0,3.9,1.8,3.9,3.9
 	c0,2.1-1.7,3.9-3.9,3.9H4.8z M16.5,25.2c0.6-1.2,0.9-2.5,0.9-3.9c0-2.5-1-4.7-2.7-6.3c1.7-1.6,2.7-3.8,2.7-6.3c0,0,0,0,0,0l4.3,16.5
 	H16.5z M34.9,6.5v18.7h-4.8L34.9,6.5z"/>
 </svg>
-</div>
+</a></div>
     </div>
 </footer>
 
 
   </body>
   <script>
+  var moveArrows=function(){
+  	$(".nav-arrow").css("top",
+  		(window.innerHeight/2) - ($(".nav-arrow").height()/2)
+  	    );
+  	};
+
   jQuery("#responsive_headline").fitText(1  , { minFontSize: '20px', maxFontSize: '100px' });
   jQuery("#responsive_subtitle").fitText(1.7, { minFontSize: '16px', maxFontSize: '70px' });
 
   jQuery( document ).ready(function() {
-  	var scrollTo = jQuery( ".page-content" ).position().top;
-    window.scrollBy(0, scrollTo);
-    console.log("I scrolled", scrollTo);
+  	moveArrows();
   });
+
+  $( window ).resize(moveArrows);
+
+
 </script>
 </html>
