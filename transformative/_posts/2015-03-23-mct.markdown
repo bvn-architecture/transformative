@@ -49,9 +49,7 @@ Equally important is providing really great quality communal facilities with a l
 
 
 
-    * Team
-
-This is the team as a table
+# Team #
 
 | ----------------- | ------------          | ----------------- |
 | Project Team      | Name                  | Title             |
@@ -68,6 +66,8 @@ This is the team as a table
 |                   | Ninotschka Titchkosky | Project Principal |
 |                   | Rod Allan             | Project Director  |
 |                   | Kylie Barker          | Project Architect |
+
+
 | ----------------- | ------------          | ----------------- |
 | Consultant Team   | Company Name          | Role              |
 | ----------------- | ------------          | ----------------- |
@@ -83,6 +83,8 @@ This is the team as a table
 |                   | Ninotschka Titchkosky | Project Principal |
 |                   | Rod Allan             | Project Director  |
 |                   | Kylie Barker          | Project Architect |
+
+| ----------------- | ------------          | ----------------- |
 | Contractor Team   | Company Name          | Role              |
 | ----------------- | ------------          | ----------------- |
 |                   | Ninotschka Titchkosky | Project Principal |
