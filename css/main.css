@@ -318,15 +318,9 @@ nav .contact-links {
   nav .contact-links li {
     width: 3em; }
 nav .nav-links {
-  float: left; }
+  margin: auto; }
   nav .nav-links li {
     margin-right: 2em; }
-
-.site-nav {
-  float: right;
-  display: block;
-  width: 65%;
-  height: 30px; }
 
 .masthead {
   display: block; }
