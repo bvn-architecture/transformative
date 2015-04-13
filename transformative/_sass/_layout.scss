@@ -309,9 +309,9 @@ ul.very-small-nav-links {
       width: 100%;
       object-fit: cover;
       &:hover{
-        -webkit-filter: grayscale(70%);
-        -moz-filter: grayscale(70%);
-        filter: grayscale(70%);
+        -webkit-filter: grayscale(50%);
+        -moz-filter: grayscale(50%);
+        filter: grayscale(50%);
       }
     }
   .post-number {
@@ -356,15 +356,18 @@ p.in-post-nav {
 }
 .nav-arrow {
   display: block;
-  width:  64px;
+  width: 64px;
   height: 64px;
-  border: 1px solid silver;
+  border: 1px solid $text-color;;
   border-radius: 50%;
-  text-align: center;
-  font-size: 220%;
-  margin-top: 200px;
   position: fixed;
-  
+  top: 0;
+  margin: auto;
+  fill: $text-color;
+  &:hover{
+    border-color: $heading-color;
+    fill:$heading-color;
+  }
 }
 .nav-arrow.go-prev {
     transform: rotate(180deg);
