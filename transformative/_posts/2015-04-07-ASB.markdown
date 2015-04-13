@@ -12,7 +12,7 @@ date           : 2015-02-21 16:57:05
 categories     : transformative-4
 
 author-name    : Stella DeVulder
-auther-twitter : stelladevulder
+author-twitter : stelladevulder
 author-facebook: "https://www.facebook.com/stella.devulder"
 
 summary        : |
