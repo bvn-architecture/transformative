@@ -228,11 +228,10 @@ nav{
 }
 .site-title {
   line-height: 90%;
-  margin-top: 5px;
 }
 .site-header {
   border: 0;
-  padding-top: 1em;
+  padding-top: 1.7em;
   margin-bottom: 2em;
 }
 ul.very-small-nav-links {
@@ -352,9 +351,10 @@ span.in-post-nav {
   margin-right: 1em;
 }
 p.in-post-nav {
+  font-size: 110%;
   text-align: center;
   position: fixed;
-  top: 2.5em;
+  top: 3.5em;
   z-index: 1500;
 }
 .nav-arrow {
@@ -391,7 +391,7 @@ h1.site-title {
   margin-left: -15px;
 }
 .page-content{
-  padding-top: 5em;
+  padding-top: 7em;
   max-width: 1400px;
   margin: auto;
 }
