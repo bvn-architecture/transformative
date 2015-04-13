@@ -1,15 +1,16 @@
 # Site settings
-title: "Transformative"
-email: "ben_doherty@bvn.com.au"
-description: "Write an awesome description for your new site here."
-baseurl: "/transformative" # the subpath of your site, e.g. /blog/
-url: "http://bvn-architecture.github.io" # the base hostname & protocol for your site
+title:              "Transformative"
+email:              "ben_doherty@bvn.com.au"
+description:        "Write an awesome description for your new site here."
+baseurl:            "/transformative" # the subpath of your site, e.g. /blog/
+url:                "http://bvn-architecture.github.io" # the base hostname & protocol for your site
 twitter_username:   "architecturebvn"
 github_username:    "bvn-architecture"
 facebook-publisher: "https://www.facebook.com/pages/BVN-Architecture/131354776914013?fref=ts"
+publisher:          "BVN"
 
 # Build settings
-markdown: "kramdown"
+markdown:     "kramdown"
 
 encoding:     "utf-8"
 permalink:    "none"
@@ -18,4 +19,4 @@ highlighter:  "rouge"
 sass:
     sass_dir: _sass
 
-source: transformative
+source:       transformative
