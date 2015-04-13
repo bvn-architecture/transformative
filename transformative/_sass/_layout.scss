@@ -210,16 +210,11 @@ nav{
     li{width: 3em;}
   }
   .nav-links{
-    float:left;
+    margin: auto;
     li{margin-right: 2em;}
   }
 }
-.site-nav {
-    float: right;
-    display: block;
-    width: 65%;
-    height: 30px;
-  }
+.site-nav {}
 .masthead {
   display: block;
 }
