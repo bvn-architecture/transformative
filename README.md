@@ -15,6 +15,7 @@ Borrowing the blockquote pattern from [A list apart](http://alistapart.com/blog/
 	The quote.
 {% endquote %}
 ```
+You can leave any of those JSON properties out, or leave the whole object out if you want.
 
 ##Videos##
 
@@ -32,16 +33,24 @@ This is the current post front matter.
 ```
 ---
 layout         : post
-title          : "Arup"
-tagline        : "Workplace"
+title          : "ASB"
+tagline        : "In conversation"
 
-assetsfolder   : "arup"
-imgfeatured    : "arup.jpg"
+assetsfolder   : "asb"
+imgfeatured    : "asb.jpg"
 imgtitletext   : "title goes here"
 imgalttext     : "This is an image of something"
-date           : 2015-02-22 16:57:05
+
+date           : 2015-02-21 16:57:05
 categories     : transformative-4
-publisher-name : BVN
+
 author-name    : Stella DeVulder
+author-twitter : stelladevulder
+author-facebook: "https://www.facebook.com/stella.devulder"
+
+summary        : |
+                  This is a multi-line string.
+                  special metacharacters may
+                  appear here. The extent of this string is indicated by indentation.
 ---
 ```
