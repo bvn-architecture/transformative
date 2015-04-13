@@ -148,6 +148,10 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+p {
+  font-weight: bold;
+  font-weight: 600; }
+
 /**
  * Site header
  */
