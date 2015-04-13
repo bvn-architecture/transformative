@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here.</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Apr 2015 20:05:51 +1000</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2015 20:05:51 +1000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2015 07:14:36 +1000</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2015 07:14:36 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -98,10 +98,7 @@ It was decided to develop a national strategy aimed at creating a new model for 
  To enable this high level of collaboration and community a highly flexible office module is used that is a 3m x 3m pavilion style, its sliding doors create complete acoustic privacy when closed , but when opened the corners of the office disappear into the wider workspace.  This pavilion is an important element in creating a transparent and visually connected workspace.
 Equally important is providing really great quality communal facilities with a library, connecting stair and relaxing coffee bays. This fits in very well with the client model that McCarthy Tetrault have been evolving that is less formal and allows people to mingle.  It is based on food and an open servery bar that is replenished with fresh buffet food throughout the day and makes food a part of every meeting.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* Team
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This is the team as a table&lt;/p&gt;
+&lt;h1 id=&quot;team&quot;&gt;Team&lt;/h1&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -173,80 +170,88 @@ Equally important is providing really great quality communal facilities with a l
       &lt;td&gt;Project Architect&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Consultant Team&lt;/th&gt;
+      &lt;th&gt;Company Name&lt;/th&gt;
+      &lt;th&gt;Role&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;Consultant Team&lt;/td&gt;
-      &lt;td&gt;Company Name&lt;/td&gt;
-      &lt;td&gt;Role&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Ninotschka Titchkosky&lt;/td&gt;
+      &lt;td&gt;Project Principal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Rod Allan&lt;/td&gt;
+      &lt;td&gt;Project Director&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Kylie Barker&lt;/td&gt;
+      &lt;td&gt;Project Architect&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Ninotschka Titchkosky&lt;/td&gt;
+      &lt;td&gt;Project Principal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Rod Allan&lt;/td&gt;
+      &lt;td&gt;Project Director&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Kylie Barker&lt;/td&gt;
+      &lt;td&gt;Project Architect&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Ninotschka Titchkosky&lt;/td&gt;
+      &lt;td&gt;Project Principal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Rod Allan&lt;/td&gt;
+      &lt;td&gt;Project Director&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Kylie Barker&lt;/td&gt;
+      &lt;td&gt;Project Architect&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Ninotschka Titchkosky&lt;/td&gt;
+      &lt;td&gt;Project Principal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Rod Allan&lt;/td&gt;
+      &lt;td&gt;Project Director&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Kylie Barker&lt;/td&gt;
+      &lt;td&gt;Project Architect&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-  &lt;tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
     &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Ninotschka Titchkosky&lt;/td&gt;
-      &lt;td&gt;Project Principal&lt;/td&gt;
+      &lt;th&gt;Contractor Team&lt;/th&gt;
+      &lt;th&gt;Company Name&lt;/th&gt;
+      &lt;th&gt;Role&lt;/th&gt;
     &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Rod Allan&lt;/td&gt;
-      &lt;td&gt;Project Director&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Kylie Barker&lt;/td&gt;
-      &lt;td&gt;Project Architect&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Ninotschka Titchkosky&lt;/td&gt;
-      &lt;td&gt;Project Principal&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Rod Allan&lt;/td&gt;
-      &lt;td&gt;Project Director&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Kylie Barker&lt;/td&gt;
-      &lt;td&gt;Project Architect&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Ninotschka Titchkosky&lt;/td&gt;
-      &lt;td&gt;Project Principal&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Rod Allan&lt;/td&gt;
-      &lt;td&gt;Project Director&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Kylie Barker&lt;/td&gt;
-      &lt;td&gt;Project Architect&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Ninotschka Titchkosky&lt;/td&gt;
-      &lt;td&gt;Project Principal&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Rod Allan&lt;/td&gt;
-      &lt;td&gt;Project Director&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Kylie Barker&lt;/td&gt;
-      &lt;td&gt;Project Architect&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Contractor Team&lt;/td&gt;
-      &lt;td&gt;Company Name&lt;/td&gt;
-      &lt;td&gt;Role&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
+  &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
