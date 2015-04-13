@@ -28,7 +28,7 @@ and
 ```
 
 #front matter#
-This is the current post front matter. 
+This is the current post front matter.
 ```
 ---
 layout         : post
