@@ -308,6 +308,11 @@ ul.very-small-nav-links {
   img {
       width: 100%;
       object-fit: cover;
+      &:hover{
+        -webkit-filter: grayscale(70%);
+        -moz-filter: grayscale(70%);
+        filter: grayscale(70%);
+      }
     }
   .post-number {
       position: absolute;
