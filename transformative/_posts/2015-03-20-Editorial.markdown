@@ -3,7 +3,7 @@ layout: post
 title:  "Changes in the workplace"
 tagline: "Editorial"
 imgfeatured: "http://lorempixel.com/640/480/abstract"
-date:   2015-02-20 16:57:01
+date:   2015-02-26 16:57:01
 categories: transformative-4
 publisher-name: BVN
 author-name: Stella DeVulder
