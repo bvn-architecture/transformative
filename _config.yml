@@ -8,6 +8,7 @@ twitter_username:   "architecturebvn"
 github_username:    "bvn-architecture"
 facebook-publisher: "https://www.facebook.com/pages/BVN-Architecture/131354776914013?fref=ts"
 publisher:          "BVN"
+publisher_website:  "http://bvn.com.au/"
 
 # Build settings
 markdown:     "kramdown"
