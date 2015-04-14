@@ -197,7 +197,7 @@ a{
   &:hover   {  text-decoration: none;}//The user mouses over a link.
   &:focus   { background-color: orange;}//The user clicks on a link.
   //&:active  { color: $emphasis-color;}//The user has clicked a link.
-  
+  .active   {color: $emphasis-color;}
 }-
 
 
