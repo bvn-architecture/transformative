@@ -160,7 +160,7 @@ p {
   padding-top: 1em;
   margin-bottom: 2em;
   position: fixed;
-  height: 5em;
+  height: 7em;
   background-color: rgba(29, 29, 29, 0.8);
   width: 100%;
   z-index: 1000;
@@ -317,11 +317,6 @@ nav .nav-links {
 
 .site-title {
   line-height: 90%; }
-
-.site-header {
-  border: 0;
-  padding-top: 1.7em;
-  margin-bottom: 2em; }
 
 ul.very-small-nav-links {
   position: absolute;
