@@ -60,7 +60,7 @@ layout: default
                             <img src="/transformative/assets/{{post.assetsfolder}}/{{post.imgfeatured}}"
                                  alt="{{post.imgalttext}}"
                                  title="{{post.imgtitletext}}">
-                            <div class="post-number">0{{forloop.index}}</div>
+                            <div class="post-number">0{{forloop.index | bump}}</div>
                         </div>
                         <h2>{{ post.title }}</h2>
                         <p>{{ post.tagline }}</p>
