@@ -194,10 +194,11 @@ blockquote{ font-size: 122.2222222222222%;}
 a{
   &:link    { color: $heading-color; text-decoration: underline;}//Unvisited link.
   &:visited { color: lighten( $heading-color, 10%);}//Visited links.
-  &:hover   { color: $emphasis-color; text-decoration: none;}//The user mouses over a link.
+  &:hover   {  text-decoration: none;}//The user mouses over a link.
   &:focus   { background-color: orange;}//The user clicks on a link.
   //&:active  { color: $emphasis-color;}//The user has clicked a link.
-}
+  
+}-
 
 
 img:hover {
