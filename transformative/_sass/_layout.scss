@@ -71,38 +71,6 @@ p {
 }
 
 
-
-/**
- * Page content
- */
-.page-content {
-    padding: $spacing-unit 0;
-}
-
-// .page-heading {
-//     font-size: 20px;
-// }
-
-.post-list {
-    margin-left: 0;
-    list-style: none;
-
-    > li {
-        margin-bottom: $spacing-unit;
-    }
-}
-
-.post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
-}
-
-.post-link {
-    display: block;
-}
-
-
-
 /**
  * Posts
  */
@@ -284,6 +252,7 @@ a.post-link {
 //post specific
 span.in-post-nav {
   margin-right: 1em;
+  display: inline-block;
 }
 p.in-post-nav {
   font-size: 110%;
