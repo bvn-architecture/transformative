@@ -1,12 +1,24 @@
 ---
-layout: post
-title:  "Changes in the workplace"
-tagline: "Editorial"
-imgfeatured: "http://lorempixel.com/640/480/abstract"
-date:   2015-02-26 16:57:01
-categories: transformative-4
-publisher-name: BVN
-author-name: Stella DeVulder
+layout         : post
+title          : "Changes in the workplace"
+tagline        : "Editorial"
+
+assetsfolder   : "asb"
+imgfeatured    : "asb.jpg"
+imgtitletext   : "title goes here"
+imgalttext     : "This is an image of something"
+
+date           : 2015-02-25 16:57:05
+categories     : transformative-4
+
+author-name    : Stella DeVulder
+author-twitter : stelladevulder
+author-facebook: "https://www.facebook.com/stella.devulder"
+
+summary        : |
+                  This is a multi-line string.
+                  special metacharacters may
+                  appear here. The extent of this string is indicated by indentation.
 ---
 
 A workplace that also transforms a city’s waterfront is a rarity.  The ASB North Wharf on Auckland’s harbor front is such a workplace and even rarer is its antecedence….
