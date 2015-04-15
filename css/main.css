@@ -71,15 +71,6 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
-a {
-  color: #2a7ae2;
-  text-decoration: none; }
-  a:visited {
-    color: #1756a9; }
-  a:hover {
-    color: #646464;
-    text-decoration: underline; }
-
 /**
  * Blockquotes
  */
@@ -162,7 +153,7 @@ p {
   height: 7em;
   background-color: rgba(29, 29, 29, 0.8);
   width: 100%;
-  z-index: 1000;
+  z-index: 900;
   text-transform: uppercase; }
 
 .site-title h2 {
@@ -284,17 +275,20 @@ blockquote {
   font-size: 88.88888888888889%;
   font-style: italic; }
 
-a:link {
+a {
   color: #b4b4b4;
   text-decoration: underline; }
-a:visited {
-  color: #cecece; }
-a:hover {
-  text-decoration: none; }
-a:focus {
-  background-color: orange; }
-a .active {
-  color: #967745; }
+  a:link {
+    color: #b4b4b4;
+    text-decoration: underline; }
+  a:visited {
+    color: #cecece; }
+  a:hover {
+    text-decoration: none; }
+  a:focus {
+    background-color: orange; }
+  a .active {
+    color: #967745; }
 
 img:hover {
   filter: brightness(0.9); }
@@ -420,7 +414,7 @@ p.in-post-nav {
   text-align: center;
   position: fixed;
   top: 4em;
-  z-index: 1500; }
+  z-index: 1000; }
 
 .nav-arrow {
   display: block;
