@@ -149,8 +149,7 @@ pre {
     fill: #828282; }
 
 p {
-  font-weight: bold;
-  font-weight: 600; }
+  font-family: "Blender-medium", "Blender", Arial, sans-serif; }
 
 /**
  * Site header
@@ -294,6 +293,8 @@ a:hover {
   text-decoration: none; }
 a:focus {
   background-color: orange; }
+a .active {
+  color: #967745; }
 
 img:hover {
   filter: brightness(0.9); }
