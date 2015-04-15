@@ -1,6 +1,7 @@
 p {
-  font-weight: bold;
-  font-weight: 600;
+  // font-weight: bold;
+  // font-weight: 600;
+  font-family: $medium-font-family;
 }
 
 /**
@@ -198,7 +199,7 @@ a{
   &:focus   { background-color: orange;}//The user clicks on a link.
   //&:active  { color: $emphasis-color;}//The user has clicked a link.
   .active   {color: $emphasis-color;}
-}-
+}
 
 
 img:hover {
