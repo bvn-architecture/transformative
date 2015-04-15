@@ -253,6 +253,7 @@ a.post-link {
 span.in-post-nav {
   margin-right: 1em;
   display: inline-block;
+  a.this-page{color: $emphasis-color;}
 }
 p.in-post-nav {
   font-size: 110%;
