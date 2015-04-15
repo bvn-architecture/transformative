@@ -13,7 +13,7 @@ layout: default
         {% assign post = site.posts.first %}
         <span class="in-post-nav"><a href="{{ post.url | prepend: site.baseurl }}" {% if page.url == post.url %}class="this-page"{% endif %}>{{ post.title }}</a></span>
         {% for post in site.posts offset:1 %}
-        <span class="in-post-nav">0{{forloop.index}}.<!--zero padding is a dirty hack!--> <a href="{{ post.url | prepend: site.baseurl }}" {% if page.url == post.url %}class="this-page"{% endif %}>{{ post.title }}</a></span>
+        <span class="in-post-nav">{{forloop.index | pad}}. <a href="{{ post.url | prepend: site.baseurl }}" {% if page.url == post.url %}class="this-page"{% endif %}>{{ post.title }}</a></span>
         {% endfor %}</p>
 
         <header class="post-header">
