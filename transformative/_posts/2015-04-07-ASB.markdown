@@ -40,20 +40,28 @@ summary        : |
     ASB North Wharf is an international benchmark in sustainable building that provides a head office for ASB Bank with a workplace that places staff wellbeing at the forefront.” James Grose
 {% endquote %}
 
-Awards
-2014 IDEA High Commendation International category
-2014 WAF High Commendation Office Buildings
-2014 RAIA Interior Architecture Award in the International category
-2014 Supreme Award - Property Council New Zealand Rider Levett Bucknall Property Industry Awards
-2014 Property Council New Zealand - Hays Commercial Office Property Award
-2014 Property Council New Zealand - merit in Resene Green Building Property Award
-2014 New Zealand Commercial Project Awards - Gold Award
-2014 NZIA Architecture Medal
-2014 NZIA Architecture Award - Interior Architecture
-2014 NZIA Architecture Award - Commercial Architecture
-2014 NZIA Architecture Award - Sustainable Architecture
-2014 NZIA Auckland Architecture Award - Sustainable Architecture
+{% gallery { "dummy" : "dummy"} %}
+    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="picture 1" %}
+    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic 2" %}
+    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic 3" %}
+{% endgallery %}
 
+## Awards ##
+
+ * 2014 IDEA High Commendation International category
+ * 2014 WAF High Commendation Office Buildings
+ * 2014 RAIA Interior Architecture Award in the International category
+ * 2014 Supreme Award - Property Council New Zealand Rider Levett Bucknall Property Industry Awards
+ * 2014 Property Council New Zealand - Hays Commercial Office Property Award
+ * 2014 Property Council New Zealand - merit in Resene Green Building Property Award
+ * 2014 New Zealand Commercial Project Awards - Gold Award
+ * 2014 NZIA Architecture Medal
+ * 2014 NZIA Architecture Award - Interior Architecture
+ * 2014 NZIA Architecture Award - Commercial Architecture
+ * 2014 NZIA Architecture Award - Sustainable Architecture
+ * 2014 NZIA Auckland Architecture Award - Sustainable Architecture
+
+{% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="An unsual picture" %}
 
 ## The architecture of ASB North Wharf ##
 
@@ -100,20 +108,16 @@ All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourh
 The void shifts on each floorplate to reveal internal views, bring daylight deep within and to express structure and services. The overall workplace impression is of a dynamic and democratic environment with a strong sense of community.
 
 
+{% vimeo 107651238 %}
 
-{% vimeo 107651238 %}  - ASB North Wharf with Barbara Chapman
+ASB North Wharf with Barbara Chapman
 
-{% vimeo 107651239 %} - ASB workplace with Barbara Chapman
+{% vimeo 107651239 %}
 
-{% vimeo 107651240 %}- Workplace is a cultural phenomen with James
+ASB workplace with Barbara Chapman
 
-http://bit.ly/1i71rpm - link to Google plus page that has tour of ASB North Wharf downloaded 13 November 2013
+{% vimeo 107651240 %}
 
+Workplace is a cultural phenomen with James
 
-
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[Google plus page](http://bit.ly/1i71rpm) that has tour of ASB North Wharf downloaded 13 November 2013

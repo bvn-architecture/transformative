@@ -12,50 +12,29 @@ class Gallery < Liquid::Block
 
   def render(context)
     # person = "<span class=\"person\">#{@x["person"]}</span>" if @x["person"]
-    # source = ", <cite>#{@x["source"]}</cite>"                if @x["source"]
-    # date   = " <span class=\"date\">(#{@x["date"]})</span>"  if @x["date"]
-    # "#{super}".each_line {|line| puts line}
-
+    newpics = []
+    "#{super}".split("<picture>").each {|pic| newpics.push("<picture>"<<pic)}
 
     gallery_markup ="" +
 "<div id='gallery' class='carousel slide' data-ride='carousel'>
-  <!-- Indicators -->
-  <ol class='carousel-indicators'>
-      <li data-target='#gallery' data-slide-to='0' class='active'></li>
-      <li data-target='#gallery' data-slide-to='1'></li>
-      <li data-target='#gallery' data-slide-to='2'></li>
-  </ol>
-  <!-- Wrapper for slides -->"
+<!--indicators were in here-->
+  <div class='carousel-inner' role='listbox'>"
+
     flag = true
-    "#{super}".each_line {|full_size_image, index|
-      unless full_size_image == "\n"
+    newpics.each {|picture_element|
+      unless picture_element.strip.length < 10 #catches blank lines. An opening picture tag is 9 chars long.
         if flag
           flag = false
-        gallery_markup << "" +
-  "<div class='carousel-inner' role='listbox'>
-    <div class='item active'>
-        <img src='http://lorempixel.com/output/cats-q-c-640-480-8.jpg' alt='...'>
-        <div class='carousel-caption'>
-            cat "+full_size_image+"
-        </div>
-    </div>
-  </div>"
+          gallery_markup << "<div class='item active'>"+picture_element+"</div>"
         else
-          gallery_markup << "" +
-  "<div class='carousel-inner' role='listbox'>
-    <div class='item'>
-        <img src='http://lorempixel.com/output/cats-q-c-640-480-8.jpg' alt='...'>
-        <div class='carousel-caption'>
-            cat "+full_size_image+"
-        </div>
-    </div>
-  </div>"
+          gallery_markup << "<div class='item'>"+picture_element+"</div>"
         end
       end
     }
 
     gallery_markup << "" +
-"<!-- Controls -->
+"  </div><!-- carousel-inner -->
+<!-- Controls -->
   <a class='left carousel-control' href='#gallery' role='button' data-slide='prev'>
       <span class='glyphicon glyphicon-chevron-left' aria-hidden='true'></span>
       <span class='sr-only'>Previous</span>
@@ -65,6 +44,7 @@ class Gallery < Liquid::Block
       <span class='sr-only'>Next</span>
   </a>
 </div>"
+
     puts gallery_markup
     return gallery_markup
   end
