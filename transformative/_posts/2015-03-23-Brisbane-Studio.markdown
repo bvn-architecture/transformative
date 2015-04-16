@@ -54,5 +54,38 @@ Leo, Lucas
 Murphy, Kevin
 Newman, Kellie
 Tait, Phillip J
+
 Builders: Apollo – Leon Bowes
 Services:
+
+| ----------------- | ------------          | ----------------- |
+| Project Team      | Name                  | Title             |
+| ----------------- | ------------          | ----------------- |
+|                   | Ninotschka Titchkosky | Project Principal |
+|                   | Rod Allan             | Project Director  |
+|                   | Kylie Barker          | Project Architect |
+|                   | Ninotschka Titchkosky | Project Principal |
+|                   | Rod Allan             | Project Director  |
+|                   | Kylie Barker          | Project Architect |
+|                   | Ninotschka Titchkosky | Project Principal |
+|                   | Rod Allan             | Project Director  |
+|                   | Kylie Barker          | Project Architect |
+|                   | Ninotschka Titchkosky | Project Principal |
+|                   | Rod Allan             | Project Director  |
+|                   | Kylie Barker          | Project Architect |
+
+| ----------------- | ------------          | ----------------- |
+| Project Team      | Name                  | Title             |
+| ----------------- | ------------          | ----------------- |
+|                   | Ninotschka Titchkosky | Project Principal |
+|                   | Rod Allan             | Project Director  |
+|                   | Kylie Barker          | Project Architect |
+|                   | Ninotschka Titchkosky | Project Principal |
+|                   | Rod Allan             | Project Director  |
+|                   | Kylie Barker          | Project Architect |
+|                   | Ninotschka Titchkosky | Project Principal |
+|                   | Rod Allan             | Project Director  |
+|                   | Kylie Barker          | Project Architect |
+|                   | Ninotschka Titchkosky | Project Principal |
+|                   | Rod Allan             | Project Director  |
+|                   | Kylie Barker          | Project Architect |
