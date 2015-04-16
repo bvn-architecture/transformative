@@ -1,7 +1,7 @@
 # Site settings
 title:              "Transformative"
 email:              "ben_doherty@bvn.com.au"
-description:        "Write an awesome description for your new site here."
+description:        "Write an awesome description for your new site here. trigger"
 baseurl:            "/transformative" # the subpath of your site, e.g. /blog/
 url:                "http://bvn-architecture.github.io" # the base hostname & protocol for your site
 twitter_username:   "architecturebvn"
