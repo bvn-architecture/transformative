@@ -15,18 +15,17 @@ author-name    : Stella DeVulder
 author-twitter : stelladevulder
 author-facebook: "https://www.facebook.com/stella.devulder"
 
-summary        : |
+summary        : "workplace is no longer a clearly defined space."
                   This is a multi-line string.
                   special metacharacters may
                   appear here. The extent of this string is indicated by indentation.
 ---
 
-A workplace that also transforms a city’s waterfront is a rarity.  The ASB North Wharf on Auckland’s harbor front is such a workplace and even rarer is its antecedence….
+What is evident reviewing the stories in TRANSFORMATIVE since 2013 is how workplace is no longer a clearly defined space.  In this issue we look at the journey ASB took over 13 years across three different buildings to produce a workplace for collaboration, community and collegiality. 
 
-There is no paradigm for a legal workplace, smart lawyers are agile and responsive to client’s demands and as the Curmudgeon’s Guide to Practicing Law* notes “we make life easy for our clients;  that’s our business”.   The design challenge is to provide the physical spaces that can improve the client experience whilst enabling lawyers to focus on the legal details required to discharge successful cases. Architecture like law is constrained by rules, using those rules to the best advantage is the purpose of design.
+In contrast as least as far as size goes is the “Workshop” recently completed for ARUP in Sydney, that reconfigures a limited space into areas that can be altered in many different ways.  Our Brisbane studio was a lesson in reworking an 80s commercial floor layout into a 21st space backed by the latest technology enabling total flexibility. Currently under construction are new workplaces for one of Canada’s leading law firms who approached us when the managing partner visited Herbert Smith Freehills workplace in Sydney. 
 
-Exploring the latest thinking on legal workplaces from the perspective of the Partner we talk to David Wilkie, Partner with Allen & Overy and Phillip Rossington Principal of BVN Donovan Hill and Peter Dunne, Partner with Herbert Smith Freehills in Sydney.  The changing legal workplace is discussed in a conversation between Bill Dowzer and Ninotschka Titchkosky, both Principals of BVN Donovan Hill, Ninotschka also give us some insights into a flexible design component that was developed to meet a legal practice’s changing needs.  Dr Donna Wheatley’s paper on “Social Centrality” arose from research into different workplace models.
 
-Follow us on TWITTER @BVNDonovanHill or register (live link) so that we can share developments in the next generation workplace with you.
+Follow us on TWITTER @ArchitectureBVN or register (live link) so that we can share developments in the next generation workplace with you.
 
-*’The Curmudgeon’s Guide To Practicing Law’ Mark Hermann,
+
