@@ -260,6 +260,7 @@ span.in-post-nav {
   a.this-page{color: $emphasis-color;}
 }
 p.in-post-nav {
+  font-family: $base-font-family;
   font-size: 110%;
   text-align: center;
   position: fixed;
