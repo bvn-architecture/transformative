@@ -1,6 +1,7 @@
 ---
 layout         : post
 title          : "ASB"
+subtitle       : "Workplace As Workshop"
 tagline        : "In conversation"
 
 assetsfolder   : "asb"

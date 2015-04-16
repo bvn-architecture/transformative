@@ -28,12 +28,29 @@ and
 {% youtube 107651239 %}
 ```
 
+## images ##
+
+Using the [Jekyll Picture Tag](https://github.com/robwierzbowski/jekyll-picture-tag) to generate images and other picturey goodness.
+
+```
+ {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="picture 1" %}
+```
+Extending the picture tag into a carousel:
+
+```
+{% gallery { "dummy" : "dummy"} %}
+    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="picture 1" %}
+    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic 2" %}
+    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic 3" %}
+{% endgallery %}
+```
 #front matter#
 This is the current post front matter.
 ```
 ---
 layout         : post
 title          : "ASB"
+subtitle       : "Workplace As Workshop"
 tagline        : "In conversation"
 
 assetsfolder   : "asb"
@@ -41,7 +58,7 @@ imgfeatured    : "asb.jpg"
 imgtitletext   : "title goes here"
 imgalttext     : "This is an image of something"
 
-date           : 2015-02-21 16:57:05
+date           : 2015-02-25 16:57:05
 categories     : transformative-4
 
 author-name    : Stella DeVulder
