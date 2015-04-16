@@ -3,7 +3,7 @@ class Quote < Liquid::Block
 
   def initialize(tagName, markup, tokens)
     super
-    
+
     if markup.to_s == ''
       markup = "{\"dummy\":\"\"}"#I don't like this at all!
     end
