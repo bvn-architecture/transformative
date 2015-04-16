@@ -25,9 +25,9 @@ layout: default
                     {% picture {{post.assetsfolder}}/{{post.imgfeatured}} alt="{{post.imgalttext}}" title="{{post.imgtitletext}}" %}
                     <div class="post-number">01</div>
                 </div>
-                <h2>{{ post.title }}</h2>
+                <h2>{{ post.title }}</h2></a>
                 <p >{{ post.tagline }}</p>
-            </a>
+            
         </div>
         <div class="editorial
                     col-sm-pull-8
@@ -58,9 +58,9 @@ layout: default
                             {% picture {{post.assetsfolder}}/{{post.imgfeatured}} alt="{{post.imgalttext}}" title="{{post.imgtitletext}}" %}
                             <div class="post-number">{{forloop.index | bump | pad}}</div>
                         </div>
-                        <h2>{{ post.title }}</h2>
+                        <h2>{{ post.title }}</h2></a>
                         <p>{{ post.tagline }}</p>
-                    </a>
+                    
                 </li>
                 {% endfor %}
             </ul>
