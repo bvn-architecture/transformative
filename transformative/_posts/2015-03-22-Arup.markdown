@@ -1,11 +1,12 @@
 ---
 layout         : post
 title          : "Arup"
+subtitle       : "Workplace As Workshop"
 tagline        : "Workplace"
 
 assetsfolder   : "arup"
 imgfeatured    : "arup.jpg"
-imgtitletext   : "title goes here"
+imgtitletext   : "this is the arup pic"
 imgalttext     : "This is an image of something"
 date           : 2015-02-22 16:57:05
 categories     : transformative-4
