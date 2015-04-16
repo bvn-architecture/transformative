@@ -55,51 +55,30 @@ Equally important is providing really great quality communal facilities with a l
 | Project Team      | Name                  | Title             |
 | ----------------- | ------------          | ----------------- |
 |                   | Bill Dowzer | Project Principal |:sweat_drops:
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
+|                   | Andre Callanan          | Project Leader  |
+|                   | Elise Cuneo         | Project Team |
+|                   | Kate Bulley          | Project  Team|
+|                   | Marc Hine          | Project Team |
 
 
 | ----------------- | ------------          | ----------------- |
 | Consultant Team   | Company Name          | Role              |
 | ----------------- | ------------          | ----------------- |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
+|                   |Kasian | Local Architects |
+|                   | Brian Ballantyne Specifications           | Specification Writer  |
+|                   | Read Jones Christoffersen Ltd         | Structural Engineer |
+|                   | Integral Group | Mechanical and Hydraulic |
+|                   | Applied Engineering Solutions          | Electrical and Lighting Design |
+|                   | CFT Engineering        | Code Consultants |
+|                   | RWDI Air Inc. | Acoustic Consultants|
+|                   | Ital Interiors and Unifor           | Interiors |
+|                   | Brad Salter Designs Inc     | Kitchen Consultant |
+|                   | Turner Construction | Main Contractors |
 
 | ----------------- | ------------          | ----------------- |
 | Contractor Team   | Company Name          | Role              |
 | ----------------- | ------------          | ----------------- |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-| ----------------- | ------------          | ----------------- |
+----------------- | ------------          | ----------------- |
 
 Alternatively we can do it as a DL
 
