@@ -20,7 +20,7 @@ You can leave any of those JSON properties out, or leave the whole object out if
 ##Videos##
 
 ```
-{% vimeo 107651239 %}
+{% vimeo 107651239  %}
 ```
 and
 
