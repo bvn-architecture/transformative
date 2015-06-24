@@ -59,34 +59,4 @@ Tait, Phillip J
 Builders: Apollo – Leon Bowes
 Services:
 
-| ----------------- | ------------          | ----------------- |
-| Project Team      | Name                  | Title             |
-| ----------------- | ------------          | ----------------- |
-|                   |  Donovan, Brian | Project Principal |
-|                   | Flutter, Nick             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-
-| ----------------- | ------------          | ----------------- |
-| Project Team      | Name                  | Title             |
-| ----------------- | ------------          | ----------------- |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
+ 
