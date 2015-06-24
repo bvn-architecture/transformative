@@ -5,7 +5,7 @@ subtitle       : "Workplace As Workshop"
 tagline        : "Workplace"
 
 assetsfolder   : "arup"
-imgfeatured    : "arup.jpg"
+imgfeatured    : "arup_01.jpg"
 imgtitletext   : "this is the arup pic"
 imgalttext     : "This is an image of something"
 
@@ -23,6 +23,33 @@ summary        : |
 ---
 
 ARUP – WORKPLACE AS WORKSHOP
+
+
+{% gallery { "dummy" : "dummy"} %}
+    {% picture {{page.assetsfolder}}/arup_00.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_01.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_02.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_03.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_04.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_05.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_06.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_07.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_08.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_09.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_10.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_11.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_12.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_13.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_14.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_15.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_16.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_17.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_18.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_19.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_20.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_21.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/arup_22.jpg alt="" %}
+{% endgallery %}
 
 BVN were commissioned to work with Arup to create a pilot project that would allow the people in Arup to experience and experiment with new types of spaces that would inform their future move to a new building.
 BVN embraced the idea that an innovative engineering firm such as Arup needs more than just rectangular desks, computer screens and traditional meeting rooms.
