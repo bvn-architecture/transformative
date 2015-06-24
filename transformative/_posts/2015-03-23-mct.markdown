@@ -1,13 +1,13 @@
 ---
 layout         : post
 title          : "McCarthy Tetrault"
-subtitle       : "Workplace As Workshop"
+subtitle       : "changing Canada's legal workplaces"
 tagline        : "tagline"
 
 assetsfolder   : "mct"
 imgfeatured    : "mct.jpg"
-imgtitletext   : "title goes here"
-imgalttext     : "This is an image of something"
+imgtitletext   : "McCarthy Tetrault workplace"
+imgalttext     : "This is McCarthy Tetrault workplace"
 
 date           : 2015-02-24 16:57:05
 categories     : transformative-4
