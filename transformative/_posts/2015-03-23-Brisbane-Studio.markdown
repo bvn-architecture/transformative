@@ -25,10 +25,10 @@ BVN Brisbane Studio
 
 Pull grabs:
 
-“demonstrates our belief and commitment to re-use”
+{% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} this demonstrates our belief and commitment to re-use {% endquote %}
 
-“the 'design' of the space is primarily an organisational strategy”
-
+{% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} the 'design' of the space is primarily an organisational strategy {% endquote %}
+ 		 
 As the commercial tower typology continues to develop with each new tower built, owners of aging buildings are considering alternative and unique ways of occupying buildings to meet contemporary workplace needs. BVN’s fit out demonstrates an innovative new way of occupying these otherwise conventional spaces.
 
 Beyond the questions of representation, the refurbishment of a quality, but typical floor plate in a superb City location demonstrates our belief and commitment to re-use and the ability to derive identity from the latent qualities of the setting.
