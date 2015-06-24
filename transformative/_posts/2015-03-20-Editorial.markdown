@@ -1,12 +1,12 @@
 ---
 layout         : post
-title          : "Changes in the workplace"
-tagline        : "Editorial"
+title          : "Editorial"
+tagline        : "Overview of TRANSFORMATIVE 4"
 
 assetsfolder   : "asb"
 imgfeatured    : "asb.jpg"
-imgtitletext   : "title goes here"
-imgalttext     : "This is an image of something"
+imgtitletext   : "ASB workplace"
+imgalttext     : "This is an image of the ASB workplace"
 
 date           : 2015-02-25 16:57:05
 categories     : transformative-4
