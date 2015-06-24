@@ -18,6 +18,7 @@ author-facebook: "https://www.facebook.com/stella.devulder"
 summary        : |
                 "workplace is no longer a clearly defined space."
 ---
+Editorial
 
 What is evident reviewing the stories in TRANSFORMATIVE since 2013 is how workplace is no longer a clearly defined space.  In this issue we look at the journey ASB took over 13 years across three different buildings to produce a workplace for collaboration, community and collegiality. 
 
