@@ -1,13 +1,13 @@
 ---
 layout         : post
 title          : "ASB"
-subtitle       : "Workplace As Workshop"
-tagline        : "In conversation"
+subtitle       : "The Architecture of ASB North Wharf"
+tagline        : "ASB HQ Auckland, New Zealand"
 
 assetsfolder   : "asb"
 imgfeatured    : "asb.jpg"
-imgtitletext   : "title goes here"
-imgalttext     : "This is an image of something"
+imgtitletext   : "ASB North Wharf"
+imgalttext     : "This is ASB North Wharf Auckland seen across the water"
 
 date           : 2015-02-25 16:57:05
 categories     : transformative-4
@@ -102,9 +102,13 @@ The urban master plan for the Wynyard Quarter calls for two lanes connecting the
 
 ## ASB North Wharf workplace ##
 
-The workplace fit out is semlessly integrated with the base building, also designed by BVN, through Building Information Modelling (BIM).  Designed on Activities Based Working (ABW) principles, there are 84 work-points for every 100 staff, with a series of themes ‘neighbourhoods’ and major shared spaces for a variety of self-motivated work types – called ‘boathouses’.  The boathouses are inspired by local considerations and include” The City, The Deck, Rangitoto and The Containers.  These spaces are located on level 3 and level 7, either side of the neighbourhood floors.
+{% quote { "person" : "Joe Rollo",  "source" : "ar140 Architectural Review Asia Pacific", "date" : "June-July 2015"  } %} 
+But it is the interior workspaces that impress.
+{% endquote %}
 
-All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourhood retains a unique identity through planning variations and colour schem.  Within the spaces are collaboration pods – rooms and furniture settings that repeat throughout the workplace, but take different positions and finishes in each neighbourhood.
+The workplace fit out is seamlessly integrated with the base building, also designed by BVN, through Building Information Modelling (BIM).  Designed on Activities Based Working (ABW) principles, there are 84 work-points for every 100 staff, with a series of themes ‘neighbourhoods’ and major shared spaces for a variety of self-motivated work types – called ‘boathouses’.  The boathouses are inspired by local considerations and include The City, The Deck, Rangitoto and The Containers.  These spaces are located on level 3 and level 7, either side of the neighbourhood floors.
+
+All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourhood retains a unique identity through planning variations and colour scheme.  Within the spaces are collaboration pods – rooms and furniture settings that repeat throughout the workplace, but take different positions and finishes in each neighbourhood.
 
 The void shifts on each floorplate to reveal internal views, bring daylight deep within and to express structure and services. The overall workplace impression is of a dynamic and democratic environment with a strong sense of community.
 
@@ -119,6 +123,6 @@ ASB workplace with Barbara Chapman
 
 {% vimeo 107651240 %}
 
-Workplace is a cultural phenomen with James
+Workplace is a cultural phenomenon with James
 
 [Google plus page](http://bit.ly/1i71rpm) that has tour of ASB North Wharf downloaded 13 November 2013
