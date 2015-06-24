@@ -1,13 +1,13 @@
 ---
 layout:         post
 title:          "Kat Martindale"
-subtitle       : "Workplace As Workshop"
+subtitle       : "BVN Research Director"
 tagline:        "tagline"
 
 assetsfolder:   "kat"
-imgfeatured:    "kat-martingdale.jpg"
-imgtitletext:   "title goes here"
-imgalttext:     "This is an image of something"
+imgfeatured:    "kat-martindale.jpg"
+imgtitletext:   "Kat Martindale"
+imgalttext:     "This is BVN Research Director Kat Martindale"
 
 date:           2015-02-22 16:57:05
 categories:     transformative-4
