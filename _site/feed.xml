@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jun 2015 13:54:19 +1000</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2015 13:54:19 +1000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2015 13:57:39 +1000</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2015 13:57:39 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -33,9 +33,9 @@
 
 &lt;p&gt;Pull grabs:&lt;/p&gt;
 
-&lt;p&gt;“demonstrates our belief and commitment to re-use”&lt;/p&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt; this demonstrates our belief and commitment to re-use &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Donovan&lt;/span&gt;, &lt;cite&gt;&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;()&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;“the ‘design’ of the space is primarily an organisational strategy”&lt;/p&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt; the &#39;design&#39; of the space is primarily an organisational strategy &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Donovan&lt;/span&gt;, &lt;cite&gt;&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;()&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;As the commercial tower typology continues to develop with each new tower built, owners of aging buildings are considering alternative and unique ways of occupying buildings to meet contemporary workplace needs. BVN’s fit out demonstrates an innovative new way of occupying these otherwise conventional spaces.&lt;/p&gt;
 
