@@ -25,9 +25,10 @@ BVN Brisbane Studio
 
 Pull grabs:
 
-“demonstrates our belief and commitment to re-use”
+{% quote %} this demonstrates our belief and commitment to re-use Brian Donovan {% endquote %}
 
-“the 'design' of the space is primarily an organisational strategy”
+
+{% quote %}the 'design' of the space is primarily an organisational strategy Brian Donovan  {% endquote %}
 
 As the commercial tower typology continues to develop with each new tower built, owners of aging buildings are considering alternative and unique ways of occupying buildings to meet contemporary workplace needs. BVN’s fit out demonstrates an innovative new way of occupying these otherwise conventional spaces.
 
@@ -57,36 +58,4 @@ Newman, Kellie
 Tait, Phillip J
 
 Builders: Apollo – Leon Bowes
-Services:
 
-| ----------------- | ------------          | ----------------- |
-| Project Team      | Name                  | Title             |
-| ----------------- | ------------          | ----------------- |
-|                   |  Donovan, Brian | Project Principal |
-|                   | Flutter, Nick             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-
-| ----------------- | ------------          | ----------------- |
-| Project Team      | Name                  | Title             |
-| ----------------- | ------------          | ----------------- |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
-|                   | Ninotschka Titchkosky | Project Principal |
-|                   | Rod Allan             | Project Director  |
-|                   | Kylie Barker          | Project Architect |
