@@ -1,7 +1,7 @@
 ---
 layout         : post
 title          : "Brisbane Studio"
-subtitle       : "Workplace As Workshop"
+subtitle       : "Reusing an old space"
 tagline        : "Workplace"
 
 assetsfolder   : "Brisbanestudio"
