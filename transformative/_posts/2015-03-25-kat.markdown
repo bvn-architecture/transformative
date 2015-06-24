@@ -2,7 +2,7 @@
 layout:         post
 title:          "Kat Martindale"
 subtitle       : "BVN Research Director"
-tagline:        "tagline"
+tagline:        "new Director"
 
 assetsfolder:   "kat"
 imgfeatured:    "kat-martindale.jpg"
