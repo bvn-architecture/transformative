@@ -6,8 +6,8 @@ tagline        : "Workplace"
 
 assetsfolder   : "arup"
 imgfeatured    : "arup.jpg"
-imgtitletext   : "this is the arup pic"
-imgalttext     : "This is an image of something"
+imgtitletext   : "Arup workplace"
+imgalttext     : "This is the Arup workplace"
 
 date           : 2015-02-22 16:57:05
 categories     : transformative-4
@@ -21,6 +21,9 @@ summary        : |
                   special metacharacters may
                   appear here. The extent of this string is indicated by indentation.
 ---
+{% quote { "person"  } %}
+The Workshop recalibrate the notion of a place at the centre of everything, Ninotschka Titchkosky
+{% endquote %}
 
 ARUP – WORKPLACE AS WORKSHOP
 
