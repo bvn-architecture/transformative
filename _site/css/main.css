@@ -280,11 +280,18 @@ img:hover {
   .editorial .post-picture {
     display: none; }
   .editorial p {
-    color: #636363; }
+    color: #636363;
+    font-size: 111%;
+    line-height: 120%; }
+  .editorial h2 {
+    margin: 0; }
+
+.editorial p.tagline {
+  font-size: 88%; }
 
 .project-stories p {
   margin: 0;
-  font-size: 120%; }
+  font-size: 111%; }
 
 .primary-story {
   padding-left: 30px;
@@ -296,7 +303,8 @@ img:hover {
   height: 185px; }
 
 .primary-story h2, .secondary-story h2 {
-  margin: 0; }
+  margin: 0;
+  margin-top: 0.4em; }
 
 .post-picture {
   position: relative; }
@@ -533,6 +541,9 @@ th {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+figure.quote blockquote {
+  font-family: "Blender-medium", "Blender", Arial, sans-serif; }
 
 header.site-header {
   border: 0;

@@ -9,7 +9,7 @@ imgfeatured    : "asb.jpg"
 imgtitletext   : "Events Terrace"
 imgalttext     : "an image of public space in studio"
 
-date           : 2015-02-25 16:57:05
+date           : 2015-06-03 00:00:00
 categories     : transformative-4
 
 author-name    : Stella DeVulder

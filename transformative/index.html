@@ -26,7 +26,7 @@ layout: default
                     <div class="post-number">01</div>
                 </div>
                 <h2>{{ post.title }}</h2></a>
-                <p >{{ post.tagline }}</p>
+                <p class="tagline">{{ post.tagline }}</p>
             
         </div>
         <div class="editorial
@@ -36,7 +36,8 @@ layout: default
                     col-md-2">
             {% assign post = site.posts.first %}
             <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-            {{post.content | truncate: 350 }}
+            <p class="tagline">{{ post.tagline }}</p>
+            {{post.content | truncate: 200 }}
         </div>
     </div>
 
@@ -59,7 +60,7 @@ layout: default
                             <div class="post-number">{{forloop.index | bump | pad}}</div>
                         </div>
                         <h2>{{ post.title }}</h2></a>
-                        <p>{{ post.tagline }}</p>
+                        <p class="tagline">{{ post.tagline }}</p>
                     
                 </li>
                 {% endfor %}

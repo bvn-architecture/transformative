@@ -9,7 +9,7 @@ imgfeatured:    "kat-martindale.jpg"
 imgtitletext:   "Kat Martindale"
 imgalttext:     "This is BVN Research Director Kat Martindale"
 
-date:           2015-02-22 16:57:05
+date:           2015-06-02 00:00:00
 categories:     transformative-4
 
 author-name    : Stella DeVulder

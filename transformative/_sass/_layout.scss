@@ -185,12 +185,19 @@ img:hover {
   height: 370px;
   margin-bottom: 3em;
   .post-picture{display: none;}
-  p{color: rgba(99,99,99,1);}
+  p{
+    color: rgba(99,99,99,1);
+    font-size: 111%;
+    line-height: 120%;
+  }
+  h2{margin: 0;}
 }
+.editorial p.tagline { font-size: 88%; }
+
 .project-stories {
   p {
     margin: 0;
-    font-size: 120%;
+    font-size: 111%;
   }
 }
 
@@ -206,6 +213,7 @@ img:hover {
 }
 .primary-story h2, .secondary-story h2 {
   margin: 0;
+  margin-top: 0.4em;
 }
 
 .post-picture {
