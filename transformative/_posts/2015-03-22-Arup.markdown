@@ -8,7 +8,7 @@ assetsfolder   : "arup"
 
 imgfeatured    : "arup_01.jpg"
 imgtitletext   : "Arup workplace"
-imgalttext     : "This is the Arup workplace"
+img_alt_text     : "This is the Arup workplace"
 
 date           : 2015-06-01 00:00:00
 categories     : transformative-4

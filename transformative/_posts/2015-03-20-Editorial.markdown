@@ -1,12 +1,13 @@
 ---
 layout         : post
-title          :"Overview"
-tagline        :"Editorial"
+title          : "Overview"
+subtitle       : "I'm an editorial"
+tagline        : "Editorial"
 
 assetsfolder   : "asb"
 imgfeatured    : "asb.jpg"
 imgtitletext   : "ASB workplace"
-imgalttext     : "This is an image of the ASB workplace"
+img_alt_text     : "This is an image of the ASB workplace"
 
 date           : 2015-06-06 00:00:00
 categories     : transformative-4

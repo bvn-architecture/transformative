@@ -45,7 +45,7 @@ class Gallery < Liquid::Block
   </a>
 </div>"
 
-    puts gallery_markup
+    #puts gallery_markup
     return gallery_markup
   end
 

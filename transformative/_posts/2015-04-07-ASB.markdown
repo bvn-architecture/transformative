@@ -7,7 +7,7 @@ tagline        : "The Architecture of ASB North Wharf"
 assetsfolder   : "asb"
 imgfeatured    : "asb.jpg"
 imgtitletext   : "ASB North Wharf"
-imgalttext     : "This is ASB North Wharf Auckland seen across the water"
+img_alt_text     : "This is ASB North Wharf Auckland seen across the water"
 
 date           : 2015-06-05 00:00:00
 categories     : transformative-4

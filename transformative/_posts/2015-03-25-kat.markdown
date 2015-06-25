@@ -1,13 +1,13 @@
 ---
 layout:         post
 title:          "Kat Martindale"
-subtitle       : "BVN Research Director"
+subtitle:       "BVN Research Director"
 tagline:        "New Research Director"
 
 assetsfolder:   "kat"
 imgfeatured:    "kat-martindale.jpg"
 imgtitletext:   "Kat Martindale"
-imgalttext:     "This is BVN Research Director Kat Martindale"
+img_alt_text:     "This is BVN Research Director Kat Martindale"
 
 date:           2015-06-02 00:00:00
 categories:     transformative-4

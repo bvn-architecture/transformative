@@ -7,7 +7,7 @@ tagline        : "A 1980's interior transformed"
 assetsfolder   : "brisbanestudio"
 imgfeatured    : "OHB0005_N44_medium.jpg"
 imgtitletext   : "Events Terrace"
-imgalttext     : "an image of public space in studio"
+img_alt_text     : "an image of public space in studio"
 
 date           : 2015-06-03 00:00:00
 categories     : transformative-4
