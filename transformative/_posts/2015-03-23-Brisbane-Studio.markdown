@@ -5,7 +5,7 @@ subtitle       : "Reusing an old space"
 tagline        : "A 1980's interior transformed"
 
 assetsfolder   : "Brisbane Studio"
-imgfeatured    : "asb.jpg"
+imgfeatured    : "OHB0005_N44_medium.jpg"
 imgtitletext   : "Events Terrace"
 imgalttext     : "an image of public space in studio"
 
