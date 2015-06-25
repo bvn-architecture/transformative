@@ -1,8 +1,8 @@
 ---
 layout         : post
 title          : "ASB"
-subtitle       : "The Architecture of ASB North Wharf"
-tagline        : "ASB HQ Auckland, New Zealand"
+subtitle       : "ASB HQ Auckland, New Zealand" 
+tagline        : "The Architecture of ASB North Wharf"
 
 assetsfolder   : "asb"
 imgfeatured    : "asb.jpg"
@@ -46,21 +46,6 @@ summary        : |
     {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic 2" %}
     {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic 3" %}
 {% endgallery %}
-
-## Awards ##
-
- * 2014 IDEA High Commendation International category
- * 2014 WAF High Commendation Office Buildings
- * 2014 RAIA Interior Architecture Award in the International category
- * 2014 Supreme Award - Property Council New Zealand Rider Levett Bucknall Property Industry Awards
- * 2014 Property Council New Zealand - Hays Commercial Office Property Award
- * 2014 Property Council New Zealand - merit in Resene Green Building Property Award
- * 2014 New Zealand Commercial Project Awards - Gold Award
- * 2014 NZIA Architecture Medal
- * 2014 NZIA Architecture Award - Interior Architecture
- * 2014 NZIA Architecture Award - Commercial Architecture
- * 2014 NZIA Architecture Award - Sustainable Architecture
- * 2014 NZIA Auckland Architecture Award - Sustainable Architecture
 
 {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="An unsual picture" %}
 
@@ -126,3 +111,18 @@ ASB workplace with Barbara Chapman
 Workplace is a cultural phenomenon with James
 
 [Google plus page](http://bit.ly/1i71rpm) that has tour of ASB North Wharf downloaded 13 November 2013
+
+## Awards ##
+
+ * 2014 IDEA High Commendation International category
+ * 2014 WAF High Commendation Office Buildings
+ * 2014 RAIA Interior Architecture Award in the International category
+ * 2014 Supreme Award - Property Council New Zealand Rider Levett Bucknall Property Industry Awards
+ * 2014 Property Council New Zealand - Hays Commercial Office Property Award
+ * 2014 Property Council New Zealand - merit in Resene Green Building Property Award
+ * 2014 New Zealand Commercial Project Awards - Gold Award
+ * 2014 NZIA Architecture Medal
+ * 2014 NZIA Architecture Award - Interior Architecture
+ * 2014 NZIA Architecture Award - Commercial Architecture
+ * 2014 NZIA Architecture Award - Sustainable Architecture
+ * 2014 NZIA Auckland Architecture Award - Sustainable Architecture
