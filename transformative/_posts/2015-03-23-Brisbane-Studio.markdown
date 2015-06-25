@@ -4,12 +4,12 @@ title          : "Brisbane Studio"
 subtitle       : "Reusing an old space"
 tagline        : "A 1980's interior transformed"
 
-assetsfolder   : "Brisbane Studio"
+assetsfolder   : "brisbanestudio"
 imgfeatured    : "OHB0005_N44_medium.jpg"
 imgtitletext   : "Events Terrace"
 imgalttext     : "an image of public space in studio"
 
-date           : 2015-02-25 16:57:05
+date           : 2015-06-03 00:00:00
 categories     : transformative-4
 
 author-name    : Stella DeVulder

@@ -9,7 +9,7 @@ imgfeatured    : "mct.jpg"
 imgtitletext   : "McCarthy Tetrault workplace"
 imgalttext     : "This is McCarthy Tetrault workplace"
 
-date           : 2015-02-24 16:57:05
+date           : 2015-06-04 00:00:00
 categories     : transformative-4
 
 author-name    : Stella DeVulder

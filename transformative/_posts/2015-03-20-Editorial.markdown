@@ -8,7 +8,7 @@ imgfeatured    : "asb.jpg"
 imgtitletext   : "ASB workplace"
 imgalttext     : "This is an image of the ASB workplace"
 
-date           : 2015-02-25 16:57:05
+date           : 2015-06-06 00:00:00
 categories     : transformative-4
 
 author-name    : Stella DeVulder
