@@ -22,8 +22,8 @@ summary        : |
                   special metacharacters may
                   appear here. The extent of this string is indicated by indentation.
 ---
-{% quote { "person"  } %}
-The Workshop recalibrate the notion of a place at the centre of everything, Ninotschka Titchkosky
+{% quote { "person" : "Ninotschka Titchkosky", "source" : "", "date" : ""  } %}
+The Workshop recalibrate the notion of a place at the centre of everything 
 {% endquote %}
 
 ARUP – WORKPLACE AS WORKSHOP
