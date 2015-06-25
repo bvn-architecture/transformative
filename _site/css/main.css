@@ -56,11 +56,14 @@ figcaption {
  * Lists
  */
 ul, ol {
+  font-family: "Blender-medium", "Blender", Arial, sans-serif;
   margin-left: 30px; }
 
-li > ul,
-li > ol {
-  margin-bottom: 0; }
+li {
+  list-style-type: disc; }
+  li > ul,
+  li > ol {
+    margin-bottom: 0; }
 
 /**
  * Headings
