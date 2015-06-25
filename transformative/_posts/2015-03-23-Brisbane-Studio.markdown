@@ -2,9 +2,9 @@
 layout         : post
 title          : "Brisbane Studio"
 subtitle       : "Reusing an old space"
-tagline        : "Workplace"
+tagline        : "A 1980's interior transformed"
 
-assetsfolder   : "Brisbanestudio"
+assetsfolder   : "Brisbane Studio"
 imgfeatured    : "asb.jpg"
 imgtitletext   : "Events Terrace"
 imgalttext     : "an image of public space in studio"

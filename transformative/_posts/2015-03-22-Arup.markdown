@@ -2,7 +2,7 @@
 layout         : post
 title          : "Arup"
 subtitle       : "Workplace As Workshop"
-tagline        : "Workplace"
+tagline        : "A pilot model workplace"
 
 assetsfolder   : "arup"
 
@@ -23,7 +23,7 @@ summary        : |
                   appear here. The extent of this string is indicated by indentation.
 ---
 {% quote { "person" : "Ninotschka Titchkosky", "source" : "", "date" : ""  } %}
-The Workshop recalibrate the notion of a place at the centre of everything 
+The Workshop recalibrates the notion of a place at the centre of everything 
 {% endquote %}
 
 ARUP – WORKPLACE AS WORKSHOP

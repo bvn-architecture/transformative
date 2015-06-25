@@ -27,7 +27,7 @@ C:Drive is a multi-use centre tenanted by ASB Bank Ltd. The building, designed i
 * create a point of difference within the marketplace; and
 * create a special place to work.
 
-The developer, client/tenant and designer needed to look beyond the ’square box’ to achieve and endorse the final design outcomes to exceed the project focus, bringing innovative thinking into the New Zealand office market workplace.
+The developer, client/tenant and designer needed to look beyond the ’square box’ to achieve and endorse the final design outcomes to exceed the project focus and bring innovative thinking into the New Zealand office market workplace.
 This innovative design process of bringing the key decision makers together to challenge the traditional space planning concepts started by reviewing the individual workplace and desking system - taking a non-traditional approach to building design and interior design by starting from the inside-out. The building is designed, and interior planning completed, to meet job functionality. In terms of space efficiency, the current workplace workstation layout betters contemporary market ratios.
 
 Project Team	Name	Title
