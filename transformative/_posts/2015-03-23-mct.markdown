@@ -2,7 +2,7 @@
 layout         : post
 title          : "McCarthy Tetrault"
 subtitle       : "changing Canada's legal workplaces"
-tagline        : "tagline"
+tagline        : "A big change for Canada's legal workplaces"
 
 assetsfolder   : "mct"
 imgfeatured    : "mct.jpg"
@@ -23,6 +23,7 @@ summary        : |
 ---
 
 McCarthy Tetrault
+
 This project came out of a visit to Sydney by Marc Andre Blanchard, CEO of McCarthy Tetrault where he attended a meeting in the new Herbert Smith Freehills office.  He remarked on the different spaces and configurations of areas and asked to meet with the Principal responsible for the design Bill Dowzer.  Following that meeting Tracie Cookes, COO of McCarthy Tetrault visited and asked BVN to submit a project for their expanding operation in Canada.
 It was decided to develop a national strategy aimed at creating a new model for work based on five principles:
 
