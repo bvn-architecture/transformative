@@ -1,7 +1,7 @@
 ---
 layout         : post
-title          : "Editorial"
-tagline        : "Overview of TRANSFORMATIVE 4"
+title          :"Overview"
+tagline        :"Editorial"
 
 assetsfolder   : "asb"
 imgfeatured    : "asb.jpg"
