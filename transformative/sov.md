@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sovreign House"
+title: "Sovereign House"
 permalink: /sov/
 ---
 Location: Auckland, New Zealand
