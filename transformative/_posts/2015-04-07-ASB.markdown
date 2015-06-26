@@ -5,7 +5,7 @@ subtitle       : "ASB HQ Auckland, New Zealand"
 tagline        : "The Architecture of ASB North Wharf"
 
 assetsfolder   : "asb"
-imgfeatured    : "asb.jpg"
+imgfeatured    : "asb-N66.jpg"
 imgtitletext   : "ASB North Wharf"
 img_alt_text     : "This is ASB North Wharf Auckland seen across the water"
 
@@ -21,9 +21,6 @@ summary        : |
                   special metacharacters may
                   appear here. The extent of this string is indicated by indentation.
 ---
-{% picture {{page.assetsfolder}}/asb-N66.jpg alt="" %}
-This is an image caption, the .caption bit on the next line is important
-{: .caption}
 
 {% vimeo 107651238 %}
 This is an image caption, the .caption bit on the next line is important
