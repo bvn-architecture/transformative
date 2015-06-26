@@ -84,11 +84,15 @@ Other elements of the building compositionally elaborate the broad cultural and 
 
 The other major compositional element of the building is the reflector, which sits upon the cone. The reflector has a functional purpose to reflect light down through the glass-roofed cone to enhance the daylight quality of the interior. But its emblematic quality is physical – to symbolize a “place” that marks the junction between land and sea, that points enigmatically to the sea and that expresses a dynamic spirit - not just of the community of people inside the building but a greater sense of dynamism between man and nature.
 
+(insert S0910004 N60 pic)
+
 ## ASB North Wharf and the public realm ##
 
 A defining characteristic of ASB North Wharf is its unparalleled commitment to the public realm. The development is located in the Wynyard Quarter, a new urban regeneration area for Auckland, fast becoming the new centre of Auckland. Its primary public space extends the Viaduct westward to the former Tank Farm.
 
 The urban master plan for the Wynyard Quarter calls for two lanes connecting the waterfront in a north south direction through the ASB North Wharf site. The North Wharf building respects these lanes and expands on their urban intention to produce a highly accessible public realm that transforms a hitherto opaque commercial precinct into a porous and connected 24-hour accessible public space.
+
+(insert S0910004 N80)
 
 ## ASB North Wharf workplace ##
 
@@ -101,7 +105,6 @@ The workplace fit out is seamlessly integrated with the base building, also desi
 All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourhood retains a unique identity through planning variations and colour scheme.  Within the spaces are collaboration pods – rooms and furniture settings that repeat throughout the workplace, but take different positions and finishes in each neighbourhood.
 
 The void shifts on each floorplate to reveal internal views, bring daylight deep within and to express structure and services. The overall workplace impression is of a dynamic and democratic environment with a strong sense of community.
-
 
 {% vimeo 107651239 %}
 
