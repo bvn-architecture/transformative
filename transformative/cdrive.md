@@ -1,9 +1,32 @@
 ---
 layout: page
 title: "C Drive"
+subtitle : "" 
+tagline : ""
+
 permalink: /cdrive/
+
+assetsfolder : "cdrive"
+imgfeatured : "cdrive-N1.jpg"
+imgtitletext : ""
+img_alt_text : ""
+
+date  : 2015-06-05 00:00:00
+categories : transformative-4
+
+author-name : Stella DeVulder
+author-twitter : stelladevulder
+author-facebook: "https://www.facebook.com/stella.devulder"
+
+summary : |
+   This is a multi-line string.
+   special metacharacters may
+   appear here. The extent of this string is indicated by indentation.
 ---
-(insert S010421_N39)
+
+{% picture {{page.assetsfolder}}/cdrive-N2.jpg alt="An unsual picture" %}
+This image should be N39, but it's missing
+{: .caption}
 
 C-Drive, ASB Bank
 
@@ -11,63 +34,45 @@ Location Auckland, New Zealand
 Completed 2002
 Client ASB Bank
 
-(insert S010421_N1
-S010421_N2
-S010421_N4
-S010421_N6
-S010421_N10
-S010421_N11
-S010421_N13
-S010421_N14
-S010421_N15
-S010421_N16
-S010421_N17
-S010421_N18
-S010421_N19
-S010421_N20
-S010421_N21
-S010421_N22
-S010421_N23
-S010421_N25
-S010421_N27
-S010421_N28
-S010421_N29
-S010421_N30
-S010421_N32
-S010421_N33
-S010421_N38
-S010421_N39
-S010421_N40
-S010421_N45
-S010421_N46
-S010421_N51
-S010421_N52
-S010421_N54
-S010421_N55
-S010421_N56
-S010421_N58
-S010421_N59
-S010421_N62
-S010421_N63
-S010421_N69
-S010421_N70
-LO plan
-L1 plan
-L2 plan
-S1
-Sk1001-2
-Sk1007
-Sk)
+{% gallery { "dummy" : "dummy"} %}
+	{% picture {{page.assetsfolder}}/cdrive-N1.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N2.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N4.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N6.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N10.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N11.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N13.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N14.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N15.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N16.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N17.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N18.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N19.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N20.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N21.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N22.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N23.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N25.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N27.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N28.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N29.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N30.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-N32.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-S1.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-Sk1001-2.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-Sk1007.jpg alt="" %}
+	{% picture {{page.assetsfolder}}/cdrive-Sk1010rev1.jpg alt="" %}
+{% endgallery %}
 
-Awards
-2003 NZIA Architecture Award
-2003 NZIA Colour Award
-2003 Property Council of New Zealand Special Purpose Excellence Award
-2003 RICS People’s Choice Award
-2002 New Zealand Institute of Building Innovation Award
-2002 USA Architectural Record/Business Week Award
-2002 EECA Innovation Award
-2002 New Zealand Lighting Society Premier Award
+###Awards
+ * 2003 NZIA Architecture Award
+ * 2003 NZIA Colour Award
+ * 2003 Property Council of New Zealand Special Purpose Excellence Award
+ * 2003 RICS People’s Choice Award
+ * 2002 New Zealand Institute of Building Innovation Award
+ * 2002 USA Architectural Record/Business Week Award
+ * 2002 EECA Innovation Award
+ * 2002 New Zealand Lighting Society Premier Award
 
 C:Drive is a multi-use centre tenanted by ASB Bank Ltd. The building, designed in association with Jasmax (Auckland), is located at 33 Corinthian Drive alongside the Albany expressway S.H. 17 north of Auckland. The project addresses ASB Bank’s business objectives to:
 * change the way they work;
