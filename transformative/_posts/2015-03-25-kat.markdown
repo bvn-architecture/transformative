@@ -7,7 +7,7 @@ tagline:        "New Research Director"
 assetsfolder:   "kat"
 imgfeatured:    "kat-martindale.jpg"
 imgtitletext:   "Kat Martindale"
-img_alt_text:     "This is BVN Research Director Kat Martindale"
+img_alt_text:   "This is BVN Research Director Kat Martindale"
 
 date:           2015-06-02 00:00:00
 categories:     transformative-4
@@ -21,6 +21,11 @@ summary        : |
                   special metacharacters may
                   appear here. The extent of this string is indicated by indentation.
 ---
+
+{% picture {{page.assetsfolder}}/kat-martindale.jpg alt="" %}
+This is an image caption, the .caption bit on the next line is important
+{: .caption}
+
 (insert DSC_3544 photo)
 
 Kat Martindale – BVN Research Director
