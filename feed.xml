@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 15:10:31 +1000</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 15:10:31 +1000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 15:12:01 +1000</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 15:12:01 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -637,16 +637,54 @@ Equally important is providing really great quality communal facilities with a l
 
 &lt;p&gt;Beyond its manner of occupation, the workplace is characterized by the exposed services and finishes, and the emphasis on the curvilinear bay windows shaped in response to the tower perimeter form, and which frame the various views of significant Brisbane places. Colour coding of the bays reinforces the orientation and outlook – green bay’s frame fig tree views, blue bays the river, gold bays the ‘Gold Tower’ and red bays St. Stephens Cathedral.&lt;/p&gt;
 
-&lt;p&gt;Credits:
-Architects:&lt;/p&gt;
+&lt;p&gt;Credits:&lt;/p&gt;
 
-&lt;p&gt;Frigenti, Paolo
-Goan, KELSI
-Lamb, Greg
-Leo, Lucas
-Murphy, Kevin
-Newman, Kellie
-Tait, Phillip J&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Project Team&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Paolo Frigenti&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;KELSI Goan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Greg Lamb&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Lucas Leo&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Kevin Murphy&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Kellie Newman&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Phillip J Tait&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;Builders: Apollo – Leon Bowes
 Services:&lt;/p&gt;
