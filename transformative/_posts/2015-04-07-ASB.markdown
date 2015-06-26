@@ -21,33 +21,34 @@ summary        : |
                   special metacharacters may
                   appear here. The extent of this string is indicated by indentation.
 ---
+(insert S0910004 N66 photo)
 
+ {% vimeo 107651238 %}
 
-
-{% quote { "person" : "Jury statement", "source" : "The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards", "date" : "Tuesday"  } %}
-    Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
-{% endquote %}
+ASB North Wharf with Barbara Chapman
 
 {% quote { "person" : "Barbara Chapman, CEO ASB", "source" : "told BRW"} %}
     …the design of the building has fundamentally changed the way we as a business operate for the better
 {% endquote %}
 
-{% quote { "person" : "Brian Clohessy responding to advice from ASB"} %}
-    Great result for ASB - electrical savings per year are calculated at $304K
-{% endquote %}
+James Grose
 
+(insert https://vimeo.com/107651240 )
 
 {% quote %}
-    ASB North Wharf is an international benchmark in sustainable building that provides a head office for ASB Bank with a workplace that places staff wellbeing at the forefront.” James Grose
+    Workplace is a cultural phenomenon” James Grose
 {% endquote %}
 
 {% gallery { "dummy" : "dummy"} %}
-    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="picture 1" %}
-    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic 2" %}
-    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic 3" %}
+    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="picture SO910004 N187" %}
+    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic SO90004 N82" %}
+    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic S090004 N116" %}
 {% endgallery %}
 
-some text to break things up
+{% quote { "person" : "Jury statement", "source" : "The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards", "date" : "Tuesday"  } %}
+    Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
+{% endquote %}    
+
 
 {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="An unsual picture" %}
 This is an image caption, the .caption bit on the next line is important
@@ -102,19 +103,15 @@ All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourh
 The void shifts on each floorplate to reveal internal views, bring daylight deep within and to express structure and services. The overall workplace impression is of a dynamic and democratic environment with a strong sense of community.
 
 
-{% vimeo 107651238 %}
-
-ASB North Wharf with Barbara Chapman
-
 {% vimeo 107651239 %}
 
 ASB workplace with Barbara Chapman
 
-{% vimeo 107651240 %}
-
-Workplace is a cultural phenomenon with James
-
 [Google plus page](http://bit.ly/1i71rpm) that has tour of ASB North Wharf downloaded 13 November 2013
+
+{% quote { "person" : "Brian Clohessy responding to advice from ASB"} %}
+    Great result for ASB - electrical savings per year are calculated at $304K
+{% endquote %}
 
 ## Awards ##
 
