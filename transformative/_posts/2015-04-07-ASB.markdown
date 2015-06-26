@@ -21,9 +21,13 @@ summary        : |
                   special metacharacters may
                   appear here. The extent of this string is indicated by indentation.
 ---
-(insert S0910004 N66 photo)
+{% picture {{page.assetsfolder}}/asb-N66.jpg alt="" %}
+This is an image caption, the .caption bit on the next line is important
+{: .caption}
 
- {% vimeo 107651238 %}
+{% vimeo 107651238 %}
+This is an image caption, the .caption bit on the next line is important
+{: .caption}
 
 ASB North Wharf with Barbara Chapman
 
@@ -33,16 +37,18 @@ ASB North Wharf with Barbara Chapman
 
 James Grose
 
-(insert https://vimeo.com/107651240 )
+{% vimeo 107651240 %}
+This is an image caption, the .caption bit on the next line is important
+{: .caption}
 
-{% quote %}
-    Workplace is a cultural phenomenon” James Grose
+{% quote {"person" : "James Grose"} %}
+    Workplace is a cultural phenomenon
 {% endquote %}
 
 {% gallery { "dummy" : "dummy"} %}
     {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="picture SO910004 N187" %}
-    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic SO90004 N82" %}
-    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic S090004 N116" %}
+    {% picture {{page.assetsfolder}}/asb-N82.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N106.jpg alt="" %}
 {% endgallery %}
 
 {% quote { "person" : "Jury statement", "source" : "The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards", "date" : "Tuesday"  } %}
@@ -56,25 +62,25 @@ This is an image caption, the .caption bit on the next line is important
 
 ## The architecture of ASB North Wharf ##
 
-ASB is a quintessential Auckland and New Zealand company and it is essential that the architecture of the building speak of this building in its “place” – its physical place and its cultural place.
+ASB is a quintessential Auckland and New Zealand company and it is essential that the architecture of the building speak of this building in its “place”–its physical place and its cultural place.
 
-The interior of North Wharf has been designed for function and with reference to the working waterfront of the Wynyard Quarter. Externally it reaches beyond its immediate context to find an appropriate endemic expression. New Zealand is a visceral natural country – its international symbolism is based on extraordinary landscape, of fresh air and of exotic nature.
+The interior of North Wharf has been designed for function and with reference to the working waterfront of the Wynyard Quarter. Externally it reaches beyond its immediate context to find an appropriate endemic expression. New Zealand is a visceral natural country–its international symbolism is based on extraordinary landscape, of fresh air and of exotic nature.
 
 The internal form of the building described by the fresh air pathway and the funnel is the major shape determinant of the external form. The internal tapering form of the funnel increases the airflow as the cross ventilation function takes effect. Coincidentally the form is an abstraction of a volcano, giving the name of Rangitoto to the level 7 boathouse.
 
-Externally the functional roof of the building with its “cone” and ventilation louvres needs an associated, if abstract character to the façade of the building. The walls of the cone to the north and east are fully glazed to maximise the view from inside and to maximise the amount of sun into the building. However north facing walls also need sun protection – the vertical sun louvres are staggered across the façade in much the same way as both bark of trees is random and often vertical in nature; and the random striation of the louvres suggests the abstract forms of a rock wall.
+Externally the functional roof of the building with its “cone” and ventilation louvres needs an associated, if abstract character to the façade of the building. The walls of the cone to the north and east are fully glazed to maximise the view from inside and to maximise the amount of sun into the building. However north facing walls also need sun protection–the vertical sun louvres are staggered across the façade in much the same way as both bark of trees is random and often vertical in nature; and the random striation of the louvres suggests the abstract forms of a rock wall.
 
 The fully glazed and transparent walls of Waikokota Lane provide a visual and material break with the long façade of the north. To counter the visually heavy expression of the cone and the metallic louvres a lighter façade has been designed, punctuated by three yellow ASB portals.
 
-The Pohutukawa tree is endemic to the north of the north island of New Zealand – it is a national and Auckland symbol. The north facade to the west of Waikokota Lane is designed as an abstraction of a Pohutukawa canopy.
+The Pohutukawa tree is endemic to the north of the north island of New Zealand–it is a national and Auckland symbol. The north facade to the west of Waikokota Lane is designed as an abstraction of a Pohutukawa canopy.
 
 The architectural design of the sunscreen takes the form of fallen Pohutukawa leaves as a starting point to explore a range of functions and sensations on the north façade. Firstly, the sunscreen needs to shade 60% of the façade to enable the fresh air and air conditioning systems to work in a sustainable manner; secondly, the major view from the building is to the north and hence any sunscreen had to be transparent to the view; and thirdly, character inside the building should elicit a condition of the screen.
 
 The process for designing the screen to achieve these three conditions was a collaboration between the architectural design team, the mechanical engineers, the façade designers, and the fabricators.
 
-The resulting design is a cable net stretched across the facade. The original inspiration for this cable net was a yachting reference from the New Zealand rigging suppliers Ronstan – a stainless steel twisted wire held in tension across the front of the building – alluding to the tension inherent in the spar design of yachts under full sail.
+The resulting design is a cable net stretched across the facade. The original inspiration for this cable net was a yachting reference from the New Zealand rigging suppliers Ronstan–a stainless steel twisted wire held in tension across the front of the building–alluding to the tension inherent in the spar design of yachts under full sail.
 
-The cable net has stainless steel connectors that fix bent aluminium blades – “leaves”, in different sizes and shapes based on a rectangle. The leaves are then punched with shapes based on the holes found in decaying Pohutukawa leaves.
+The cable net has stainless steel connectors that fix bent aluminium blades–“leaves”, in different sizes and shapes based on a rectangle. The leaves are then punched with shapes based on the holes found in decaying Pohutukawa leaves.
 
 The resulting screen casts shadows on the glazed façade so that from outside the building the façade appears to be a series of layered leaves reflecting itself in the glass of the façade. From internally the sun shining through the blades and emphasizing the punched holes appears as though a canopy of leaves encloses the building. The interior experience is akin to sitting inside a tree.
 
@@ -82,9 +88,11 @@ The sun blades on the northeast together with the leaves on the north west of th
 
 Other elements of the building compositionally elaborate the broad cultural and landscape references of the design, especially the powerful public artwork by Michael Parekowhai, located in Waikokota Lane.
 
-The other major compositional element of the building is the reflector, which sits upon the cone. The reflector has a functional purpose to reflect light down through the glass-roofed cone to enhance the daylight quality of the interior. But its emblematic quality is physical – to symbolize a “place” that marks the junction between land and sea, that points enigmatically to the sea and that expresses a dynamic spirit - not just of the community of people inside the building but a greater sense of dynamism between man and nature.
+The other major compositional element of the building is the reflector, which sits upon the cone. The reflector has a functional purpose to reflect light down through the glass-roofed cone to enhance the daylight quality of the interior. But its emblematic quality is physical–to symbolize a “place” that marks the junction between land and sea, that points enigmatically to the sea and that expresses a dynamic spirit - not just of the community of people inside the building but a greater sense of dynamism between man and nature.
 
-(insert S0910004 N60 pic)
+{% picture {{page.assetsfolder}}/asb-N79.jpg alt="" %}
+This is an image caption, the .caption bit on the next line is important
+{: .caption}
 
 ## ASB North Wharf and the public realm ##
 
@@ -92,7 +100,9 @@ A defining characteristic of ASB North Wharf is its unparalleled commitment to t
 
 The urban master plan for the Wynyard Quarter calls for two lanes connecting the waterfront in a north south direction through the ASB North Wharf site. The North Wharf building respects these lanes and expands on their urban intention to produce a highly accessible public realm that transforms a hitherto opaque commercial precinct into a porous and connected 24-hour accessible public space.
 
-(insert S0910004 N80)
+{% picture {{page.assetsfolder}}/asb-N80.jpg alt="" %}
+This is an image caption, the .caption bit on the next line is important
+{: .caption}
 
 ## ASB North Wharf workplace ##
 
@@ -100,9 +110,9 @@ The urban master plan for the Wynyard Quarter calls for two lanes connecting the
 But it is the interior workspaces that impress.
 {% endquote %}
 
-The workplace fit out is seamlessly integrated with the base building, also designed by BVN, through Building Information Modelling (BIM).  Designed on Activities Based Working (ABW) principles, there are 84 work-points for every 100 staff, with a series of themes ‘neighbourhoods’ and major shared spaces for a variety of self-motivated work types – called ‘boathouses’.  The boathouses are inspired by local considerations and include The City, The Deck, Rangitoto and The Containers.  These spaces are located on level 3 and level 7, either side of the neighbourhood floors.
+The workplace fit out is seamlessly integrated with the base building, also designed by BVN, through Building Information Modelling (BIM).  Designed on Activities Based Working (ABW) principles, there are 84 work-points for every 100 staff, with a series of themes ‘neighbourhoods’ and major shared spaces for a variety of self-motivated work types–called ‘boathouses’.  The boathouses are inspired by local considerations and include The City, The Deck, Rangitoto and The Containers.  These spaces are located on level 3 and level 7, either side of the neighbourhood floors.
 
-All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourhood retains a unique identity through planning variations and colour scheme.  Within the spaces are collaboration pods – rooms and furniture settings that repeat throughout the workplace, but take different positions and finishes in each neighbourhood.
+All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourhood retains a unique identity through planning variations and colour scheme.  Within the spaces are collaboration pods–rooms and furniture settings that repeat throughout the workplace, but take different positions and finishes in each neighbourhood.
 
 The void shifts on each floorplate to reveal internal views, bring daylight deep within and to express structure and services. The overall workplace impression is of a dynamic and democratic environment with a strong sense of community.
 
@@ -112,7 +122,7 @@ ASB workplace with Barbara Chapman
 
 [Google plus page](http://bit.ly/1i71rpm) that has tour of ASB North Wharf downloaded 13 November 2013
 
-{% quote { "person" : "Brian Clohessy responding to advice from ASB"} %}
+{% quote { "person" : "Brian Clohessy", "source" : "responding to advice from ASB"} %}
     Great result for ASB - electrical savings per year are calculated at $304K
 {% endquote %}
 

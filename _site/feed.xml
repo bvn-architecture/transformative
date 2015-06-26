@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 11:59:43 +1000</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 11:59:43 +1000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 12:15:40 +1000</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 12:15:40 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -29,11 +29,22 @@
     
       <item>
         <title>ASB</title>
-        <description>&lt;p&gt;(insert S0910004 N66 photo)&lt;/p&gt;
+        <description>&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N66-1050by839-94e590.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N66-700by559-94e590.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N66-675by539-94e590.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N66-450by360-94e590.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N66-525by300-94e590.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N66-350by200-94e590.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N66-350by200-94e590.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
     &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651238&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
+&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
 
 &lt;p&gt;ASB North Wharf with Barbara Chapman&lt;/p&gt;
 
@@ -43,11 +54,14 @@
 
 &lt;p&gt;James Grose&lt;/p&gt;
 
-&lt;p&gt;(insert https://vimeo.com/107651240 )&lt;/p&gt;
+&lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
+    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651240&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
 
 &lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
-    Workplace is a cultural phenomenon” James Grose
-&lt;/blockquote&gt;  &lt;figcaption&gt;      &lt;/figcaption&gt;&lt;/figure&gt;
+    Workplace is a cultural phenomenon
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;James Grose&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
 &lt;!--indicators were in here--&gt;
@@ -62,23 +76,23 @@
   &lt;/picture&gt;
 
     &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-1050by705-c445d4.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-700by470-c445d4.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-675by453-c445d4.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-450by302-c445d4.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-525by300-c445d4.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; /&gt;
-    &lt;img srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;pic SO90004 N82&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-1050by700-2d1023.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-700by467-2d1023.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-675by450-2d1023.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-450by300-2d1023.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-525by300-2d1023.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-350by200-2d1023.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N82-350by200-2d1023.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
   &lt;/picture&gt;
 
     &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-1050by705-c445d4.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-700by470-c445d4.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-675by453-c445d4.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-450by302-c445d4.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-525by300-c445d4.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; /&gt;
-    &lt;img srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;pic S090004 N116&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-1050by700-30d1da.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-700by467-30d1da.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-675by450-30d1da.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-450by300-30d1da.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-525by300-30d1da.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-350by200-30d1da.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N106-350by200-30d1da.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
   &lt;/picture&gt;
 
 &lt;/div&gt;  &lt;/div&gt;&lt;!-- carousel-inner --&gt;
@@ -111,25 +125,25 @@
 
 &lt;h2 id=&quot;the-architecture-of-asb-north-wharf&quot;&gt;The architecture of ASB North Wharf&lt;/h2&gt;
 
-&lt;p&gt;ASB is a quintessential Auckland and New Zealand company and it is essential that the architecture of the building speak of this building in its “place” – its physical place and its cultural place.&lt;/p&gt;
+&lt;p&gt;ASB is a quintessential Auckland and New Zealand company and it is essential that the architecture of the building speak of this building in its “place”–its physical place and its cultural place.&lt;/p&gt;
 
-&lt;p&gt;The interior of North Wharf has been designed for function and with reference to the working waterfront of the Wynyard Quarter. Externally it reaches beyond its immediate context to find an appropriate endemic expression. New Zealand is a visceral natural country – its international symbolism is based on extraordinary landscape, of fresh air and of exotic nature.&lt;/p&gt;
+&lt;p&gt;The interior of North Wharf has been designed for function and with reference to the working waterfront of the Wynyard Quarter. Externally it reaches beyond its immediate context to find an appropriate endemic expression. New Zealand is a visceral natural country–its international symbolism is based on extraordinary landscape, of fresh air and of exotic nature.&lt;/p&gt;
 
 &lt;p&gt;The internal form of the building described by the fresh air pathway and the funnel is the major shape determinant of the external form. The internal tapering form of the funnel increases the airflow as the cross ventilation function takes effect. Coincidentally the form is an abstraction of a volcano, giving the name of Rangitoto to the level 7 boathouse.&lt;/p&gt;
 
-&lt;p&gt;Externally the functional roof of the building with its “cone” and ventilation louvres needs an associated, if abstract character to the façade of the building. The walls of the cone to the north and east are fully glazed to maximise the view from inside and to maximise the amount of sun into the building. However north facing walls also need sun protection – the vertical sun louvres are staggered across the façade in much the same way as both bark of trees is random and often vertical in nature; and the random striation of the louvres suggests the abstract forms of a rock wall.&lt;/p&gt;
+&lt;p&gt;Externally the functional roof of the building with its “cone” and ventilation louvres needs an associated, if abstract character to the façade of the building. The walls of the cone to the north and east are fully glazed to maximise the view from inside and to maximise the amount of sun into the building. However north facing walls also need sun protection–the vertical sun louvres are staggered across the façade in much the same way as both bark of trees is random and often vertical in nature; and the random striation of the louvres suggests the abstract forms of a rock wall.&lt;/p&gt;
 
 &lt;p&gt;The fully glazed and transparent walls of Waikokota Lane provide a visual and material break with the long façade of the north. To counter the visually heavy expression of the cone and the metallic louvres a lighter façade has been designed, punctuated by three yellow ASB portals.&lt;/p&gt;
 
-&lt;p&gt;The Pohutukawa tree is endemic to the north of the north island of New Zealand – it is a national and Auckland symbol. The north facade to the west of Waikokota Lane is designed as an abstraction of a Pohutukawa canopy.&lt;/p&gt;
+&lt;p&gt;The Pohutukawa tree is endemic to the north of the north island of New Zealand–it is a national and Auckland symbol. The north facade to the west of Waikokota Lane is designed as an abstraction of a Pohutukawa canopy.&lt;/p&gt;
 
 &lt;p&gt;The architectural design of the sunscreen takes the form of fallen Pohutukawa leaves as a starting point to explore a range of functions and sensations on the north façade. Firstly, the sunscreen needs to shade 60% of the façade to enable the fresh air and air conditioning systems to work in a sustainable manner; secondly, the major view from the building is to the north and hence any sunscreen had to be transparent to the view; and thirdly, character inside the building should elicit a condition of the screen.&lt;/p&gt;
 
 &lt;p&gt;The process for designing the screen to achieve these three conditions was a collaboration between the architectural design team, the mechanical engineers, the façade designers, and the fabricators.&lt;/p&gt;
 
-&lt;p&gt;The resulting design is a cable net stretched across the facade. The original inspiration for this cable net was a yachting reference from the New Zealand rigging suppliers Ronstan – a stainless steel twisted wire held in tension across the front of the building – alluding to the tension inherent in the spar design of yachts under full sail.&lt;/p&gt;
+&lt;p&gt;The resulting design is a cable net stretched across the facade. The original inspiration for this cable net was a yachting reference from the New Zealand rigging suppliers Ronstan–a stainless steel twisted wire held in tension across the front of the building–alluding to the tension inherent in the spar design of yachts under full sail.&lt;/p&gt;
 
-&lt;p&gt;The cable net has stainless steel connectors that fix bent aluminium blades – “leaves”, in different sizes and shapes based on a rectangle. The leaves are then punched with shapes based on the holes found in decaying Pohutukawa leaves.&lt;/p&gt;
+&lt;p&gt;The cable net has stainless steel connectors that fix bent aluminium blades–“leaves”, in different sizes and shapes based on a rectangle. The leaves are then punched with shapes based on the holes found in decaying Pohutukawa leaves.&lt;/p&gt;
 
 &lt;p&gt;The resulting screen casts shadows on the glazed façade so that from outside the building the façade appears to be a series of layered leaves reflecting itself in the glass of the façade. From internally the sun shining through the blades and emphasizing the punched holes appears as though a canopy of leaves encloses the building. The interior experience is akin to sitting inside a tree.&lt;/p&gt;
 
@@ -137,9 +151,19 @@
 
 &lt;p&gt;Other elements of the building compositionally elaborate the broad cultural and landscape references of the design, especially the powerful public artwork by Michael Parekowhai, located in Waikokota Lane.&lt;/p&gt;
 
-&lt;p&gt;The other major compositional element of the building is the reflector, which sits upon the cone. The reflector has a functional purpose to reflect light down through the glass-roofed cone to enhance the daylight quality of the interior. But its emblematic quality is physical – to symbolize a “place” that marks the junction between land and sea, that points enigmatically to the sea and that expresses a dynamic spirit - not just of the community of people inside the building but a greater sense of dynamism between man and nature.&lt;/p&gt;
+&lt;p&gt;The other major compositional element of the building is the reflector, which sits upon the cone. The reflector has a functional purpose to reflect light down through the glass-roofed cone to enhance the daylight quality of the interior. But its emblematic quality is physical–to symbolize a “place” that marks the junction between land and sea, that points enigmatically to the sea and that expresses a dynamic spirit - not just of the community of people inside the building but a greater sense of dynamism between man and nature.&lt;/p&gt;
 
-&lt;p&gt;(insert S0910004 N60 pic)&lt;/p&gt;
+&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-723by1125-e8faee.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-700by1089-e8faee.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-675by1050-e8faee.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-450by700-e8faee.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-525by300-e8faee.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-350by200-e8faee.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N79-350by200-e8faee.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
 
 &lt;h2 id=&quot;asb-north-wharf-and-the-public-realm&quot;&gt;ASB North Wharf and the public realm&lt;/h2&gt;
 
@@ -147,7 +171,17 @@
 
 &lt;p&gt;The urban master plan for the Wynyard Quarter calls for two lanes connecting the waterfront in a north south direction through the ASB North Wharf site. The North Wharf building respects these lanes and expands on their urban intention to produce a highly accessible public realm that transforms a hitherto opaque commercial precinct into a porous and connected 24-hour accessible public space.&lt;/p&gt;
 
-&lt;p&gt;(insert S0910004 N80)&lt;/p&gt;
+&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-1050by700-5e8ae2.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-700by467-5e8ae2.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-675by450-5e8ae2.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-450by300-5e8ae2.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-525by300-5e8ae2.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-350by200-5e8ae2.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N80-350by200-5e8ae2.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
 
 &lt;h2 id=&quot;asb-north-wharf-workplace&quot;&gt;ASB North Wharf workplace&lt;/h2&gt;
 
@@ -155,9 +189,9 @@
 But it is the interior workspaces that impress.
 &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Joe Rollo&lt;/span&gt;, &lt;cite&gt;ar140 Architectural Review Asia Pacific&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;(June-July 2015)&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;The workplace fit out is seamlessly integrated with the base building, also designed by BVN, through Building Information Modelling (BIM).  Designed on Activities Based Working (ABW) principles, there are 84 work-points for every 100 staff, with a series of themes ‘neighbourhoods’ and major shared spaces for a variety of self-motivated work types – called ‘boathouses’.  The boathouses are inspired by local considerations and include The City, The Deck, Rangitoto and The Containers.  These spaces are located on level 3 and level 7, either side of the neighbourhood floors.&lt;/p&gt;
+&lt;p&gt;The workplace fit out is seamlessly integrated with the base building, also designed by BVN, through Building Information Modelling (BIM).  Designed on Activities Based Working (ABW) principles, there are 84 work-points for every 100 staff, with a series of themes ‘neighbourhoods’ and major shared spaces for a variety of self-motivated work types–called ‘boathouses’.  The boathouses are inspired by local considerations and include The City, The Deck, Rangitoto and The Containers.  These spaces are located on level 3 and level 7, either side of the neighbourhood floors.&lt;/p&gt;
 
-&lt;p&gt;All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourhood retains a unique identity through planning variations and colour scheme.  Within the spaces are collaboration pods – rooms and furniture settings that repeat throughout the workplace, but take different positions and finishes in each neighbourhood.&lt;/p&gt;
+&lt;p&gt;All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourhood retains a unique identity through planning variations and colour scheme.  Within the spaces are collaboration pods–rooms and furniture settings that repeat throughout the workplace, but take different positions and finishes in each neighbourhood.&lt;/p&gt;
 
 &lt;p&gt;The void shifts on each floorplate to reveal internal views, bring daylight deep within and to express structure and services. The overall workplace impression is of a dynamic and democratic environment with a strong sense of community.&lt;/p&gt;
 
@@ -171,7 +205,7 @@ But it is the interior workspaces that impress.
 
 &lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
     Great result for ASB - electrical savings per year are calculated at $304K
-&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Clohessy responding to advice from ASB&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Clohessy&lt;/span&gt;, &lt;cite&gt;responding to advice from ASB&lt;/cite&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;awards&quot;&gt;Awards&lt;/h2&gt;
 
