@@ -144,8 +144,18 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+body {
+  background-size: 87%;
+  background-position-x: 15px;
+  background-position-y: 0;
+  background-repeat: no-repeat; }
+
 p {
   font-family: "Blender-medium", "Blender", Arial, sans-serif; }
+
+.caption {
+  font-size: 88%;
+  font-family: "Blender-book", "Blender", Arial, sans-serif; }
 
 /**
  * Site footer
@@ -202,14 +212,17 @@ p {
  */
 .post-header {
   margin-bottom: 30px; }
-
-.post-title {
-  font-size: 42px;
-  letter-spacing: -1px;
-  line-height: 1; }
-  @media screen and (max-width: 800px) {
-    .post-title {
-      font-size: 36px; } }
+  .post-header .post-title {
+    font-size: 340%;
+    letter-spacing: -1px;
+    line-height: 80%;
+    margin: 0; }
+  .post-header .post-subtitle {
+    color: #b4b4b4;
+    font-family: "Blender-book", "Blender", Arial, sans-serif;
+    font-size: 260%;
+    letter-spacing: -1px;
+    line-height: 1; }
 
 .post-content {
   margin-bottom: 30px; }
@@ -251,6 +264,9 @@ a {
 
 img:hover {
   filter: brightness(0.9); }
+
+img.blog-full {
+  width: 100%; }
 
 .issue-number {
   color: #1d1d1d;
