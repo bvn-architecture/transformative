@@ -23,12 +23,34 @@ summary        : |
 ---
 BVN Brisbane Studio
 
-Pull grabs:
+(insert OHB0005 N44)
 
 {% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} this demonstrates our belief and commitment to re-use {% endquote %}
 
+(insert OHB0005 N48 )
+
 {% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} the 'design' of the space is primarily an organisational strategy {% endquote %}
- 		 
+
+(insert Gallery of photos
+OHB0005 N71
+OHB0005 N46
+OHB0005 N47
+OHB0005 N49
+OHB0005 N50
+OHB0005 N51
+OHB0005 N53
+OHB0005 N55
+OHB0005 N65
+OHB0005 N66
+OHB0005 N67
+OHB0005 N68
+OHB0005 N69
+OHB0005 N70
+OHB0005 N72
+OHB0005 N73)
+
+A new studio in an old space
+
 As the commercial tower typology continues to develop with each new tower built, owners of aging buildings are considering alternative and unique ways of occupying buildings to meet contemporary workplace needs. BVN’s fit out demonstrates an innovative new way of occupying these otherwise conventional spaces.
 
 Beyond the questions of representation, the refurbishment of a quality, but typical floor plate in a superb City location demonstrates our belief and commitment to re-use and the ability to derive identity from the latent qualities of the setting.
