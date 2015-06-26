@@ -7,7 +7,7 @@ tagline        : "The Architecture of ASB North Wharf"
 assetsfolder   : "asb"
 imgfeatured    : "asb-N66.jpg"
 imgtitletext   : "ASB North Wharf"
-img_alt_text     : "This is ASB North Wharf Auckland seen across the water"
+img_alt_text   : "This is ASB North Wharf Auckland seen across the water"
 
 date           : 2015-06-05 00:00:00
 categories     : transformative-4
@@ -41,7 +41,7 @@ Workplace is a cultural phenomenon
 {% endquote %}
 
 {% gallery { "dummy" : "dummy"} %}
-    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="picture SO910004 N187" %}
+    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="" %}
     {% picture {{page.assetsfolder}}/asb-N82.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N106.jpg alt="" %}
 {% endgallery %}
