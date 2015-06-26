@@ -5,9 +5,9 @@ subtitle       : "Reusing an old space"
 tagline        : "A 1980's interior transformed"
 
 assetsfolder   : "brisbanestudio"
-imgfeatured    : "OHB0005_N44_medium.jpg"
+imgfeatured    : "bne_studio_44.jpg"
 imgtitletext   : "Events Terrace"
-img_alt_text     : "an image of public space in studio"
+img_alt_text   : "an image of public space in studio"
 
 date           : 2015-06-03 00:00:00
 categories     : transformative-4
@@ -22,32 +22,36 @@ summary        : |
                   appear here. The extent of this string is indicated by indentation.
 ---
 BVN Brisbane Studio
-
-(insert OHB0005 N44)
+{% picture {{page.assetsfolder}}/bne_studio_44.jpg alt="" %}
+This is an image caption, the .caption bit on the next line is important
+{: .caption}
 
 {% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} this demonstrates our belief and commitment to re-use {% endquote %}
 
-(insert OHB0005 N48 )
+{% picture {{page.assetsfolder}}/bne_studio_48.jpg alt="" %}
+This is an image caption, the .caption bit on the next line is important
+{: .caption}
 
 {% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} the 'design' of the space is primarily an organisational strategy {% endquote %}
 
-(insert Gallery of photos
-OHB0005 N71
-OHB0005 N46
-OHB0005 N47
-OHB0005 N49
-OHB0005 N50
-OHB0005 N51
-OHB0005 N53
-OHB0005 N55
-OHB0005 N65
-OHB0005 N66
-OHB0005 N67
-OHB0005 N68
-OHB0005 N69
-OHB0005 N70
-OHB0005 N72
-OHB0005 N73)
+{% gallery { "dummy" : "dummy"} %}
+    {% picture {{page.assetsfolder}}/bne_studio_71.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_46.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_47.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_49.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_50.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_51.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_53.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_55.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_65.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_66.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_67.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_68.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_69.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_70.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_72.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/bne_studio_73.jpg alt="" %}
+{% endgallery %}
 
 A new studio in an old space
 
