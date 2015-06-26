@@ -6,7 +6,7 @@ tagline        : "A pilot model workplace"
 
 assetsfolder   : "arup"
 
-imgfeatured    : "arup_01.jpg"
+imgfeatured    : "arup_17.jpg"
 imgtitletext   : "Arup workplace"
 img_alt_text     : "This is the Arup workplace"
 
