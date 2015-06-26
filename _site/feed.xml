@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 09:16:59 +1000</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 09:16:59 +1000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 10:13:07 +1000</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 10:13:07 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -89,6 +89,8 @@
   &lt;/a&gt;
 &lt;/div&gt;
 
+&lt;p&gt;some text to break things up&lt;/p&gt;
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-1050by705-c445d4.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-700by470-c445d4.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
@@ -98,6 +100,8 @@
     &lt;source srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; /&gt;
     &lt;img srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;An unsual picture&quot; /&gt;
   &lt;/picture&gt;
+
+&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
 
 &lt;h2 id=&quot;the-architecture-of-asb-north-wharf&quot;&gt;The architecture of ASB North Wharf&lt;/h2&gt;
 
