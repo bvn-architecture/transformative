@@ -41,7 +41,7 @@ Workplace is a cultural phenomenon
 {% endquote %}
 
 {% gallery { "dummy" : "dummy"} %}
-    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="" %}
+    {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="asb-N85" %}
     {% picture {{page.assetsfolder}}/asb-N82.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N106.jpg alt="" %}
 {% endgallery %}
