@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -1027,3 +1028,5 @@ Graphics: Patrik Typpo&lt;/p&gt;
     
   </channel>
 </rss>
+=======
+>>>>>>> f3e054da0dd94b6213a24dea8451b241a8eaa7ce
