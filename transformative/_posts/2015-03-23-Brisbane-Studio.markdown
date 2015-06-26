@@ -72,15 +72,17 @@ Arrival into the studio is through our working library, a surprising and effecti
 Beyond its manner of occupation, the workplace is characterized by the exposed services and finishes, and the emphasis on the curvilinear bay windows shaped in response to the tower perimeter form, and which frame the various views of significant Brisbane places. Colour coding of the bays reinforces the orientation and outlook – green bay’s frame fig tree views, blue bays the river, gold bays the ‘Gold Tower’ and red bays St. Stephens Cathedral.
 
 Credits:
-Architects:
 
-Frigenti, Paolo
-Goan, KELSI
-Lamb, Greg
-Leo, Lucas
-Murphy, Kevin
-Newman, Kellie
-Tait, Phillip J
+| ----------------- | ------------   | ----------------- |
+| Project Team      | Name           | Title             |
+| ----------------- | ------------   | ----------------- |
+|                   | Paolo Frigenti |                   |
+|                   | KELSI Goan     |                   |
+|                   | Greg Lamb      |                   |
+|                   | Lucas Leo      |                   |
+|                   | Kevin Murphy   |                   |
+|                   | Kellie Newman  |                   |
+|                   | Phillip J Tait |                   |
 
 Builders: Apollo – Leon Bowes
 Services:

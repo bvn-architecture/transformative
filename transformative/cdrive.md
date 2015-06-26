@@ -35,33 +35,33 @@ Completed 2002
 Client ASB Bank
 
 {% gallery { "dummy" : "dummy"} %}
-	{% picture {{page.assetsfolder}}/cdrive-N1.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N2.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N4.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N6.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N10.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N11.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N13.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N14.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N15.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N16.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N17.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N18.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N19.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N20.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N21.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N22.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N23.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N25.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N27.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N28.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N29.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N30.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-N32.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-S1.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-Sk1001-2.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-Sk1007.jpg alt="" %}
-	{% picture {{page.assetsfolder}}/cdrive-Sk1010rev1.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N1.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N2.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N4.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N6.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N10.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N11.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N13.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N14.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N15.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N16.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N17.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N18.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N19.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N20.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N21.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N22.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N23.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N25.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N27.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N28.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N29.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N30.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-N32.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-S1.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-Sk1001-2.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-Sk1007.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/cdrive-Sk1010rev1.jpg alt="" %}
 {% endgallery %}
 
 ###Awards
@@ -85,24 +85,31 @@ C:Drive is a multi-use centre tenanted by ASB Bank Ltd. The building, designed i
 The developer, client/tenant and designer needed to look beyond the ’square box’ to achieve and endorse the final design outcomes to exceed the project focus and bring innovative thinking into the New Zealand office market workplace.
 This innovative design process of bringing the key decision makers together to challenge the traditional space planning concepts started by reviewing the individual workplace and desking system - taking a non-traditional approach to building design and interior design by starting from the inside-out. The building is designed, and interior planning completed, to meet job functionality. In terms of space efficiency, the current workplace workstation layout betters contemporary market ratios.
 
-Project Team	Name	Title
-	James Grose 	Project Principal
-	Bill Dowzer
-	Abbie Galvin
-	Catherine Chesterman
-	Natasha Clarke
-	Michelle Hosking
-	Russell Koskela
-	John Stevenson
-Construction Team	Company Name	Role
-	OCTA Associates	Project Manager
-	Mainzeal Property Construction	Contractor
+
+| ----------------- | ------------         | -----------------  |
+| Project Team      | Name                 | Title              |
+| ----------------- | ------------         | -----------------  |
+|                   | James Grose          | Project Principal  |
+|                   | Bill Dowzer          |                    |
+|                   | Abbie Galvin         |                    |
+|                   | Catherine Chesterman |                    |
+|                   | Natasha Clarke       |                    |
+|                   | Michelle Hosking     |                    |
+|                   | Russell Koskela      |                    |
+|                   | John Stevenson       |                    |
+
+| ----------------- | ------------                   | -----------------    |
+| Construction Team | Company Name                   | Role                 |
+| ----------------- | ------------                   | -----------------    |
+|                   | OCTA Associates                | Project Manager      |
+|                   | Mainzeal Property Construction | Contractor           |
 
 
-
-Consultant Team	Company Name	Role
-	Jacob Consulting Services	Structural
-	Lincolne Scott	Engineer
-	Sanders Design	Branding
-	Jasmax Architects	Landscape Architects
-	Don Fox	Landscape Architects
+| ----------------- | ------------              | -----------------    |
+| Consultant Team   | Company Name              | Role                 |
+| ----------------- | ------------              | -----------------    |
+|                   | Jacob Consulting Services | Structural           |
+|                   | Lincolne Scott            | Engineer             |
+|                   | Sanders Design            | Branding             |
+|                   | Jasmax Architects         | Landscape Architects |
+|                   | Don Fox                   | Landscape Architects |

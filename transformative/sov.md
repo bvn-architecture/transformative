@@ -1,67 +1,92 @@
 ---
 layout: page
 title: "Sovereign House"
+subtitle : "" 
+tagline : ""
+
 permalink: /sov/
+
+assetsfolder : "sovereign"
+imgfeatured  : "sov-N1.jpg"
+imgtitletext : ""
+img_alt_text : ""
+
+date  : 2015-06-05 00:00:00
+categories : transformative-4
+
+author-name    : Stella DeVulder
+author-twitter : stelladevulder
+author-facebook: "https://www.facebook.com/stella.devulder"
+
+summary : |
+   This is a multi-line string.
+   special metacharacters may
+   appear here. The extent of this string is indicated by indentation.
 ---
+
 Location: Auckland, New Zealand
 Client: Northcote Road Holdings and Sovereign Services
 Completed: 2007
 Floor Area: 18,000 square metres
 
-(insert S050308_N1
-S050308_N4
-S050308_N7
-S050308_N8
-S050308_N10
-S050308_N14
-S050308_N17
-S050308_N19
-S050308_N20
-S050308_N23
-S050308_N24
-S050308_N25
-S050308_N26
-S050308_N27
-S050308_N28
-S050308_N34
-S050308_N35
-S050308_N36
-S050308_N37
-S050308_N38
-S050308_N39
-S050308_N45
-S050308_N46
-S050308_N47
-S050308_N51
-S050308_N52
-S050308_N53
-S050308_N54
-S050308_N55
-S050308_N56
-S050308_N57
-S050308_N58
-S050308_N60
-S050308_N61
-S050308_N62
-S050308_N64
-S050308_N65
-S050308_N67
-S050308_N69
-S050308_N70
-S050308_N71
-S050308_N73
-S050308_N74
-S050308_N75
-S050308_N76
-S050308_N77
-S050308_N80
-S050308_N82
-S050308_N87
-S050308_N88
-S050308_N100
-S050308_N101
-S050308_N102
-S050308_N103
+
+{% gallery { "dummy" : "dummy"} %}
+  {% picture {{page.assetsfolder}}/sov-N1.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N4.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N7.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N8.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N10.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N14.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N17.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N19.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N20.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N23.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N24.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N25.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N26.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N27.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N28.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N34.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N35.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N36.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N37.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N38.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N39.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N45.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N46.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N47.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N51.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N52.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N53.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N54.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N55.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N56.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N57.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N58.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N60.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N61.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N62.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N64.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N65.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N67.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N69.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N70.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N71.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N73.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N74.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N75.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N76.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N77.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N80.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N82.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N87.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N88.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N100.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N101.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N102.jpg alt="" %}
+  {% picture {{page.assetsfolder}}/sov-N103.jpg alt="" %}
+{% endgallery %}
+
 Level_00 
 Level_00 site plan
 Level_01
@@ -93,24 +118,35 @@ Three large open plan floor plates surround the atrium, linked vertically and ho
 
 Sustainably sourced plywood was used throughout the interior, including the lining of areas of the curtain wall and floors are polished concrete. Chilled beam technology requires control of sunlight thus sun screening shrouds the building. This gives a light, delicate quality to the facade, despite the underlying precast structure and an18-metre clear span floor plate. This consequently appears as a series of layers rather than a single solid mass. As the sun moves in its arc and shines on the screens, Sovereign House comes alive, at times letting the inside of the building be projected outwards, turning the facade into a sort of theatre.
 
-Project Team	Name	Title
-	James Grose	Project Principal
-	Warwick Simmonds	Project Director
-	Chris Boss	Project Architect
-	Matthew Blair	Project Team
-	Rob Weiss 	Project Team
-	Chris Dale	Project Team
-	Chris Jack	Project Team
-	Nadine Beckett	Project Team
-Construction Team	Company Name	Role
-	Mainzeal Property and Construction	Main Contractor
-	OCTA Associates	Project Manager
-Consultant Team	Company Name	Role
-	Lincolne Scott	Services
-	Buller George Turkington	Structural
-	Davis Langdon	Quantity Surveyors
-	Light Works	Lighting
-	Holmes Fire & Safety	Fire Protection
-	Harrison Grierson	Civil
-	Jasmax	Architects in association
+# Team #
 
+| ----------------- | ------------     | ----------------- |
+| Project Team      | Name             | Title             |
+| ----------------- | ------------     | ----------------- |
+|                   | James Grose      | Project Principal |
+|                   | Warwick Simmonds | Project Director  |
+|                   | Chris Boss       | Project Architect |
+|                   | Matthew Blair    | Project Team      |
+|                   | Rob Weiss        | Project Team      |
+|                   | Chris Dale       | Project Team      |
+|                   | Chris Jack       | Project Team      |
+|                   | Nadine Beckett   | Project Team      |
+
+
+| ----------------- | ------------                       | ----------------- |
+| Construction Team | Company Name                       | Role              |
+| ----------------- | ------------                       | ----------------- |
+|                   | Mainzeal Property and Construction | Main Contractor   |
+|                   | OCTA Associates                    | Project Manager   |
+
+
+| ----------------- | ------------             | -----------------         |
+| Consultant Team   | Company Name             | Role                      |
+| ----------------- | ------------             | -----------------         |
+|                   | Lincolne Scott           | Services                  |
+|                   | Buller George Turkington | Structural                |
+|                   | Davis Langdon            | Quantity Surveyors        |
+|                   | Light Works              | Lighting                  |
+|                   | Holmes Fire & Safety     | Fire Protection           |
+|                   | Harrison Grierson        | Civil                     |
+|                   | Jasmax                   | Architects in association |
