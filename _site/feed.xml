@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 12:17:07 +1000</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 12:17:07 +1000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 12:33:14 +1000</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 12:33:14 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -416,32 +416,207 @@ Equally important is providing really great quality communal facilities with a l
       <item>
         <title>Brisbane Studio</title>
         <description>&lt;p&gt;BVN Brisbane Studio&lt;/p&gt;
+&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-1050by787-a7823c.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-700by525-a7823c.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-675by506-a7823c.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-450by337-a7823c.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-525by300-a7823c.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-350by200-a7823c.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-350by200-a7823c.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-&lt;p&gt;(insert OHB0005 N44)&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
 
 &lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt; this demonstrates our belief and commitment to re-use &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Donovan&lt;/span&gt;, &lt;cite&gt;&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;()&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;(insert OHB0005 N48 )&lt;/p&gt;
+&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_48-1050by642-d987b8.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_48-700by428-d987b8.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_48-675by413-d987b8.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_48-450by275-d987b8.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_48-525by300-d987b8.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_48-350by200-d987b8.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_48-350by200-d987b8.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
 
 &lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt; the &#39;design&#39; of the space is primarily an organisational strategy &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Donovan&lt;/span&gt;, &lt;cite&gt;&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;()&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;(insert Gallery of photos
-OHB0005 N71
-OHB0005 N46
-OHB0005 N47
-OHB0005 N49
-OHB0005 N50
-OHB0005 N51
-OHB0005 N53
-OHB0005 N55
-OHB0005 N65
-OHB0005 N66
-OHB0005 N67
-OHB0005 N68
-OHB0005 N69
-OHB0005 N70
-OHB0005 N72
-OHB0005 N73)&lt;/p&gt;
+&lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+&lt;!--indicators were in here--&gt;
+  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;&lt;div class=&quot;item active&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-1050by683-b65116.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-700by455-b65116.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-675by439-b65116.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-450by293-b65116.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-525by300-b65116.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-350by200-b65116.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-350by200-b65116.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-1050by793-6538eb.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-700by529-6538eb.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-675by510-6538eb.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-450by340-6538eb.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-525by300-6538eb.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-350by200-6538eb.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-350by200-6538eb.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-969by1125-fc7e3b.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-700by813-fc7e3b.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-675by784-fc7e3b.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-450by522-fc7e3b.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-525by300-fc7e3b.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-350by200-fc7e3b.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-350by200-fc7e3b.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-843by1125-0ef5c8.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-700by934-0ef5c8.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-675by901-0ef5c8.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-450by601-0ef5c8.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-525by300-0ef5c8.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-350by200-0ef5c8.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-350by200-0ef5c8.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-843by1125-5c7357.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-700by934-5c7357.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-675by901-5c7357.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-450by601-5c7357.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-525by300-5c7357.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-350by200-5c7357.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-350by200-5c7357.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-1050by700-2de3da.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-700by467-2de3da.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-675by450-2de3da.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-450by300-2de3da.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-525by300-2de3da.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-350by200-2de3da.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-350by200-2de3da.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-1050by700-120baf.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-700by467-120baf.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-675by450-120baf.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-450by300-120baf.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-525by300-120baf.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-350by200-120baf.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-350by200-120baf.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-1050by700-104515.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-700by467-104515.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-675by450-104515.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-450by300-104515.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-525by300-104515.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-350by200-104515.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-350by200-104515.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-843by1125-01664a.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-700by934-01664a.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-675by901-01664a.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-450by601-01664a.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-525by300-01664a.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-350by200-01664a.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-350by200-01664a.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-1050by787-f6e7c0.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-700by525-f6e7c0.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-675by506-f6e7c0.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-450by337-f6e7c0.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-525by300-f6e7c0.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-350by200-f6e7c0.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-350by200-f6e7c0.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-1050by643-66bc71.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-700by428-66bc71.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-675by413-66bc71.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-450by275-66bc71.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-525by300-66bc71.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-350by200-66bc71.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-350by200-66bc71.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-1050by769-97dd58.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-700by512-97dd58.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-675by494-97dd58.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-450by329-97dd58.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-525by300-97dd58.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-350by200-97dd58.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-350by200-97dd58.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-843by1125-432218.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-700by934-432218.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-675by901-432218.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-450by601-432218.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-525by300-432218.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-350by200-432218.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-350by200-432218.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-925by1125-003f65.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-700by851-003f65.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-675by821-003f65.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-450by547-003f65.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-525by300-003f65.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-350by200-003f65.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-350by200-003f65.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-1050by1094-628f5e.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-700by729-628f5e.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-675by703-628f5e.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-450by469-628f5e.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-525by300-628f5e.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-350by200-628f5e.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-350by200-628f5e.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-1050by755-b7ab15.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-700by504-b7ab15.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-675by486-b7ab15.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-450by324-b7ab15.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-525by300-b7ab15.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-350by200-b7ab15.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-350by200-b7ab15.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+&lt;/div&gt;  &lt;/div&gt;&lt;!-- carousel-inner --&gt;
+&lt;!-- Controls --&gt;
+  &lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+      &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+      &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;right carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+      &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+      &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
 &lt;p&gt;A new studio in an old space&lt;/p&gt;
 
