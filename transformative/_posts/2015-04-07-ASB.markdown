@@ -23,10 +23,8 @@ summary        : |
 ---
 
 {% vimeo 107651238 %}
-This is an image caption, the .caption bit on the next line is important
-{: .caption}
-
 ASB North Wharf with Barbara Chapman
+{: .caption}
 
 {% quote { "person" : "Barbara Chapman, CEO ASB", "source" : "told BRW"} %}
     …the design of the building has fundamentally changed the way we as a business operate for the better
@@ -35,11 +33,11 @@ ASB North Wharf with Barbara Chapman
 James Grose
 
 {% vimeo 107651240 %}
-This is an image caption, the .caption bit on the next line is important
+Workplace is a cultural phenomenon
 {: .caption}
 
 {% quote {"person" : "James Grose"} %}
-    Workplace is a cultural phenomenon
+    Workplace is no longer just about real estate
 {% endquote %}
 
 {% gallery { "dummy" : "dummy"} %}
