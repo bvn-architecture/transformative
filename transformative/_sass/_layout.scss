@@ -1,9 +1,22 @@
+body{
+  // background-image:url("/transformative/css/transformative_v02-04.jpg");
+  // background-image:url("/transformative/css/transformative_v02-01.jpg");
+  background-size:87%;
+  background-position-x:15px;
+  background-position-y: 0;
+  background-repeat: no-repeat;
+}
+
+
 p {
   // font-weight: bold;
   // font-weight: 600;
   font-family: $medium-font-family;
 }
-
+.caption {
+  font-size: 88%;
+  font-family: $base-font-family;
+}
 /**
  * Site footer
  */
@@ -75,18 +88,23 @@ p {
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
-}
-
-.post-title {
-    font-size: 42px;
+  margin-bottom: $spacing-unit;
+  .post-title {
+    font-size: 340%;
+    letter-spacing: -1px;
+    line-height: 80%;
+    margin: 0;
+  }
+  .post-subtitle {
+    color: $heading-color;
+    font-family: $base-font-family;
+    font-size: 260%;
     letter-spacing: -1px;
     line-height: 1;
-
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
+  }
 }
+
+
 
 .post-content {
     margin-bottom: $spacing-unit;
@@ -144,6 +162,9 @@ a{
 
 img:hover {
   filter: brightness(0.9); //TODO make this work
+}
+img.blog-full {
+  width: 100%;
 }
 
 

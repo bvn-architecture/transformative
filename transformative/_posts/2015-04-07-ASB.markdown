@@ -47,7 +47,11 @@ summary        : |
     {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="pic 3" %}
 {% endgallery %}
 
+some text to break things up
+
 {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="An unsual picture" %}
+This is an image caption, the .caption bit on the next line is important
+{: .caption}
 
 ## The architecture of ASB North Wharf ##
 
