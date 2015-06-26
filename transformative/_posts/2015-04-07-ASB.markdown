@@ -44,6 +44,45 @@ Workplace is a cultural phenomenon
     {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="asb-N85" %}
     {% picture {{page.assetsfolder}}/asb-N82.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N106.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N74.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N75.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N76.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N77.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N79.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N85.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N96.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N67.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N68.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N69.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N71.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N81.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N86.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N99.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N102.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N65.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N87.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N92.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N97.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N103.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N104.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N107.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N150.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N187.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N59.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N62.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N80.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N82.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N84.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N90.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N91.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N94.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N106.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/asb-N116.jpg alt="" %}
+    asb L2 Plan
+    asb L3 Plan
+    asb L6 plan
+    asb section
+    asb site plan
 {% endgallery %}
 
 {% quote { "person" : "Jury statement", "source" : "The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards", "date" : "Tuesday"  } %}
