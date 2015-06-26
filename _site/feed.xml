@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 13:11:33 +1000</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 13:11:33 +1000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 13:17:05 +1000</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 13:17:05 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -32,9 +32,7 @@
         <description>&lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
     &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651238&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
-&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
-
-&lt;p&gt;ASB North Wharf with Barbara Chapman&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;ASB North Wharf with Barbara Chapman&lt;/p&gt;
 
 &lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
     …the design of the building has fundamentally changed the way we as a business operate for the better
@@ -45,10 +43,10 @@
 &lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
     &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651240&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
-&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;Workplace is a cultural phenomenon&lt;/p&gt;
 
 &lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
-    Workplace is a cultural phenomenon
+    Workplace is no longer just about real estate
 &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;James Grose&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
