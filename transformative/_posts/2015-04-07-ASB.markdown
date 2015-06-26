@@ -58,16 +58,10 @@ Workplace is a cultural phenomenon
     {% picture {{page.assetsfolder}}/asb-N81.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N86.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N99.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/asb-N102.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N65.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N87.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N92.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N97.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/asb-N103.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/asb-N104.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/asb-N107.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/asb-N150.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/asb-N187.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N59.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N62.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N80.jpg alt="" %}
@@ -76,14 +70,22 @@ Workplace is a cultural phenomenon
     {% picture {{page.assetsfolder}}/asb-N90.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N91.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N94.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/asb-N106.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/asb-N116.jpg alt="" %}
+{% endgallery %}
+
+Magician:
+    asb-N102.jpg
+    asb-N103.jpg
+    asb-N104.jpg
+    asb-N107.jpg
+    asb-N187.jpg
+    asb-N106.jpg
+    asb-N116.jpg
+    asb-N150.jpg
     asb L2 Plan
     asb L3 Plan
     asb L6 plan
     asb section
     asb site plan
-{% endgallery %}
 
 {% quote { "person" : "Jury statement", "source" : "The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards", "date" : "Tuesday"  } %}
     Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
