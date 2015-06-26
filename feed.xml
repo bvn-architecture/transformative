@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 10:13:07 +1000</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 10:13:07 +1000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 11:49:52 +1000</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 11:49:52 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -29,20 +29,24 @@
     
       <item>
         <title>ASB</title>
-        <description>&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
-    Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
-&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Jury statement&lt;/span&gt;, &lt;cite&gt;The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;(Tuesday)&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
+        <description>&lt;p&gt;(insert S0910004 N66 photo)&lt;/p&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
+    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651238&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;ASB North Wharf with Barbara Chapman&lt;/p&gt;
 
 &lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
     …the design of the building has fundamentally changed the way we as a business operate for the better
 &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Barbara Chapman, CEO ASB&lt;/span&gt;, &lt;cite&gt;told BRW&lt;/cite&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
-    Great result for ASB - electrical savings per year are calculated at $304K
-&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Clohessy responding to advice from ASB&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;James Grose&lt;/p&gt;
+
+&lt;p&gt;(insert https://vimeo.com/107651240 )&lt;/p&gt;
 
 &lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
-    ASB North Wharf is an international benchmark in sustainable building that provides a head office for ASB Bank with a workplace that places staff wellbeing at the forefront.” James Grose
+    Workplace is a cultural phenomenon” James Grose
 &lt;/blockquote&gt;  &lt;figcaption&gt;      &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
@@ -54,7 +58,7 @@
     &lt;source srcset=&quot;/transformative/generated/asb/asb-450by302-c445d4.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-525by300-c445d4.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; /&gt;
-    &lt;img srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;picture 1&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;picture SO910004 N187&quot; /&gt;
   &lt;/picture&gt;
 
     &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
@@ -64,7 +68,7 @@
     &lt;source srcset=&quot;/transformative/generated/asb/asb-450by302-c445d4.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-525by300-c445d4.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; /&gt;
-    &lt;img srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;pic 2&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;pic SO90004 N82&quot; /&gt;
   &lt;/picture&gt;
 
     &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
@@ -74,7 +78,7 @@
     &lt;source srcset=&quot;/transformative/generated/asb/asb-450by302-c445d4.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-525by300-c445d4.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; /&gt;
-    &lt;img srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;pic 3&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-350by200-c445d4.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;pic S090004 N116&quot; /&gt;
   &lt;/picture&gt;
 
 &lt;/div&gt;  &lt;/div&gt;&lt;!-- carousel-inner --&gt;
@@ -89,7 +93,9 @@
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;some text to break things up&lt;/p&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
+    Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Jury statement&lt;/span&gt;, &lt;cite&gt;The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;(Tuesday)&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-1050by705-c445d4.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
@@ -152,24 +158,16 @@ But it is the interior workspaces that impress.
 &lt;p&gt;The void shifts on each floorplate to reveal internal views, bring daylight deep within and to express structure and services. The overall workplace impression is of a dynamic and democratic environment with a strong sense of community.&lt;/p&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
-    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651238&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-&lt;p&gt;ASB North Wharf with Barbara Chapman&lt;/p&gt;
-
-&lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
     &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651239&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 &lt;p&gt;ASB workplace with Barbara Chapman&lt;/p&gt;
 
-&lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
-    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651240&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-&lt;p&gt;Workplace is a cultural phenomenon with James&lt;/p&gt;
-
 &lt;p&gt;&lt;a href=&quot;http://bit.ly/1i71rpm&quot;&gt;Google plus page&lt;/a&gt; that has tour of ASB North Wharf downloaded 13 November 2013&lt;/p&gt;
+
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
+    Great result for ASB - electrical savings per year are calculated at $304K
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Clohessy responding to advice from ASB&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;awards&quot;&gt;Awards&lt;/h2&gt;
 
