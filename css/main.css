@@ -266,6 +266,10 @@ img:hover {
 img.blog-full {
   width: 100%; }
 
+.carousel-inner img {
+  max-height: 620px;
+  object-fit: contain; }
+
 .issue-number {
   color: #1d1d1d;
   background-color: #b4b4b4;
