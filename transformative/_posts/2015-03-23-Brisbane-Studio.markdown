@@ -45,7 +45,7 @@ summary        : |
     {% picture {{page.assetsfolder}}/bne_studio_73.jpg alt="" %}
 {% endgallery %}
 
-{% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} the 'design' of the space is primarily an organisational strategy {% endquote %}
+{% quote { "person" : "Brian Donovan" } %} the 'design' of the space is primarily an organisational strategy {% endquote %}
 
 ###A new studio in an old space
 
