@@ -21,12 +21,8 @@ summary        : |
                   special metacharacters may
                   appear here. The extent of this string is indicated by indentation.
 ---
-BVN Brisbane Studio
-{% picture {{page.assetsfolder}}/bne_studio_44.jpg alt="" %}
-This is an image caption, the .caption bit on the next line is important
-{: .caption}
 
-{% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} this demonstrates our belief and commitment to re-use {% endquote %}
+{% quote { "person" : "Brian Donovan" } %} this demonstrates our belief and commitment to re-use {% endquote %}
 
 {% picture {{page.assetsfolder}}/bne_studio_48.jpg alt="" %}
 This is an image caption, the .caption bit on the next line is important
