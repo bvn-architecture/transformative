@@ -24,9 +24,7 @@ summary        : |
 
 {% quote { "person" : "Brian Donovan" } %} this demonstrates our belief and commitment to re-use {% endquote %}
 
-{% picture {{page.assetsfolder}}/bne_studio_48.jpg alt="" %}
 
-{% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} the 'design' of the space is primarily an organisational strategy {% endquote %}
 
 {% gallery { "dummy" : "dummy"} %}
     {% picture {{page.assetsfolder}}/bne_studio_71.jpg alt="" %}
@@ -46,6 +44,8 @@ summary        : |
     {% picture {{page.assetsfolder}}/bne_studio_72.jpg alt="" %}
     {% picture {{page.assetsfolder}}/bne_studio_73.jpg alt="" %}
 {% endgallery %}
+
+{% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} the 'design' of the space is primarily an organisational strategy {% endquote %}
 
 ###A new studio in an old space
 
