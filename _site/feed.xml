@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jun 2015 09:23:52 +1000</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2015 09:23:52 +1000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2015 09:29:31 +1000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2015 09:29:31 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -53,36 +53,24 @@ Stella to put in details
 
 &lt;/div&gt;
 
-&lt;figure class=&quot;quote&quot;&gt;
-  &lt;blockquote&gt;
-    &lt;pre&gt;&lt;code&gt;…the design of the building has fundamentally changed the way we as a business operate for the better
-&lt;/code&gt;&lt;/pre&gt;
-  &lt;/blockquote&gt;
-  &lt;figcaption&gt;
-    &lt;pre&gt;&lt;code&gt;&amp;lt;span class=&quot;person&quot;&amp;gt;Barbara Chapman, CEO ASB&amp;lt;/span&amp;gt;, &amp;lt;cite&amp;gt;told BRW&amp;lt;/cite&amp;gt;  &amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
+    …the design of the building has fundamentally changed the way we as a business operate for the better
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Barbara Chapman, CEO ASB&lt;/span&gt;, &lt;cite&gt;told BRW&lt;/cite&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-    &lt;p&gt;James Grose&lt;/p&gt;
+&lt;p&gt;James Grose&lt;/p&gt;
 
-    &lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
-      &lt;pre class=&quot;caption&quot;&gt;&lt;code&gt;&amp;lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651240&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
-&amp;lt;/div&amp;gt; Workplace is a cultural phenomenon
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
+    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651240&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;p class=&quot;caption&quot;&gt;Workplace is a cultural phenomenon&lt;/p&gt;
 
-      &lt;figure class=&quot;quote&quot;&gt;
-        &lt;blockquote&gt;
-          &lt;pre&gt;&lt;code&gt;Workplace is no longer just about real estate
-&lt;/code&gt;&lt;/pre&gt;
-        &lt;/blockquote&gt;
-        &lt;figcaption&gt;
-          &lt;pre&gt;&lt;code&gt;&amp;lt;span class=&quot;person&quot;&amp;gt;James Grose&amp;lt;/span&amp;gt;  &amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
+    Workplace is no longer just about real estate
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;James Grose&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-          &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-            &lt;!--indicators were in here--&gt;
-            &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
-              &lt;div class=&quot;item active&quot;&gt;
-                &lt;picture&gt;
+&lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+&lt;!--indicators were in here--&gt;
+  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;&lt;div class=&quot;item active&quot;&gt;&lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-N66-1050by839-94e590.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-N66-700by559-94e590.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-N66-675by539-94e590.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
@@ -92,329 +80,299 @@ Stella to put in details
     &lt;img srcset=&quot;/transformative/generated/asb/asb-N66-350by200-94e590.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;asb-N85&quot; /&gt;
   &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-1050by700-2d1023.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-700by467-2d1023.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-675by450-2d1023.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-450by300-2d1023.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-525by300-2d1023.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-350by200-2d1023.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N82-350by200-2d1023.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-1050by700-2d1023.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-700by467-2d1023.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-675by450-2d1023.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-450by300-2d1023.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-525by300-2d1023.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-350by200-2d1023.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N82-350by200-2d1023.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N106-1050by700-30d1da.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N106-700by467-30d1da.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N106-675by450-30d1da.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N106-450by300-30d1da.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N106-525by300-30d1da.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N106-350by200-30d1da.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N106-350by200-30d1da.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-1050by700-30d1da.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-700by467-30d1da.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-675by450-30d1da.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-450by300-30d1da.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-525by300-30d1da.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N106-350by200-30d1da.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N106-350by200-30d1da.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N74-750by1125-3f4f5f.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N74-700by1050-3f4f5f.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N74-675by1013-3f4f5f.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N74-450by675-3f4f5f.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N74-525by300-3f4f5f.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N74-350by200-3f4f5f.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N74-350by200-3f4f5f.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N74-750by1125-3f4f5f.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N74-700by1050-3f4f5f.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N74-675by1013-3f4f5f.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N74-450by675-3f4f5f.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N74-525by300-3f4f5f.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N74-350by200-3f4f5f.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N74-350by200-3f4f5f.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N75-747by1125-b73637.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N75-700by1054-b73637.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N75-675by1017-b73637.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N75-450by678-b73637.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N75-525by300-b73637.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N75-350by200-b73637.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N75-350by200-b73637.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N75-747by1125-b73637.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N75-700by1054-b73637.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N75-675by1017-b73637.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N75-450by678-b73637.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N75-525by300-b73637.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N75-350by200-b73637.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N75-350by200-b73637.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N76-1050by705-c445d4.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N76-700by470-c445d4.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N76-675by453-c445d4.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N76-450by302-c445d4.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N76-525by300-c445d4.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N76-350by200-c445d4.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N76-350by200-c445d4.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N76-1050by705-c445d4.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N76-700by470-c445d4.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N76-675by453-c445d4.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N76-450by302-c445d4.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N76-525by300-c445d4.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N76-350by200-c445d4.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N76-350by200-c445d4.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N77-1050by700-96a12f.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N77-700by467-96a12f.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N77-675by450-96a12f.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N77-450by300-96a12f.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N77-525by300-96a12f.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N77-350by200-96a12f.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N77-350by200-96a12f.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N77-1050by700-96a12f.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N77-700by467-96a12f.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N77-675by450-96a12f.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N77-450by300-96a12f.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N77-525by300-96a12f.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N77-350by200-96a12f.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N77-350by200-96a12f.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N79-723by1125-e8faee.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N79-700by1089-e8faee.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N79-675by1050-e8faee.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N79-450by700-e8faee.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N79-525by300-e8faee.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N79-350by200-e8faee.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N79-350by200-e8faee.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-723by1125-e8faee.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-700by1089-e8faee.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-675by1050-e8faee.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-450by700-e8faee.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-525by300-e8faee.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N79-350by200-e8faee.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N79-350by200-e8faee.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N85-747by1125-311f32.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N85-700by1054-311f32.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N85-675by1017-311f32.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N85-450by678-311f32.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N85-525by300-311f32.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N85-350by200-311f32.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N85-350by200-311f32.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N85-747by1125-311f32.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N85-700by1054-311f32.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N85-675by1017-311f32.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N85-450by678-311f32.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N85-525by300-311f32.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N85-350by200-311f32.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N85-350by200-311f32.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N96-750by1125-a17366.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N96-700by1050-a17366.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N96-675by1013-a17366.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N96-450by675-a17366.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N96-525by300-a17366.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N96-350by200-a17366.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N96-350by200-a17366.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N96-750by1125-a17366.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N96-700by1050-a17366.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N96-675by1013-a17366.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N96-450by675-a17366.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N96-525by300-a17366.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N96-350by200-a17366.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N96-350by200-a17366.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N67-751by1125-27c513.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N67-700by1049-27c513.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N67-675by1011-27c513.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N67-450by674-27c513.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N67-525by300-27c513.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N67-350by200-27c513.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N67-350by200-27c513.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N67-751by1125-27c513.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N67-700by1049-27c513.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N67-675by1011-27c513.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N67-450by674-27c513.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N67-525by300-27c513.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N67-350by200-27c513.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N67-350by200-27c513.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N68-751by1125-ae8c77.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N68-700by1049-ae8c77.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N68-675by1011-ae8c77.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N68-450by674-ae8c77.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N68-525by300-ae8c77.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N68-350by200-ae8c77.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N68-350by200-ae8c77.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N68-751by1125-ae8c77.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N68-700by1049-ae8c77.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N68-675by1011-ae8c77.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N68-450by674-ae8c77.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N68-525by300-ae8c77.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N68-350by200-ae8c77.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N68-350by200-ae8c77.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N69-560by1125-1e780c.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N69-560by1125-1e780c.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N69-560by1125-1e780c.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N69-450by904-1e780c.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N69-525by300-1e780c.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N69-350by200-1e780c.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N69-350by200-1e780c.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N69-560by1125-1e780c.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N69-560by1125-1e780c.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N69-560by1125-1e780c.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N69-450by904-1e780c.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N69-525by300-1e780c.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N69-350by200-1e780c.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N69-350by200-1e780c.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N71-750by1125-ae672a.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N71-700by1050-ae672a.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N71-675by1013-ae672a.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N71-450by675-ae672a.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N71-525by300-ae672a.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N71-350by200-ae672a.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N71-350by200-ae672a.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N71-750by1125-ae672a.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N71-700by1050-ae672a.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N71-675by1013-ae672a.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N71-450by675-ae672a.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N71-525by300-ae672a.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N71-350by200-ae672a.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N71-350by200-ae672a.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N81-1050by697-f388f1.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N81-700by464-f388f1.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N81-675by448-f388f1.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N81-450by299-f388f1.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N81-525by300-f388f1.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N81-350by200-f388f1.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N81-350by200-f388f1.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N81-1050by697-f388f1.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N81-700by464-f388f1.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N81-675by448-f388f1.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N81-450by299-f388f1.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N81-525by300-f388f1.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N81-350by200-f388f1.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N81-350by200-f388f1.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N86-1050by700-2dd026.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N86-700by467-2dd026.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N86-675by450-2dd026.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N86-450by300-2dd026.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N86-525by300-2dd026.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N86-350by200-2dd026.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N86-350by200-2dd026.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N86-1050by700-2dd026.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N86-700by467-2dd026.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N86-675by450-2dd026.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N86-450by300-2dd026.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N86-525by300-2dd026.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N86-350by200-2dd026.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N86-350by200-2dd026.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N99-750by1125-0381ce.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N99-700by1050-0381ce.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N99-675by1013-0381ce.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N99-450by675-0381ce.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N99-525by300-0381ce.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N99-350by200-0381ce.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N99-350by200-0381ce.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N99-750by1125-0381ce.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N99-700by1050-0381ce.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N99-675by1013-0381ce.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N99-450by675-0381ce.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N99-525by300-0381ce.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N99-350by200-0381ce.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N99-350by200-0381ce.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N65-1050by701-775bd3.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N65-700by467-775bd3.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N65-675by450-775bd3.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N65-450by300-775bd3.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N65-525by300-775bd3.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N65-350by200-775bd3.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N65-350by200-775bd3.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N65-1050by701-775bd3.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N65-700by467-775bd3.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N65-675by450-775bd3.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N65-450by300-775bd3.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N65-525by300-775bd3.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N65-350by200-775bd3.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N65-350by200-775bd3.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N87-746by1125-41fd51.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N87-700by1056-41fd51.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N87-675by1018-41fd51.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N87-450by679-41fd51.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N87-525by300-41fd51.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N87-350by200-41fd51.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N87-350by200-41fd51.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N87-746by1125-41fd51.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N87-700by1056-41fd51.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N87-675by1018-41fd51.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N87-450by679-41fd51.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N87-525by300-41fd51.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N87-350by200-41fd51.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N87-350by200-41fd51.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N92-750by1125-b88812.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N92-700by1050-b88812.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N92-675by1013-b88812.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N92-450by675-b88812.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N92-525by300-b88812.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N92-350by200-b88812.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N92-350by200-b88812.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N92-750by1125-b88812.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N92-700by1050-b88812.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N92-675by1013-b88812.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N92-450by675-b88812.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N92-525by300-b88812.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N92-350by200-b88812.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N92-350by200-b88812.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N97-1050by700-5b44b1.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N97-700by467-5b44b1.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N97-675by450-5b44b1.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N97-450by300-5b44b1.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N97-525by300-5b44b1.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N97-350by200-5b44b1.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N97-350by200-5b44b1.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N97-1050by700-5b44b1.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N97-700by467-5b44b1.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N97-675by450-5b44b1.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N97-450by300-5b44b1.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N97-525by300-5b44b1.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N97-350by200-5b44b1.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N97-350by200-5b44b1.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N59-1050by701-f5f0d5.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N59-700by467-f5f0d5.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N59-675by450-f5f0d5.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N59-450by300-f5f0d5.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N59-525by300-f5f0d5.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N59-350by200-f5f0d5.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N59-350by200-f5f0d5.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N59-1050by701-f5f0d5.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N59-700by467-f5f0d5.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N59-675by450-f5f0d5.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N59-450by300-f5f0d5.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N59-525by300-f5f0d5.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N59-350by200-f5f0d5.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N59-350by200-f5f0d5.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N62-754by1125-5b55d9.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N62-700by1044-5b55d9.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N62-675by1007-5b55d9.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N62-450by671-5b55d9.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N62-525by300-5b55d9.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N62-350by200-5b55d9.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N62-350by200-5b55d9.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N62-754by1125-5b55d9.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N62-700by1044-5b55d9.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N62-675by1007-5b55d9.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N62-450by671-5b55d9.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N62-525by300-5b55d9.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N62-350by200-5b55d9.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N62-350by200-5b55d9.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N80-1050by700-5e8ae2.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N80-700by467-5e8ae2.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N80-675by450-5e8ae2.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N80-450by300-5e8ae2.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N80-525by300-5e8ae2.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N80-350by200-5e8ae2.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N80-350by200-5e8ae2.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-1050by700-5e8ae2.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-700by467-5e8ae2.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-675by450-5e8ae2.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-450by300-5e8ae2.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-525by300-5e8ae2.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-350by200-5e8ae2.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N80-350by200-5e8ae2.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-1050by700-2d1023.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-700by467-2d1023.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-675by450-2d1023.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-450by300-2d1023.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-525by300-2d1023.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N82-350by200-2d1023.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N82-350by200-2d1023.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-1050by700-2d1023.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-700by467-2d1023.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-675by450-2d1023.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-450by300-2d1023.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-525by300-2d1023.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N82-350by200-2d1023.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N82-350by200-2d1023.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N84-1050by700-d436cd.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N84-700by467-d436cd.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N84-675by450-d436cd.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N84-450by300-d436cd.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N84-525by300-d436cd.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N84-350by200-d436cd.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N84-350by200-d436cd.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N84-1050by700-d436cd.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N84-700by467-d436cd.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N84-675by450-d436cd.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N84-450by300-d436cd.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N84-525by300-d436cd.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N84-350by200-d436cd.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N84-350by200-d436cd.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N90-1050by700-db12de.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N90-700by467-db12de.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N90-675by450-db12de.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N90-450by300-db12de.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N90-525by300-db12de.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N90-350by200-db12de.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N90-350by200-db12de.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N90-1050by700-db12de.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N90-700by467-db12de.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N90-675by450-db12de.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N90-450by300-db12de.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N90-525by300-db12de.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N90-350by200-db12de.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N90-350by200-db12de.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N91-1050by700-d25c16.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N91-700by467-d25c16.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N91-675by450-d25c16.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N91-450by300-d25c16.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N91-525by300-d25c16.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N91-350by200-d25c16.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N91-350by200-d25c16.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N91-1050by700-d25c16.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N91-700by467-d25c16.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N91-675by450-d25c16.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N91-450by300-d25c16.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N91-525by300-d25c16.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N91-350by200-d25c16.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N91-350by200-d25c16.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-                &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N94-1050by700-b43d57.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N94-700by467-b43d57.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N94-675by450-b43d57.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N94-450by300-b43d57.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N94-525by300-b43d57.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/asb/asb-N94-350by200-b43d57.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/asb/asb-N94-350by200-b43d57.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-                &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N94-1050by700-b43d57.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N94-700by467-b43d57.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N94-675by450-b43d57.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N94-450by300-b43d57.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N94-525by300-b43d57.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/asb/asb-N94-350by200-b43d57.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/asb/asb-N94-350by200-b43d57.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-              &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;!-- carousel-inner --&gt;
-            &lt;!-- Controls --&gt;
-            &lt;p&gt;&lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+&lt;/div&gt;  &lt;/div&gt;&lt;!-- carousel-inner --&gt;
+&lt;!-- Controls --&gt;
+  &lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
       &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&quot;right carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
       &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-          &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-          &lt;p&gt;Magician:
+&lt;p&gt;Magician:
     asb-N102.jpg
     asb-N103.jpg
     asb-N104.jpg
@@ -429,46 +387,41 @@ Stella to put in details
     asb section
     asb site plan&lt;/p&gt;
 
-          &lt;figure class=&quot;quote&quot;&gt;
-            &lt;blockquote&gt;
-              &lt;pre&gt;&lt;code&gt;Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
-&lt;/code&gt;&lt;/pre&gt;
-            &lt;/blockquote&gt;
-            &lt;figcaption&gt;
-              &lt;pre&gt;&lt;code&gt;&amp;lt;span class=&quot;person&quot;&amp;gt;Jury statement&amp;lt;/span&amp;gt;, &amp;lt;cite&amp;gt;The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards&amp;lt;/cite&amp;gt; &amp;lt;span class=&quot;date&quot;&amp;gt;(Tuesday)&amp;lt;/span&amp;gt;  &amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;    
-&lt;/code&gt;&lt;/pre&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
+    Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Jury statement&lt;/span&gt;, &lt;cite&gt;The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;(Tuesday)&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-              &lt;h2 id=&quot;the-architecture-of-asb-north-wharf&quot;&gt;The architecture of ASB North Wharf&lt;/h2&gt;
+&lt;h2 id=&quot;the-architecture-of-asb-north-wharf&quot;&gt;The architecture of ASB North Wharf&lt;/h2&gt;
 
-              &lt;p&gt;ASB is a quintessential Auckland and New Zealand company and it is essential that the architecture of the building speak of this building in its “place”–its physical place and its cultural place.&lt;/p&gt;
+&lt;p&gt;ASB is a quintessential Auckland and New Zealand company and it is essential that the architecture of the building speak of this building in its “place”–its physical place and its cultural place.&lt;/p&gt;
 
-              &lt;p&gt;The interior of North Wharf has been designed for function and with reference to the working waterfront of the Wynyard Quarter. Externally it reaches beyond its immediate context to find an appropriate endemic expression. New Zealand is a visceral natural country–its international symbolism is based on extraordinary landscape, of fresh air and of exotic nature.&lt;/p&gt;
+&lt;p&gt;The interior of North Wharf has been designed for function and with reference to the working waterfront of the Wynyard Quarter. Externally it reaches beyond its immediate context to find an appropriate endemic expression. New Zealand is a visceral natural country–its international symbolism is based on extraordinary landscape, of fresh air and of exotic nature.&lt;/p&gt;
 
-              &lt;p&gt;The internal form of the building described by the fresh air pathway and the funnel is the major shape determinant of the external form. The internal tapering form of the funnel increases the airflow as the cross ventilation function takes effect. Coincidentally the form is an abstraction of a volcano, giving the name of Rangitoto to the level 7 boathouse.&lt;/p&gt;
+&lt;p&gt;The internal form of the building described by the fresh air pathway and the funnel is the major shape determinant of the external form. The internal tapering form of the funnel increases the airflow as the cross ventilation function takes effect. Coincidentally the form is an abstraction of a volcano, giving the name of Rangitoto to the level 7 boathouse.&lt;/p&gt;
 
-              &lt;p&gt;Externally the functional roof of the building with its “cone” and ventilation louvres needs an associated, if abstract character to the façade of the building. The walls of the cone to the north and east are fully glazed to maximise the view from inside and to maximise the amount of sun into the building. However north facing walls also need sun protection–the vertical sun louvres are staggered across the façade in much the same way as both bark of trees is random and often vertical in nature; and the random striation of the louvres suggests the abstract forms of a rock wall.&lt;/p&gt;
+&lt;p&gt;Externally the functional roof of the building with its “cone” and ventilation louvres needs an associated, if abstract character to the façade of the building. The walls of the cone to the north and east are fully glazed to maximise the view from inside and to maximise the amount of sun into the building. However north facing walls also need sun protection–the vertical sun louvres are staggered across the façade in much the same way as both bark of trees is random and often vertical in nature; and the random striation of the louvres suggests the abstract forms of a rock wall.&lt;/p&gt;
 
-              &lt;p&gt;The fully glazed and transparent walls of Waikokota Lane provide a visual and material break with the long façade of the north. To counter the visually heavy expression of the cone and the metallic louvres a lighter façade has been designed, punctuated by three yellow ASB portals.&lt;/p&gt;
+&lt;p&gt;The fully glazed and transparent walls of Waikokota Lane provide a visual and material break with the long façade of the north. To counter the visually heavy expression of the cone and the metallic louvres a lighter façade has been designed, punctuated by three yellow ASB portals.&lt;/p&gt;
 
-              &lt;p&gt;The Pohutukawa tree is endemic to the north of the north island of New Zealand–it is a national and Auckland symbol. The north facade to the west of Waikokota Lane is designed as an abstraction of a Pohutukawa canopy.&lt;/p&gt;
+&lt;p&gt;The Pohutukawa tree is endemic to the north of the north island of New Zealand–it is a national and Auckland symbol. The north facade to the west of Waikokota Lane is designed as an abstraction of a Pohutukawa canopy.&lt;/p&gt;
 
-              &lt;p&gt;The architectural design of the sunscreen takes the form of fallen Pohutukawa leaves as a starting point to explore a range of functions and sensations on the north façade. Firstly, the sunscreen needs to shade 60% of the façade to enable the fresh air and air conditioning systems to work in a sustainable manner; secondly, the major view from the building is to the north and hence any sunscreen had to be transparent to the view; and thirdly, character inside the building should elicit a condition of the screen.&lt;/p&gt;
+&lt;p&gt;The architectural design of the sunscreen takes the form of fallen Pohutukawa leaves as a starting point to explore a range of functions and sensations on the north façade. Firstly, the sunscreen needs to shade 60% of the façade to enable the fresh air and air conditioning systems to work in a sustainable manner; secondly, the major view from the building is to the north and hence any sunscreen had to be transparent to the view; and thirdly, character inside the building should elicit a condition of the screen.&lt;/p&gt;
 
-              &lt;p&gt;The process for designing the screen to achieve these three conditions was a collaboration between the architectural design team, the mechanical engineers, the façade designers, and the fabricators.&lt;/p&gt;
+&lt;p&gt;The process for designing the screen to achieve these three conditions was a collaboration between the architectural design team, the mechanical engineers, the façade designers, and the fabricators.&lt;/p&gt;
 
-              &lt;p&gt;The resulting design is a cable net stretched across the facade. The original inspiration for this cable net was a yachting reference from the New Zealand rigging suppliers Ronstan–a stainless steel twisted wire held in tension across the front of the building–alluding to the tension inherent in the spar design of yachts under full sail.&lt;/p&gt;
+&lt;p&gt;The resulting design is a cable net stretched across the facade. The original inspiration for this cable net was a yachting reference from the New Zealand rigging suppliers Ronstan–a stainless steel twisted wire held in tension across the front of the building–alluding to the tension inherent in the spar design of yachts under full sail.&lt;/p&gt;
 
-              &lt;p&gt;The cable net has stainless steel connectors that fix bent aluminium blades–“leaves”, in different sizes and shapes based on a rectangle. The leaves are then punched with shapes based on the holes found in decaying Pohutukawa leaves.&lt;/p&gt;
+&lt;p&gt;The cable net has stainless steel connectors that fix bent aluminium blades–“leaves”, in different sizes and shapes based on a rectangle. The leaves are then punched with shapes based on the holes found in decaying Pohutukawa leaves.&lt;/p&gt;
 
-              &lt;p&gt;The resulting screen casts shadows on the glazed façade so that from outside the building the façade appears to be a series of layered leaves reflecting itself in the glass of the façade. From internally the sun shining through the blades and emphasizing the punched holes appears as though a canopy of leaves encloses the building. The interior experience is akin to sitting inside a tree.&lt;/p&gt;
+&lt;p&gt;The resulting screen casts shadows on the glazed façade so that from outside the building the façade appears to be a series of layered leaves reflecting itself in the glass of the façade. From internally the sun shining through the blades and emphasizing the punched holes appears as though a canopy of leaves encloses the building. The interior experience is akin to sitting inside a tree.&lt;/p&gt;
 
-              &lt;p&gt;The sun blades on the northeast together with the leaves on the north west of the north facade of the building are coloured in three variants of natural earth colours. For the blades the colours allude to the variants of bark, to the leaves they are varying stages of decomposition. The use of the same colours on the two disparate building elements ties the whole of the building together with the base panel colour of the remainder of the building.&lt;/p&gt;
+&lt;p&gt;The sun blades on the northeast together with the leaves on the north west of the north facade of the building are coloured in three variants of natural earth colours. For the blades the colours allude to the variants of bark, to the leaves they are varying stages of decomposition. The use of the same colours on the two disparate building elements ties the whole of the building together with the base panel colour of the remainder of the building.&lt;/p&gt;
 
-              &lt;p&gt;Other elements of the building compositionally elaborate the broad cultural and landscape references of the design, especially the powerful public artwork by Michael Parekowhai, located in Waikokota Lane.&lt;/p&gt;
+&lt;p&gt;Other elements of the building compositionally elaborate the broad cultural and landscape references of the design, especially the powerful public artwork by Michael Parekowhai, located in Waikokota Lane.&lt;/p&gt;
 
-              &lt;p&gt;The other major compositional element of the building is the reflector, which sits upon the cone. The reflector has a functional purpose to reflect light down through the glass-roofed cone to enhance the daylight quality of the interior. But its emblematic quality is physical–to symbolize a “place” that marks the junction between land and sea, that points enigmatically to the sea and that expresses a dynamic spirit - not just of the community of people inside the building but a greater sense of dynamism between man and nature.&lt;/p&gt;
+&lt;p&gt;The other major compositional element of the building is the reflector, which sits upon the cone. The reflector has a functional purpose to reflect light down through the glass-roofed cone to enhance the daylight quality of the interior. But its emblematic quality is physical–to symbolize a “place” that marks the junction between land and sea, that points enigmatically to the sea and that expresses a dynamic spirit - not just of the community of people inside the building but a greater sense of dynamism between man and nature.&lt;/p&gt;
 
-              &lt;picture&gt;
+&lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-N60-748by1125-b09ab1.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-N60-700by1053-b09ab1.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-N60-675by1015-b09ab1.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
@@ -478,15 +431,15 @@ Stella to put in details
     &lt;img srcset=&quot;/transformative/generated/asb/asb-N60-350by200-b09ab1.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
   &lt;/picture&gt;
 
-              &lt;p class=&quot;caption&quot;&gt;The connecting lane incorporates public art&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;The connecting lane incorporates public art&lt;/p&gt;
 
-              &lt;h2 id=&quot;asb-north-wharf-and-the-public-realm&quot;&gt;ASB North Wharf and the public realm&lt;/h2&gt;
+&lt;h2 id=&quot;asb-north-wharf-and-the-public-realm&quot;&gt;ASB North Wharf and the public realm&lt;/h2&gt;
 
-              &lt;p&gt;A defining characteristic of ASB North Wharf is its unparalleled commitment to the public realm. The development is located in the Wynyard Quarter, a new urban regeneration area for Auckland, fast becoming the new centre of Auckland. Its primary public space extends the Viaduct westward to the former Tank Farm.&lt;/p&gt;
+&lt;p&gt;A defining characteristic of ASB North Wharf is its unparalleled commitment to the public realm. The development is located in the Wynyard Quarter, a new urban regeneration area for Auckland, fast becoming the new centre of Auckland. Its primary public space extends the Viaduct westward to the former Tank Farm.&lt;/p&gt;
 
-              &lt;p&gt;The urban master plan for the Wynyard Quarter calls for two lanes connecting the waterfront in a north south direction through the ASB North Wharf site. The North Wharf building respects these lanes and expands on their urban intention to produce a highly accessible public realm that transforms a hitherto opaque commercial precinct into a porous and connected 24-hour accessible public space.&lt;/p&gt;
+&lt;p&gt;The urban master plan for the Wynyard Quarter calls for two lanes connecting the waterfront in a north south direction through the ASB North Wharf site. The North Wharf building respects these lanes and expands on their urban intention to produce a highly accessible public realm that transforms a hitherto opaque commercial precinct into a porous and connected 24-hour accessible public space.&lt;/p&gt;
 
-              &lt;picture&gt;
+&lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-1050by700-5e8ae2.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-700by467-5e8ae2.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-N80-675by450-5e8ae2.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
@@ -496,70 +449,48 @@ Stella to put in details
     &lt;img srcset=&quot;/transformative/generated/asb/asb-N80-350by200-5e8ae2.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
   &lt;/picture&gt;
 
-              &lt;p class=&quot;caption&quot;&gt;One of the fifteen different work settings&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;One of the fifteen different work settings&lt;/p&gt;
 
-              &lt;h2 id=&quot;asb-north-wharf-workplace&quot;&gt;ASB North Wharf workplace&lt;/h2&gt;
+&lt;h2 id=&quot;asb-north-wharf-workplace&quot;&gt;ASB North Wharf workplace&lt;/h2&gt;
 
-              &lt;figure class=&quot;quote&quot;&gt;
-                &lt;blockquote&gt;
-                  &lt;p&gt;But it is the interior workspaces that impress.&lt;/p&gt;
-                &lt;/blockquote&gt;
-                &lt;figcaption&gt;
-                  &lt;pre&gt;&lt;code&gt;&amp;lt;span class=&quot;person&quot;&amp;gt;Joe Rollo&amp;lt;/span&amp;gt;, &amp;lt;cite&amp;gt;ar140 Architectural Review Asia Pacific&amp;lt;/cite&amp;gt; &amp;lt;span class=&quot;date&quot;&amp;gt;(June-July 2015)&amp;lt;/span&amp;gt;  &amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt; 
+But it is the interior workspaces that impress.
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Joe Rollo&lt;/span&gt;, &lt;cite&gt;ar140 Architectural Review Asia Pacific&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;(June-July 2015)&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-                  &lt;p&gt;The workplace fit out is seamlessly integrated with the base building, also designed by BVN, through Building Information Modelling (BIM).  Designed on Activities Based Working (ABW) principles, there are 84 work-points for every 100 staff, with a series of themes ‘neighbourhoods’ and major shared spaces for a variety of self-motivated work types–called ‘boathouses’.  The boathouses are inspired by local considerations and include The City, The Deck, Rangitoto and The Containers.  These spaces are located on level 3 and level 7, either side of the neighbourhood floors.&lt;/p&gt;
+&lt;p&gt;The workplace fit out is seamlessly integrated with the base building, also designed by BVN, through Building Information Modelling (BIM).  Designed on Activities Based Working (ABW) principles, there are 84 work-points for every 100 staff, with a series of themes ‘neighbourhoods’ and major shared spaces for a variety of self-motivated work types–called ‘boathouses’.  The boathouses are inspired by local considerations and include The City, The Deck, Rangitoto and The Containers.  These spaces are located on level 3 and level 7, either side of the neighbourhood floors.&lt;/p&gt;
 
-                  &lt;p&gt;All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourhood retains a unique identity through planning variations and colour scheme.  Within the spaces are collaboration pods–rooms and furniture settings that repeat throughout the workplace, but take different positions and finishes in each neighbourhood.&lt;/p&gt;
+&lt;p&gt;All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourhood retains a unique identity through planning variations and colour scheme.  Within the spaces are collaboration pods–rooms and furniture settings that repeat throughout the workplace, but take different positions and finishes in each neighbourhood.&lt;/p&gt;
 
-                  &lt;p&gt;The void shifts on each floorplate to reveal internal views, bring daylight deep within and to express structure and services. The overall workplace impression is of a dynamic and democratic environment with a strong sense of community.&lt;/p&gt;
+&lt;p&gt;The void shifts on each floorplate to reveal internal views, bring daylight deep within and to express structure and services. The overall workplace impression is of a dynamic and democratic environment with a strong sense of community.&lt;/p&gt;
 
-                  &lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
-                    &lt;pre&gt;&lt;code&gt;&amp;lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651239&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-                    &lt;p&gt;ASB workplace with Barbara Chapman&lt;/p&gt;
-
-                    &lt;p&gt;&lt;a href=&quot;http://bit.ly/1i71rpm&quot;&gt;Google plus page&lt;/a&gt; that has tour of ASB North Wharf downloaded 13 November 2013&lt;/p&gt;
-
-                    &lt;figure class=&quot;quote&quot;&gt;
-                      &lt;blockquote&gt;
-                        &lt;pre&gt;&lt;code&gt;Great result for ASB - electrical savings per year are calculated at $304K
-&lt;/code&gt;&lt;/pre&gt;
-                      &lt;/blockquote&gt;
-                      &lt;figcaption&gt;
-                        &lt;pre&gt;&lt;code&gt;&amp;lt;span class=&quot;person&quot;&amp;gt;Brian Clohessy&amp;lt;/span&amp;gt;, &amp;lt;cite&amp;gt;responding to advice from ASB&amp;lt;/cite&amp;gt;  &amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-                        &lt;h2 id=&quot;awards&quot;&gt;Awards&lt;/h2&gt;
-
-                        &lt;ul&gt;
-                          &lt;li&gt;2014 IDEA High Commendation International category&lt;/li&gt;
-                          &lt;li&gt;2014 WAF High Commendation Office Buildings&lt;/li&gt;
-                          &lt;li&gt;2014 RAIA Interior Architecture Award in the International category&lt;/li&gt;
-                          &lt;li&gt;2014 Supreme Award - Property Council New Zealand Rider Levett Bucknall Property Industry Awards&lt;/li&gt;
-                          &lt;li&gt;2014 Property Council New Zealand - Hays Commercial Office Property Award&lt;/li&gt;
-                          &lt;li&gt;2014 Property Council New Zealand - merit in Resene Green Building Property Award&lt;/li&gt;
-                          &lt;li&gt;2014 New Zealand Commercial Project Awards - Gold Award&lt;/li&gt;
-                          &lt;li&gt;2014 NZIA Architecture Medal&lt;/li&gt;
-                          &lt;li&gt;2014 NZIA Architecture Award - Interior Architecture&lt;/li&gt;
-                          &lt;li&gt;2014 NZIA Architecture Award - Commercial Architecture&lt;/li&gt;
-                          &lt;li&gt;2014 NZIA Architecture Award - Sustainable Architecture&lt;/li&gt;
-                          &lt;li&gt;2014 NZIA Auckland Architecture Award - Sustainable Architecture&lt;/li&gt;
-                        &lt;/ul&gt;
-                      &lt;/figcaption&gt;
-                    &lt;/figure&gt;
-                  &lt;/div&gt;
-                &lt;/figcaption&gt;
-              &lt;/figure&gt;
-            &lt;/figcaption&gt;
-          &lt;/figure&gt;
-        &lt;/figcaption&gt;
-      &lt;/figure&gt;
+&lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
+    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651239&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+
+&lt;p&gt;ASB workplace with Barbara Chapman&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bit.ly/1i71rpm&quot;&gt;Google plus page&lt;/a&gt; that has tour of ASB North Wharf downloaded 13 November 2013&lt;/p&gt;
+
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
+    Great result for ASB - electrical savings per year are calculated at $304K
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Clohessy&lt;/span&gt;, &lt;cite&gt;responding to advice from ASB&lt;/cite&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;awards&quot;&gt;Awards&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2014 IDEA High Commendation International category&lt;/li&gt;
+  &lt;li&gt;2014 WAF High Commendation Office Buildings&lt;/li&gt;
+  &lt;li&gt;2014 RAIA Interior Architecture Award in the International category&lt;/li&gt;
+  &lt;li&gt;2014 Supreme Award - Property Council New Zealand Rider Levett Bucknall Property Industry Awards&lt;/li&gt;
+  &lt;li&gt;2014 Property Council New Zealand - Hays Commercial Office Property Award&lt;/li&gt;
+  &lt;li&gt;2014 Property Council New Zealand - merit in Resene Green Building Property Award&lt;/li&gt;
+  &lt;li&gt;2014 New Zealand Commercial Project Awards - Gold Award&lt;/li&gt;
+  &lt;li&gt;2014 NZIA Architecture Medal&lt;/li&gt;
+  &lt;li&gt;2014 NZIA Architecture Award - Interior Architecture&lt;/li&gt;
+  &lt;li&gt;2014 NZIA Architecture Award - Commercial Architecture&lt;/li&gt;
+  &lt;li&gt;2014 NZIA Architecture Award - Sustainable Architecture&lt;/li&gt;
+  &lt;li&gt;2014 NZIA Auckland Architecture Award - Sustainable Architecture&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Fri, 05 Jun 2015 10:00:00 +1000</pubDate>
         <link>http://bvn-architecture.github.io/transformative/transformative-4/ASB.html</link>
