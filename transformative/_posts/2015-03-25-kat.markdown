@@ -22,13 +22,7 @@ summary        : |
                   appear here. The extent of this string is indicated by indentation.
 ---
 
-{% picture {{page.assetsfolder}}/kat-martindale.jpg alt="" %}
-This is an image caption, the .caption bit on the next line is important
-{: .caption}
-
-(insert DSC_3544 photo)
-
-Kat Martindale – BVN Research Director
+###Fifteen years in environmental research
 
 Dr Kat Martindale has been involved in built environment research for over 15 years as a researcher, writer, consultant and lecturer in architecture and urbanism. Originally educated as an architect (Plymouth), then urban designer (Oxford Brookes), and urban geographer (Oxford) before landing in Sydney to read for a PhD in planning policy, Kat has won nine international awards and scholarships for her work.
 
