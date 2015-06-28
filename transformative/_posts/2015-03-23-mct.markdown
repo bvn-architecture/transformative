@@ -22,6 +22,26 @@ summary        : |
                   appear here. The extent of this string is indicated by indentation.
 ---
 
+<div class="project-details">
+###Location
+
+Stella to put in details
+
+###Client
+
+Stella to put in details
+
+###Completed
+
+Stella to put in details
+
+###Floor Area
+
+Stella to put in details
+
+</div>
+{::options parse_block_html="true" /}
+
 McCarthy Tetrault
 
 (insert Knowledge hub_final image)

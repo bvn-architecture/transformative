@@ -21,7 +21,27 @@ summary        : |
                   special metacharacters may
                   appear here. The extent of this string is indicated by indentation.
 ---
-BVN Brisbane Studio
+
+<div class="project-details">
+###Location
+
+Stella to put in details
+
+###Client
+
+Stella to put in details
+
+###Completed
+
+Stella to put in details
+
+###Floor Area
+
+Stella to put in details
+
+</div>
+{::options parse_block_html="true" /}
+
 {% picture {{page.assetsfolder}}/bne_studio_44.jpg alt="" %}
 This is an image caption, the .caption bit on the next line is important
 {: .caption}

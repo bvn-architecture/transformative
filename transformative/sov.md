@@ -24,11 +24,25 @@ summary : |
    appear here. The extent of this string is indicated by indentation.
 ---
 
-Location: Auckland, New Zealand
-Client: Northcote Road Holdings and Sovereign Services
-Completed: 2007
-Floor Area: 18,000 square metres
+<div class="project-details">
+###Location
 
+Auckland, New Zealand
+
+###Client
+
+Northcote Road Holdings and Sovereign Services
+
+###Completed
+
+2007
+
+###Floor Area
+
+18,000m²
+
+</div>
+{::options parse_block_html="true" /}
 
 {% gallery { "dummy" : "dummy"} %}
   {% picture {{page.assetsfolder}}/sov-N1.jpg alt="" %}
