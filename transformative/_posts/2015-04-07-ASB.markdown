@@ -126,8 +126,8 @@ Other elements of the building compositionally elaborate the broad cultural and 
 
 The other major compositional element of the building is the reflector, which sits upon the cone. The reflector has a functional purpose to reflect light down through the glass-roofed cone to enhance the daylight quality of the interior. But its emblematic quality is physical–to symbolize a “place” that marks the junction between land and sea, that points enigmatically to the sea and that expresses a dynamic spirit - not just of the community of people inside the building but a greater sense of dynamism between man and nature.
 
-{% picture {{page.assetsfolder}}/asb-N102.jpg alt="" %}
-The connecting lane incorporates public art *Stella, n60 is missing from the assets directory*
+{% picture {{page.assetsfolder}}/asb-N60.jpg alt="" %}
+The connecting lane incorporates public art
 {: .caption}
 
 ## ASB North Wharf and the public realm ##
