@@ -45,16 +45,17 @@ promotes osmotic learning and knowledge sharing
 {% endquote %}
 
 {% gallery { "dummy" : "dummy"} %}
-    {% picture {{page.assetsfolder}}/Knowledge hub_final.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/Knowledge_hub_final.jpg alt="" %}
     {% picture {{page.assetsfolder}}/Meeting_cropped_final.jpg alt="" %}
     {% picture {{page.assetsfolder}}/Patio_final.jpg alt="" %}
     {% picture {{page.assetsfolder}}/Reception_final.jpg alt="" %}
     {% picture {{page.assetsfolder}}/Workspace_final.jpg alt="" %}
     {% picture {{page.assetsfolder}}/mct.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/.jpg alt="" %}
 {% endgallery %}
+
+    % picture {{page.assetsfolder}}/.jpg alt="" %
+    % picture {{page.assetsfolder}}/.jpg alt="" %
+    % picture {{page.assetsfolder}}/.jpg alt="" %
 
 ###Creating a new model for work
 
