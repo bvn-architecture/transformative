@@ -29,24 +29,24 @@ This image should be N39, but it's missing
 {: .caption}
 
 <div class="project-details">
-###Location
+<h3>Location</h3>
 
-Auckland, New Zealand
+<p>Auckland, New Zealand</p>
 
-###Client
+<h3>Client</h3>
 
-ASB Bank
+<p>ASB Bank</p>
 
-###Completed
+<h3>Completed</h3>
 
-2002
+<p>2002</p>
 
-###Floor Area
+<h3>Floor Area</h3>
 
-Stella to put in details
+<p>Stella to put in details</p>
 
 </div>
-{::options parse_block_html="true" /}
+
 
 {% gallery { "dummy" : "dummy"} %}
   {% picture {{page.assetsfolder}}/cdrive-N1.jpg alt="" %}

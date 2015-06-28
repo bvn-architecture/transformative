@@ -26,24 +26,24 @@ ASB North Wharf with Barbara Chapman
 {: .caption}
 
 <div class="project-details">
-###Location
+<h3>Location</h3>
 
-Stella to put in details
+<p>Stella to put in details</p>
 
-###Client
+<h3>Client</h3>
 
-Stella to put in details
+<p>Stella to put in details</p>
 
-###Completed
+<h3>Completed</h3>
 
-Stella to put in details
+<p>Stella to put in details</p>
 
-###Floor Area
+<h3>Floor Area</h3>
 
-Stella to put in details
+<p>Stella to put in details</p>
 
 </div>
-{::options parse_block_html="true" /}
+
 
 {% quote { "person" : "Barbara Chapman, CEO ASB", "source" : "told BRW"} %}
     …the design of the building has fundamentally changed the way we as a business operate for the better

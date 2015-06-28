@@ -25,24 +25,24 @@ summary : |
 ---
 
 <div class="project-details">
-###Location
+<h3>Location</h3>
 
-Auckland, New Zealand
+<p>Auckland, New Zealand</p>
 
-###Client
+<h3>Client</h3>
 
-Northcote Road Holdings and Sovereign Services
+<p>Northcote Road Holdings and Sovereign Services</p>
 
-###Completed
+<h3>Completed</h3>
 
-2007
+<p>2007</p>
 
-###Floor Area
+<h3>Floor Area</h3>
 
-18,000m²
+<p>18,000m²</p>
 
 </div>
-{::options parse_block_html="true" /}
+
 
 {% gallery { "dummy" : "dummy"} %}
   {% picture {{page.assetsfolder}}/sov-N1.jpg alt="" %}

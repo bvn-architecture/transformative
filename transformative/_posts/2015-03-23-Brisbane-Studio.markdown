@@ -21,24 +21,24 @@ summary        : |
 ---
 
 <div class="project-details">
-###Location
+<h3>Location</h3>
 
-Stella to put in details
+<p>Stella to put in details</p>
 
-###Client
+<h3>Client</h3>
 
-Stella to put in details
+<p>Stella to put in details</p>
 
-###Completed
+<h3>Completed</h3>
 
-Stella to put in details
+<p>Stella to put in details</p>
 
-###Floor Area
+<h3>Floor Area</h3>
 
-Stella to put in details
+<p>Stella to put in details</p>
 
 </div>
-{::options parse_block_html="true" /}
+
 
 {% picture {{page.assetsfolder}}/bne_studio_44.jpg alt="" %}
 This is an image caption, the .caption bit on the next line is important
