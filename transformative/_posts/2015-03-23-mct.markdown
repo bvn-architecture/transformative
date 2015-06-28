@@ -22,10 +22,9 @@ summary        : |
                   appear here. The extent of this string is indicated by indentation.
 ---
 
-
-
-
-(insert quote "promotes osmotic learning and knowledge sharing")
+{% quote { "person" : "Bill Dowzer"  } %}
+promotes osmotic learning and knowledge sharing 
+{% endquote %}
 
 (Insert gallery
 Reception_final
