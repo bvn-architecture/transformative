@@ -22,6 +22,7 @@ summary        : |
                   special metacharacters may
                   appear here. The extent of this string is indicated by indentation.
 ---
+<<<<<<< HEAD
 
 <div class="project-details">
 ###Location
@@ -44,10 +45,11 @@ Stella to put in details
 {::options parse_block_html="true" /}
 
 {% quote { "person" : "Ninotschka Titchkosky", "source" : "", "date" : ""  } %}
+=======
+{% quote { "person" : "Ninotschka Titchkosky"  } %}
+>>>>>>> 3412ffe3d39b2f50c1cbde0d3626a9e3fdd03391
 The Workshop recalibrates the notion of a place at the centre of everything 
 {% endquote %}
-
-ARUP – WORKPLACE AS WORKSHOP
 
 
 {% gallery { "dummy" : "dummy"} %}
@@ -76,7 +78,7 @@ ARUP – WORKPLACE AS WORKSHOP
     {% picture {{page.assetsfolder}}/arup_22.jpg alt="" %}
 {% endgallery %}
 
-A model of work spaces 
+###A model of work spaces 
 
 BVN were commissioned to work with Arup to create a pilot project that would allow the people in Arup to experience and experiment with new types of spaces that would inform their future move to a new building.
 BVN embraced the idea that an innovative engineering firm such as Arup needs more than just rectangular desks, computer screens and traditional meeting rooms.
