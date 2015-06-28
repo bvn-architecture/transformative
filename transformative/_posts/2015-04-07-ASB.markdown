@@ -112,10 +112,6 @@ Magician:
 {% endquote %}    
 
 
-{% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="S0910004_N77" %}
-The building responds to its place 
-{: .caption}
-
 ## The architecture of ASB North Wharf ##
 
 ASB is a quintessential Auckland and New Zealand company and it is essential that the architecture of the building speak of this building in its “place”–its physical place and its cultural place.
