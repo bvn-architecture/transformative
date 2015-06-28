@@ -6,12 +6,17 @@
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <pubDate>Fri, 26 Jun 2015 16:46:02 +1000</pubDate>
     <lastBuildDate>Fri, 26 Jun 2015 16:46:02 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
 =======
     <pubDate>Fri, 26 Jun 2015 16:07:48 +1000</pubDate>
     <lastBuildDate>Fri, 26 Jun 2015 16:07:48 +1000</lastBuildDate>
+=======
+    <pubDate>Mon, 29 Jun 2015 07:59:19 +1000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2015 07:59:19 +1000</lastBuildDate>
+>>>>>>> 3412ffe3d39b2f50c1cbde0d3626a9e3fdd03391
     <generator>Jekyll v2.5.3</generator>
 >>>>>>> aa44b841849c5245ccaf460967297b2168aba6f9
     
@@ -502,11 +507,7 @@ But it is the interior workspaces that impress.
     
       <item>
         <title>McCarthy Tetrault</title>
-        <description>&lt;p&gt;McCarthy Tetrault&lt;/p&gt;
-
-&lt;p&gt;(insert Knowledge hub_final image)&lt;/p&gt;
-
-&lt;p&gt;(insert quote “promotes osmotic learning and knowledge sharing”)&lt;/p&gt;
+        <description>&lt;p&gt;(insert quote “promotes osmotic learning and knowledge sharing”)&lt;/p&gt;
 
 &lt;p&gt;(Insert gallery
 Reception_final
@@ -517,7 +518,7 @@ s1410007-AR-MTV Fitout level 22
 s1410007-AR-MTV Fitout level 23
 s1410007-AR-MTV Fitout level 24)&lt;/p&gt;
 
-&lt;p&gt;Creating a new model for work&lt;/p&gt;
+&lt;h3 id=&quot;creating-a-new-model-for-work&quot;&gt;Creating a new model for work&lt;/h3&gt;
 
 &lt;p&gt;This project came out of a visit to Sydney by Marc Andre Blanchard, CEO of McCarthy Tetrault where he attended a meeting in the new Herbert Smith Freehills office.  He remarked on the different spaces and configurations of areas and asked to meet with the Principal responsible for the design Bill Dowzer.  Following that meeting Tracie Cookes, COO of McCarthy Tetrault visited and asked BVN to submit a project for their expanding operation in Canada.
 It was decided to develop a national strategy aimed at creating a new model for work based on five principles:&lt;/p&gt;
@@ -1019,9 +1020,7 @@ Services:&lt;/p&gt;
         <title>Arup</title>
         <description>&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
 The Workshop recalibrates the notion of a place at the centre of everything 
-&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Ninotschka Titchkosky&lt;/span&gt;, &lt;cite&gt;&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;()&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p&gt;ARUP – WORKPLACE AS WORKSHOP&lt;/p&gt;
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Ninotschka Titchkosky&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
 &lt;!--indicators were in here--&gt;
@@ -1267,7 +1266,7 @@ The Workshop recalibrates the notion of a place at the centre of everything
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;A model of work spaces&lt;/p&gt;
+&lt;h3 id=&quot;a-model-of-work-spaces&quot;&gt;A model of work spaces&lt;/h3&gt;
 
 &lt;p&gt;BVN were commissioned to work with Arup to create a pilot project that would allow the people in Arup to experience and experiment with new types of spaces that would inform their future move to a new building.
 BVN embraced the idea that an innovative engineering firm such as Arup needs more than just rectangular desks, computer screens and traditional meeting rooms.&lt;/p&gt;
