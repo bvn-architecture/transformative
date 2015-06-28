@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jun 2015 07:47:16 +1000</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2015 07:47:16 +1000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2015 07:52:08 +1000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2015 07:52:08 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -1015,8 +1015,6 @@ Services:&lt;/p&gt;
 The Workshop recalibrates the notion of a place at the centre of everything 
 &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Ninotschka Titchkosky&lt;/span&gt;, &lt;cite&gt;&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;()&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;ARUP – WORKPLACE AS WORKSHOP&lt;/p&gt;
-
 &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
 &lt;!--indicators were in here--&gt;
   &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;&lt;div class=&quot;item active&quot;&gt;&lt;picture&gt;
@@ -1261,7 +1259,7 @@ The Workshop recalibrates the notion of a place at the centre of everything
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;A model of work spaces&lt;/p&gt;
+&lt;h3 id=&quot;a-model-of-work-spaces&quot;&gt;A model of work spaces&lt;/h3&gt;
 
 &lt;p&gt;BVN were commissioned to work with Arup to create a pilot project that would allow the people in Arup to experience and experiment with new types of spaces that would inform their future move to a new building.
 BVN embraced the idea that an innovative engineering firm such as Arup needs more than just rectangular desks, computer screens and traditional meeting rooms.&lt;/p&gt;
