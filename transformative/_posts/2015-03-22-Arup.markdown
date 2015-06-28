@@ -8,7 +8,7 @@ assetsfolder   : "arup"
 
 imgfeatured    : "arup_17.jpg"
 imgtitletext   : "Arup workplace"
-img_alt_text     : "This is the Arup workplace"
+img_alt_text   : "This is the Arup workplace"
 
 date           : 2015-06-01 00:00:00
 categories     : transformative-4
@@ -31,7 +31,7 @@ Stella to put in details
 
 ###Client
 
-Stella to put in details
+Arup
 
 ###Completed
 
@@ -91,17 +91,21 @@ Secondly, the Workshop – that was developed in collaboration with Koskela - in
 
 The Workshop recalibrates the notion of a place at the centre of everything by enabling ideas to be exchanged and objects to be tinkered with both digital and physical. This is aided by the location of the centre for knowledge sharing and research for Arup (Arup University) at the heart of this space, as an archetype of the future model, the workshop is a space which encourages people to collaborate, experiment, discuss, build, research and impart knowledge.
 
-ARUP credit list
+# Team #
 
-Client: Arup
-Main Contractor: Exceed Construction Management Pty Ltd
-Furniture: 	Koskela
-		Schiavello
-		Unifor
-Mechanical, electrical, lighting and all services: ARUP
+| ----------------- | ------------          | ----------------- |
+| Project Team      | Name                  | Title             |
+| ----------------- | ------------          | ----------------- |
+|                   | Ninotschka Titchkosky | Project Principal |
+|                   | Alex Chaston          | Project Team      |
+|                   | Chris Bickerton       | Project Team      |
+|                   | Patrik Typpo          | Graphics          |
 
-BVN team
-Principal: Ninotschka Titchkosky
-Team:	Alex Chaston
-	Chris Bickerton
-Graphics: Patrik Typpo
+| ----------------- | ------------                           | -----------------                                 |
+| Consultant Team   | Company Name                           | Role                                              |
+| ----------------- | ------------                           | -----------------                                 |
+|                   | Exceed Construction Management Pty Ltd | Main Contractor                                   |
+|                   | Koskela                                | Furniture                                         |
+|                   | Schiavello                             | Furniture                                         |
+|                   | Unifor                                 | Furniture                                         |
+|                   | Kasian                                 | Mechanical, electrical, lighting and all services |
