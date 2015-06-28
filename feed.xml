@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jun 2015 09:29:31 +1000</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2015 09:29:31 +1000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2015 09:37:55 +1000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2015 09:37:55 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -35,21 +35,21 @@
 &lt;p class=&quot;caption&quot;&gt;ASB North Wharf with Barbara Chapman&lt;/p&gt;
 
 &lt;div class=&quot;project-details&quot;&gt;
-###Location
+&lt;h3&gt;Location&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
-###Client
+&lt;h3&gt;Client&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
-###Completed
+&lt;h3&gt;Completed&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
-###Floor Area
+&lt;h3&gt;Floor Area&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -504,37 +504,31 @@ But it is the interior workspaces that impress.
       <item>
         <title>McCarthy Tetrault</title>
         <description>&lt;div class=&quot;project-details&quot;&gt;
-###Location
+&lt;h3&gt;Location&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
-###Client
+&lt;h3&gt;Client&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
-###Completed
+&lt;h3&gt;Completed&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
-###Floor Area
+&lt;h3&gt;Floor Area&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;figure class=&quot;quote&quot;&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;promotes osmotic learning and knowledge sharing&lt;/p&gt;
-  &lt;/blockquote&gt;
-  &lt;figcaption&gt;
-    &lt;pre&gt;&lt;code&gt;&amp;lt;span class=&quot;person&quot;&amp;gt;Bill Dowzer&amp;lt;/span&amp;gt;  &amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
+promotes osmotic learning and knowledge sharing 
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Bill Dowzer&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-    &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-      &lt;!--indicators were in here--&gt;
-      &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
-        &lt;div class=&quot;item active&quot;&gt;
-          &lt;picture&gt;
+&lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+&lt;!--indicators were in here--&gt;
+  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;&lt;div class=&quot;item active&quot;&gt;&lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/mct/Knowledge_hub_final-1050by591-51b974.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/mct/Knowledge_hub_final-700by394-51b974.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/mct/Knowledge_hub_final-675by380-51b974.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
@@ -544,253 +538,244 @@ Stella to put in details
     &lt;img srcset=&quot;/transformative/generated/mct/Knowledge_hub_final-350by200-51b974.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
   &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-1050by600-0b6af8.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-700by400-0b6af8.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-675by385-0b6af8.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-450by257-0b6af8.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-525by300-0b6af8.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-350by200-0b6af8.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-350by200-0b6af8.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-1050by600-0b6af8.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-700by400-0b6af8.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-675by385-0b6af8.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-450by257-0b6af8.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-525by300-0b6af8.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-350by200-0b6af8.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/mct/Meeting_cropped_final-350by200-0b6af8.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Patio_final-1050by591-a67f1d.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Patio_final-700by394-a67f1d.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Patio_final-675by380-a67f1d.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Patio_final-450by253-a67f1d.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Patio_final-525by300-a67f1d.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Patio_final-350by200-a67f1d.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/mct/Patio_final-350by200-a67f1d.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Patio_final-1050by591-a67f1d.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Patio_final-700by394-a67f1d.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Patio_final-675by380-a67f1d.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Patio_final-450by253-a67f1d.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Patio_final-525by300-a67f1d.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Patio_final-350by200-a67f1d.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/mct/Patio_final-350by200-a67f1d.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Reception_final-1050by591-54be7e.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Reception_final-700by394-54be7e.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Reception_final-675by380-54be7e.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Reception_final-450by253-54be7e.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Reception_final-525by300-54be7e.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Reception_final-350by200-54be7e.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/mct/Reception_final-350by200-54be7e.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Reception_final-1050by591-54be7e.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Reception_final-700by394-54be7e.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Reception_final-675by380-54be7e.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Reception_final-450by253-54be7e.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Reception_final-525by300-54be7e.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Reception_final-350by200-54be7e.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/mct/Reception_final-350by200-54be7e.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-1050by589-0777a6.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-700by393-0777a6.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-675by379-0777a6.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-450by253-0777a6.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-525by300-0777a6.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-350by200-0777a6.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/mct/Workspace_final-350by200-0777a6.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-1050by589-0777a6.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-700by393-0777a6.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-675by379-0777a6.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-450by253-0777a6.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-525by300-0777a6.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/Workspace_final-350by200-0777a6.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/mct/Workspace_final-350by200-0777a6.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/mct-1050by591-51b974.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/mct-700by394-51b974.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/mct-675by380-51b974.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/mct-450by253-51b974.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/mct-525by300-51b974.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/mct/mct-350by200-51b974.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/mct/mct-350by200-51b974.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/mct-1050by591-51b974.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/mct-700by394-51b974.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/mct-675by380-51b974.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/mct-450by253-51b974.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/mct-525by300-51b974.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/mct/mct-350by200-51b974.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/mct/mct-350by200-51b974.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;!-- carousel-inner --&gt;
-      &lt;!-- Controls --&gt;
-      &lt;p&gt;&lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+&lt;/div&gt;  &lt;/div&gt;&lt;!-- carousel-inner --&gt;
+&lt;!-- Controls --&gt;
+  &lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
       &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&quot;right carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
       &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-    &lt;pre&gt;&lt;code&gt;% picture mct/.jpg alt=&quot;&quot; %
+&lt;pre&gt;&lt;code&gt;% picture mct/.jpg alt=&quot;&quot; %
 % picture mct/.jpg alt=&quot;&quot; %
 % picture mct/.jpg alt=&quot;&quot; %
 &lt;/code&gt;&lt;/pre&gt;
 
-    &lt;h3 id=&quot;creating-a-new-model-for-work&quot;&gt;Creating a new model for work&lt;/h3&gt;
+&lt;h3 id=&quot;creating-a-new-model-for-work&quot;&gt;Creating a new model for work&lt;/h3&gt;
 
-    &lt;p&gt;This project came out of a visit to Sydney by Marc Andre Blanchard, CEO of McCarthy Tetrault where he attended a meeting in the new Herbert Smith Freehills office.  He remarked on the different spaces and configurations of areas and asked to meet with the Principal responsible for the design Bill Dowzer.  Following that meeting Tracie Cookes, COO of McCarthy Tetrault visited and asked BVN to submit a project for their expanding operation in Canada.&lt;/p&gt;
+&lt;p&gt;This project came out of a visit to Sydney by Marc Andre Blanchard, CEO of McCarthy Tetrault where he attended a meeting in the new Herbert Smith Freehills office.  He remarked on the different spaces and configurations of areas and asked to meet with the Principal responsible for the design Bill Dowzer.  Following that meeting Tracie Cookes, COO of McCarthy Tetrault visited and asked BVN to submit a project for their expanding operation in Canada.&lt;/p&gt;
 
-    &lt;p&gt;It was decided to develop a national strategy aimed at creating a new model for work based on five principles:&lt;/p&gt;
+&lt;p&gt;It was decided to develop a national strategy aimed at creating a new model for work based on five principles:&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;Leadership –
     &lt;ul&gt;
-      &lt;li&gt;Leadership –
+      &lt;li&gt;Defined by:
         &lt;ul&gt;
-          &lt;li&gt;Defined by:
-            &lt;ul&gt;
-              &lt;li&gt;future focused&lt;/li&gt;
-              &lt;li&gt;sustainable&lt;/li&gt;
-              &lt;li&gt;bold steps&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;People –
-        &lt;ul&gt;
-          &lt;li&gt;Defined by:
-            &lt;ul&gt;
-              &lt;li&gt;Needs based&lt;/li&gt;
-              &lt;li&gt;Health and well being&lt;/li&gt;
-              &lt;li&gt;Concierge model&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Diversity –
-        &lt;ul&gt;
-          &lt;li&gt;Defined by:
-            &lt;ul&gt;
-              &lt;li&gt;Choice&lt;/li&gt;
-              &lt;li&gt;Respecting the individual as part of the whole&lt;/li&gt;
-              &lt;li&gt;Appropriateness to place&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Synergy
-        &lt;ul&gt;
-          &lt;li&gt;Defined by:
-            &lt;ul&gt;
-              &lt;li&gt;Collaboration&lt;/li&gt;
-              &lt;li&gt;Physical connectivity&lt;/li&gt;
-              &lt;li&gt;Virtual connectivity&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Commerciality
-        &lt;ul&gt;
-          &lt;li&gt;Defined by:
-            &lt;ul&gt;
-              &lt;li&gt;Flexibility&lt;/li&gt;
-              &lt;li&gt;Effectiveness&lt;/li&gt;
-              &lt;li&gt;utilisation&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
+          &lt;li&gt;future focused&lt;/li&gt;
+          &lt;li&gt;sustainable&lt;/li&gt;
+          &lt;li&gt;bold steps&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;People –
+    &lt;ul&gt;
+      &lt;li&gt;Defined by:
+        &lt;ul&gt;
+          &lt;li&gt;Needs based&lt;/li&gt;
+          &lt;li&gt;Health and well being&lt;/li&gt;
+          &lt;li&gt;Concierge model&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Diversity –
+    &lt;ul&gt;
+      &lt;li&gt;Defined by:
+        &lt;ul&gt;
+          &lt;li&gt;Choice&lt;/li&gt;
+          &lt;li&gt;Respecting the individual as part of the whole&lt;/li&gt;
+          &lt;li&gt;Appropriateness to place&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Synergy
+    &lt;ul&gt;
+      &lt;li&gt;Defined by:
+        &lt;ul&gt;
+          &lt;li&gt;Collaboration&lt;/li&gt;
+          &lt;li&gt;Physical connectivity&lt;/li&gt;
+          &lt;li&gt;Virtual connectivity&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Commerciality
+    &lt;ul&gt;
+      &lt;li&gt;Defined by:
+        &lt;ul&gt;
+          &lt;li&gt;Flexibility&lt;/li&gt;
+          &lt;li&gt;Effectiveness&lt;/li&gt;
+          &lt;li&gt;utilisation&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-    &lt;p&gt;BVN has always used intensive briefing workshops to inform the development of workplace designs and so we ran a series of briefings and town hall sessions in all five Canadian offices; Vancouver, Quebec City, Toronto, Montreal and Calgary.  The resulting design is a legal team model that promotes osmotic learning and knowledge sharing by creating a series of harbours that allow lawyer to lawyer interaction and easy communication with ancillary staff.&lt;/p&gt;
+&lt;p&gt;BVN has always used intensive briefing workshops to inform the development of workplace designs and so we ran a series of briefings and town hall sessions in all five Canadian offices; Vancouver, Quebec City, Toronto, Montreal and Calgary.  The resulting design is a legal team model that promotes osmotic learning and knowledge sharing by creating a series of harbours that allow lawyer to lawyer interaction and easy communication with ancillary staff.&lt;/p&gt;
 
-    &lt;p&gt;To enable this high level of collaboration and community a highly flexible office module is used that is a 3m x 3m pavilion style, its sliding doors create complete acoustic privacy when closed, but when opened the corners of the office disappear into the wider workspace.  This pavilion is an important element in creating a transparent and visually connected workspace.&lt;/p&gt;
+&lt;p&gt;To enable this high level of collaboration and community a highly flexible office module is used that is a 3m x 3m pavilion style, its sliding doors create complete acoustic privacy when closed, but when opened the corners of the office disappear into the wider workspace.  This pavilion is an important element in creating a transparent and visually connected workspace.&lt;/p&gt;
 
-    &lt;p&gt;Equally important is providing really great quality communal facilities with a library, connecting stair and relaxing coffee bays. This fits in very well with the client model that McCarthy Tetrault have been evolving that is less formal and allows people to mingle.  It is based on food and an open servery bar that is replenished with fresh buffet food throughout the day and makes food a part of every meeting.&lt;/p&gt;
+&lt;p&gt;Equally important is providing really great quality communal facilities with a library, connecting stair and relaxing coffee bays. This fits in very well with the client model that McCarthy Tetrault have been evolving that is less formal and allows people to mingle.  It is based on food and an open servery bar that is replenished with fresh buffet food throughout the day and makes food a part of every meeting.&lt;/p&gt;
 
-    &lt;h1 id=&quot;team&quot;&gt;Team&lt;/h1&gt;
+&lt;h1 id=&quot;team&quot;&gt;Team&lt;/h1&gt;
 
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;Project Team&lt;/th&gt;
-          &lt;th&gt;Name&lt;/th&gt;
-          &lt;th&gt;Title&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Bill Dowzer&lt;/td&gt;
-          &lt;td&gt;Project Principal&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Andre Callanan&lt;/td&gt;
-          &lt;td&gt;Project Leader&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Elise Cuneo&lt;/td&gt;
-          &lt;td&gt;Project Team&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Kate Bulley&lt;/td&gt;
-          &lt;td&gt;Project  Team&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Marc Hine&lt;/td&gt;
-          &lt;td&gt;Project Team&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Project Team&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Bill Dowzer&lt;/td&gt;
+      &lt;td&gt;Project Principal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Andre Callanan&lt;/td&gt;
+      &lt;td&gt;Project Leader&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Elise Cuneo&lt;/td&gt;
+      &lt;td&gt;Project Team&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Kate Bulley&lt;/td&gt;
+      &lt;td&gt;Project  Team&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Marc Hine&lt;/td&gt;
+      &lt;td&gt;Project Team&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;Consultant Team&lt;/th&gt;
-          &lt;th&gt;Company Name&lt;/th&gt;
-          &lt;th&gt;Role&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Kasian&lt;/td&gt;
-          &lt;td&gt;Local Architects&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Brian Ballantyne Specifications&lt;/td&gt;
-          &lt;td&gt;Specification Writer&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Read Jones Christoffersen Ltd&lt;/td&gt;
-          &lt;td&gt;Structural Engineer&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Integral Group&lt;/td&gt;
-          &lt;td&gt;Mechanical and Hydraulic&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Applied Engineering Solutions&lt;/td&gt;
-          &lt;td&gt;Electrical and Lighting Design&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;CFT Engineering&lt;/td&gt;
-          &lt;td&gt;Code Consultants&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;RWDI Air Inc.&lt;/td&gt;
-          &lt;td&gt;Acoustic Consultants&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Ital Interiors and Unifor&lt;/td&gt;
-          &lt;td&gt;Interiors&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Brad Salter Designs Inc&lt;/td&gt;
-          &lt;td&gt;Kitchen Consultant&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Turner Construction&lt;/td&gt;
-          &lt;td&gt;Main Contractors&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Consultant Team&lt;/th&gt;
+      &lt;th&gt;Company Name&lt;/th&gt;
+      &lt;th&gt;Role&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Kasian&lt;/td&gt;
+      &lt;td&gt;Local Architects&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Brian Ballantyne Specifications&lt;/td&gt;
+      &lt;td&gt;Specification Writer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Read Jones Christoffersen Ltd&lt;/td&gt;
+      &lt;td&gt;Structural Engineer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Integral Group&lt;/td&gt;
+      &lt;td&gt;Mechanical and Hydraulic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Applied Engineering Solutions&lt;/td&gt;
+      &lt;td&gt;Electrical and Lighting Design&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;CFT Engineering&lt;/td&gt;
+      &lt;td&gt;Code Consultants&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;RWDI Air Inc.&lt;/td&gt;
+      &lt;td&gt;Acoustic Consultants&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Ital Interiors and Unifor&lt;/td&gt;
+      &lt;td&gt;Interiors&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Brad Salter Designs Inc&lt;/td&gt;
+      &lt;td&gt;Kitchen Consultant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Turner Construction&lt;/td&gt;
+      &lt;td&gt;Main Contractors&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
 </description>
         <pubDate>Thu, 04 Jun 2015 10:00:00 +1000</pubDate>
         <link>http://bvn-architecture.github.io/transformative/transformative-4/mct.html</link>
@@ -804,21 +789,21 @@ Stella to put in details
       <item>
         <title>Brisbane Studio</title>
         <description>&lt;div class=&quot;project-details&quot;&gt;
-###Location
+&lt;h3&gt;Location&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
-###Client
+&lt;h3&gt;Client&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
-###Completed
+&lt;h3&gt;Completed&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
-###Floor Area
+&lt;h3&gt;Floor Area&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -834,15 +819,11 @@ Stella to put in details
 
 &lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
 
-&lt;figure class=&quot;quote&quot;&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;this demonstrates our belief and commitment to re-use &amp;lt;/blockquote&amp;gt;  &amp;lt;figcaption&amp;gt;    &lt;span class=&quot;person&quot;&gt;Brian Donovan&lt;/span&gt;  &amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt; this demonstrates our belief and commitment to re-use &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Donovan&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-    &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-      &lt;!--indicators were in here--&gt;
-      &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
-        &lt;div class=&quot;item active&quot;&gt;
-          &lt;picture&gt;
+&lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+&lt;!--indicators were in here--&gt;
+  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;&lt;div class=&quot;item active&quot;&gt;&lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-1050by683-b65116.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-700by455-b65116.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-675by439-b65116.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
@@ -852,263 +833,240 @@ Stella to put in details
     &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-350by200-b65116.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
   &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-1050by793-6538eb.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-700by529-6538eb.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-675by510-6538eb.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-450by340-6538eb.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-525by300-6538eb.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-350by200-6538eb.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-350by200-6538eb.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-1050by793-6538eb.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-700by529-6538eb.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-675by510-6538eb.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-450by340-6538eb.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-525by300-6538eb.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-350by200-6538eb.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_46-350by200-6538eb.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-969by1125-fc7e3b.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-700by813-fc7e3b.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-675by784-fc7e3b.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-450by522-fc7e3b.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-525by300-fc7e3b.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-350by200-fc7e3b.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-350by200-fc7e3b.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-969by1125-fc7e3b.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-700by813-fc7e3b.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-675by784-fc7e3b.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-450by522-fc7e3b.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-525by300-fc7e3b.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-350by200-fc7e3b.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_47-350by200-fc7e3b.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-843by1125-0ef5c8.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-700by934-0ef5c8.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-675by901-0ef5c8.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-450by601-0ef5c8.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-525by300-0ef5c8.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-350by200-0ef5c8.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-350by200-0ef5c8.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-843by1125-0ef5c8.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-700by934-0ef5c8.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-675by901-0ef5c8.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-450by601-0ef5c8.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-525by300-0ef5c8.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-350by200-0ef5c8.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_49-350by200-0ef5c8.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-843by1125-5c7357.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-700by934-5c7357.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-675by901-5c7357.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-450by601-5c7357.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-525by300-5c7357.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-350by200-5c7357.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-350by200-5c7357.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-843by1125-5c7357.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-700by934-5c7357.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-675by901-5c7357.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-450by601-5c7357.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-525by300-5c7357.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-350by200-5c7357.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_50-350by200-5c7357.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-1050by700-2de3da.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-700by467-2de3da.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-675by450-2de3da.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-450by300-2de3da.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-525by300-2de3da.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-350by200-2de3da.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-350by200-2de3da.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-1050by700-2de3da.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-700by467-2de3da.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-675by450-2de3da.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-450by300-2de3da.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-525by300-2de3da.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-350by200-2de3da.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_51-350by200-2de3da.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-1050by700-120baf.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-700by467-120baf.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-675by450-120baf.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-450by300-120baf.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-525by300-120baf.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-350by200-120baf.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-350by200-120baf.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-1050by700-120baf.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-700by467-120baf.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-675by450-120baf.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-450by300-120baf.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-525by300-120baf.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-350by200-120baf.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_53-350by200-120baf.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-1050by700-104515.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-700by467-104515.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-675by450-104515.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-450by300-104515.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-525by300-104515.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-350by200-104515.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-350by200-104515.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-1050by700-104515.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-700by467-104515.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-675by450-104515.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-450by300-104515.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-525by300-104515.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-350by200-104515.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_55-350by200-104515.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-843by1125-01664a.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-700by934-01664a.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-675by901-01664a.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-450by601-01664a.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-525by300-01664a.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-350by200-01664a.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-350by200-01664a.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-843by1125-01664a.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-700by934-01664a.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-675by901-01664a.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-450by601-01664a.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-525by300-01664a.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-350by200-01664a.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_65-350by200-01664a.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-1050by787-f6e7c0.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-700by525-f6e7c0.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-675by506-f6e7c0.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-450by337-f6e7c0.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-525by300-f6e7c0.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-350by200-f6e7c0.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-350by200-f6e7c0.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-1050by787-f6e7c0.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-700by525-f6e7c0.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-675by506-f6e7c0.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-450by337-f6e7c0.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-525by300-f6e7c0.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-350by200-f6e7c0.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_66-350by200-f6e7c0.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-1050by643-66bc71.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-700by428-66bc71.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-675by413-66bc71.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-450by275-66bc71.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-525by300-66bc71.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-350by200-66bc71.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-350by200-66bc71.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-1050by643-66bc71.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-700by428-66bc71.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-675by413-66bc71.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-450by275-66bc71.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-525by300-66bc71.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-350by200-66bc71.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_67-350by200-66bc71.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-1050by769-97dd58.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-700by512-97dd58.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-675by494-97dd58.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-450by329-97dd58.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-525by300-97dd58.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-350by200-97dd58.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-350by200-97dd58.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-1050by769-97dd58.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-700by512-97dd58.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-675by494-97dd58.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-450by329-97dd58.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-525by300-97dd58.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-350by200-97dd58.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_68-350by200-97dd58.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-843by1125-432218.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-700by934-432218.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-675by901-432218.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-450by601-432218.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-525by300-432218.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-350by200-432218.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-350by200-432218.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-843by1125-432218.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-700by934-432218.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-675by901-432218.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-450by601-432218.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-525by300-432218.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-350by200-432218.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_69-350by200-432218.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-925by1125-003f65.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-700by851-003f65.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-675by821-003f65.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-450by547-003f65.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-525by300-003f65.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-350by200-003f65.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-350by200-003f65.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-925by1125-003f65.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-700by851-003f65.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-675by821-003f65.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-450by547-003f65.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-525by300-003f65.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-350by200-003f65.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_70-350by200-003f65.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-1050by1094-628f5e.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-700by729-628f5e.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-675by703-628f5e.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-450by469-628f5e.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-525by300-628f5e.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-350by200-628f5e.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-350by200-628f5e.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-1050by1094-628f5e.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-700by729-628f5e.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-675by703-628f5e.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-450by469-628f5e.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-525by300-628f5e.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-350by200-628f5e.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_72-350by200-628f5e.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-1050by755-b7ab15.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-700by504-b7ab15.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-675by486-b7ab15.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-450by324-b7ab15.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-525by300-b7ab15.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-350by200-b7ab15.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-350by200-b7ab15.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-1050by755-b7ab15.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-700by504-b7ab15.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-675by486-b7ab15.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-450by324-b7ab15.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-525by300-b7ab15.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-350by200-b7ab15.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_73-350by200-b7ab15.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;!-- carousel-inner --&gt;
-      &lt;!-- Controls --&gt;
-      &lt;p&gt;&lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+&lt;/div&gt;  &lt;/div&gt;&lt;!-- carousel-inner --&gt;
+&lt;!-- Controls --&gt;
+  &lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
       &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&quot;right carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
       &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-    &lt;figure class=&quot;quote&quot;&gt;
-      &lt;blockquote&gt;
-        &lt;p&gt;the ‘design’ of the space is primarily an organisational strategy &amp;lt;/blockquote&amp;gt;  &amp;lt;figcaption&amp;gt;    &lt;span class=&quot;person&quot;&gt;Brian Donovan&lt;/span&gt;  &amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt; the &#39;design&#39; of the space is primarily an organisational strategy &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Donovan&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-        &lt;h3 id=&quot;a-new-studio-in-an-old-space&quot;&gt;A new studio in an old space&lt;/h3&gt;
+&lt;h3 id=&quot;a-new-studio-in-an-old-space&quot;&gt;A new studio in an old space&lt;/h3&gt;
 
-        &lt;p&gt;As the commercial tower typology continues to develop with each new tower built, owners of aging buildings are considering alternative and unique ways of occupying buildings to meet contemporary workplace needs. BVN’s fit out demonstrates an innovative new way of occupying these otherwise conventional spaces.&lt;/p&gt;
+&lt;p&gt;As the commercial tower typology continues to develop with each new tower built, owners of aging buildings are considering alternative and unique ways of occupying buildings to meet contemporary workplace needs. BVN’s fit out demonstrates an innovative new way of occupying these otherwise conventional spaces.&lt;/p&gt;
 
-        &lt;p&gt;Beyond the questions of representation, the refurbishment of a quality, but typical floor plate in a superb City location demonstrates our belief and commitment to re-use and the ability to derive identity from the latent qualities of the setting.&lt;/p&gt;
+&lt;p&gt;Beyond the questions of representation, the refurbishment of a quality, but typical floor plate in a superb City location demonstrates our belief and commitment to re-use and the ability to derive identity from the latent qualities of the setting.&lt;/p&gt;
 
-        &lt;p&gt;An essential question in the conception of an interiors project, is how to establish an identity appropriate to the circumstance. In our instance the agreed strategy was that our physical workplace needed to represent our place, ideas and values. Rather than ‘fabricated representation’, our methods and outputs are exposed to all, and in so doing are a genuine demonstration of the way we act, and what we do.&lt;/p&gt;
+&lt;p&gt;An essential question in the conception of an interiors project, is how to establish an identity appropriate to the circumstance. In our instance the agreed strategy was that our physical workplace needed to represent our place, ideas and values. Rather than ‘fabricated representation’, our methods and outputs are exposed to all, and in so doing are a genuine demonstration of the way we act, and what we do.&lt;/p&gt;
 
-        &lt;p&gt;Raw, but memorable in its physical presence, the ‘design’ of the space is primarily an organisational strategy that offers a range of spaces for studio members to engage in individual and group reflections and discussions that advance architectural and cultural ideas.&lt;/p&gt;
+&lt;p&gt;Raw, but memorable in its physical presence, the ‘design’ of the space is primarily an organisational strategy that offers a range of spaces for studio members to engage in individual and group reflections and discussions that advance architectural and cultural ideas.&lt;/p&gt;
 
-        &lt;p&gt;This range of places covers the full workplace spectrum - formal through to casual settings, individual through to large groups, private and public occasions. A continuous ‘working wall’ links these various parts of the studio and is detailed to communicate project ideas through in-situ drawings, pin up, image projection, video conference and model making.&lt;/p&gt;
+&lt;p&gt;This range of places covers the full workplace spectrum - formal through to casual settings, individual through to large groups, private and public occasions. A continuous ‘working wall’ links these various parts of the studio and is detailed to communicate project ideas through in-situ drawings, pin up, image projection, video conference and model making.&lt;/p&gt;
 
-        &lt;p&gt;The working wall is set against the inside edge of the circulation path, above the collection of product samples required in design offices. Thus the singular ‘street’ - the activated public realm - is the place that facilitates and supports interactions of all types, both scheduled and serendipitous. Street planning also includes addresses and destinations, including the series of work bays located in sync with the desk and column layout to ensure people are ‘with’ the view.  Large gathering places enabled by video conferencing facilities connected to the outside world are located at each end. The primary ‘Events Terrace’, adjacent to the entry, is modelled as a series of stepped tiers and platforms to enable large group, fully immersive and inclusive webcast conversations with multiple internal and external participants.&lt;/p&gt;
+&lt;p&gt;The working wall is set against the inside edge of the circulation path, above the collection of product samples required in design offices. Thus the singular ‘street’ - the activated public realm - is the place that facilitates and supports interactions of all types, both scheduled and serendipitous. Street planning also includes addresses and destinations, including the series of work bays located in sync with the desk and column layout to ensure people are ‘with’ the view.  Large gathering places enabled by video conferencing facilities connected to the outside world are located at each end. The primary ‘Events Terrace’, adjacent to the entry, is modelled as a series of stepped tiers and platforms to enable large group, fully immersive and inclusive webcast conversations with multiple internal and external participants.&lt;/p&gt;
 
-        &lt;p&gt;Arrival into the studio is through our working library, a surprising and effective way to signal our profession being integral with the history of knowledge transfer. A darkened space, with book spines reflecting the discrete lighting leads directly into the studio, where extensions of the tiered Events Terrace flooring become territories for ‘reception’ and ‘waiting’ and ‘kitchen’. The entire composition, singularly finished in off-white marmoleum is, in a sense, a folding landscape that invites multiple ways of use and occupation.&lt;/p&gt;
+&lt;p&gt;Arrival into the studio is through our working library, a surprising and effective way to signal our profession being integral with the history of knowledge transfer. A darkened space, with book spines reflecting the discrete lighting leads directly into the studio, where extensions of the tiered Events Terrace flooring become territories for ‘reception’ and ‘waiting’ and ‘kitchen’. The entire composition, singularly finished in off-white marmoleum is, in a sense, a folding landscape that invites multiple ways of use and occupation.&lt;/p&gt;
 
-        &lt;p&gt;Beyond its manner of occupation, the workplace is characterized by the exposed services and finishes, and the emphasis on the curvilinear bay windows shaped in response to the tower perimeter form, and which frame the various views of significant Brisbane places. Colour coding of the bays reinforces the orientation and outlook – green bay’s frame fig tree views, blue bays the river, gold bays the ‘Gold Tower’ and red bays St. Stephens Cathedral.&lt;/p&gt;
+&lt;p&gt;Beyond its manner of occupation, the workplace is characterized by the exposed services and finishes, and the emphasis on the curvilinear bay windows shaped in response to the tower perimeter form, and which frame the various views of significant Brisbane places. Colour coding of the bays reinforces the orientation and outlook – green bay’s frame fig tree views, blue bays the river, gold bays the ‘Gold Tower’ and red bays St. Stephens Cathedral.&lt;/p&gt;
 
-        &lt;p&gt;Credits:&lt;/p&gt;
+&lt;p&gt;Credits:&lt;/p&gt;
 
-        &lt;table&gt;
-          &lt;thead&gt;
-            &lt;tr&gt;
-              &lt;th&gt;Project Team&lt;/th&gt;
-              &lt;th&gt;Name&lt;/th&gt;
-              &lt;th&gt;Title&lt;/th&gt;
-            &lt;/tr&gt;
-          &lt;/thead&gt;
-          &lt;tbody&gt;
-            &lt;tr&gt;
-              &lt;td&gt; &lt;/td&gt;
-              &lt;td&gt;Paolo Frigenti&lt;/td&gt;
-              &lt;td&gt; &lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-              &lt;td&gt; &lt;/td&gt;
-              &lt;td&gt;KELSI Goan&lt;/td&gt;
-              &lt;td&gt; &lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-              &lt;td&gt; &lt;/td&gt;
-              &lt;td&gt;Greg Lamb&lt;/td&gt;
-              &lt;td&gt; &lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-              &lt;td&gt; &lt;/td&gt;
-              &lt;td&gt;Lucas Leo&lt;/td&gt;
-              &lt;td&gt; &lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-              &lt;td&gt; &lt;/td&gt;
-              &lt;td&gt;Kevin Murphy&lt;/td&gt;
-              &lt;td&gt; &lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-              &lt;td&gt; &lt;/td&gt;
-              &lt;td&gt;Kellie Newman&lt;/td&gt;
-              &lt;td&gt; &lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-              &lt;td&gt; &lt;/td&gt;
-              &lt;td&gt;Phillip J Tait&lt;/td&gt;
-              &lt;td&gt; &lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/tbody&gt;
-        &lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Project Team&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Paolo Frigenti&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;KELSI Goan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Greg Lamb&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Lucas Leo&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Kevin Murphy&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Kellie Newman&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Phillip J Tait&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-        &lt;p&gt;Builders: Apollo – Leon Bowes
+&lt;p&gt;Builders: Apollo – Leon Bowes
 Services:&lt;/p&gt;
 
-      &lt;/blockquote&gt;
-    &lt;/figure&gt;
-  &lt;/blockquote&gt;
-&lt;/figure&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 10:00:00 +1000</pubDate>
         <link>http://bvn-architecture.github.io/transformative/transformative-4/Brisbane-Studio.html</link>
@@ -1143,37 +1101,31 @@ Services:&lt;/p&gt;
       <item>
         <title>Arup</title>
         <description>&lt;div class=&quot;project-details&quot;&gt;
-###Location
+&lt;h3&gt;Location&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
-###Client
+&lt;h3&gt;Client&lt;/h3&gt;
 
-Arup
+&lt;p&gt;Arup&lt;/p&gt;
 
-###Completed
+&lt;h3&gt;Completed&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
-###Floor Area
+&lt;h3&gt;Floor Area&lt;/h3&gt;
 
-Stella to put in details
+&lt;p&gt;Stella to put in details&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;figure class=&quot;quote&quot;&gt;
-  &lt;blockquote&gt;
-    &lt;p&gt;The Workshop recalibrates the notion of a place at the centre of everything&lt;/p&gt;
-  &lt;/blockquote&gt;
-  &lt;figcaption&gt;
-    &lt;pre&gt;&lt;code&gt;&amp;lt;span class=&quot;person&quot;&amp;gt;Ninotschka Titchkosky&amp;lt;/span&amp;gt;  &amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
+The Workshop recalibrates the notion of a place at the centre of everything 
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Ninotschka Titchkosky&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-    &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-      &lt;!--indicators were in here--&gt;
-      &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
-        &lt;div class=&quot;item active&quot;&gt;
-          &lt;picture&gt;
+&lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+&lt;!--indicators were in here--&gt;
+  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;&lt;div class=&quot;item active&quot;&gt;&lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/arup/arup_00-1024by683-243d92.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/arup/arup_00-700by467-243d92.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/arup/arup_00-675by450-243d92.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
@@ -1183,349 +1135,323 @@ Stella to put in details
     &lt;img srcset=&quot;/transformative/generated/arup/arup_00-350by200-243d92.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
   &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_01-1024by683-bca302.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_01-700by467-bca302.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_01-675by450-bca302.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_01-450by300-bca302.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_01-525by300-bca302.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_01-350by200-bca302.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_01-350by200-bca302.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_01-1024by683-bca302.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_01-700by467-bca302.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_01-675by450-bca302.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_01-450by300-bca302.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_01-525by300-bca302.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_01-350by200-bca302.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_01-350by200-bca302.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_02-1024by683-b47f6e.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_02-700by467-b47f6e.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_02-675by450-b47f6e.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_02-450by300-b47f6e.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_02-525by300-b47f6e.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_02-350by200-b47f6e.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_02-350by200-b47f6e.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_02-1024by683-b47f6e.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_02-700by467-b47f6e.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_02-675by450-b47f6e.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_02-450by300-b47f6e.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_02-525by300-b47f6e.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_02-350by200-b47f6e.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_02-350by200-b47f6e.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_03-1024by683-f66675.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_03-700by467-f66675.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_03-675by450-f66675.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_03-450by300-f66675.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_03-525by300-f66675.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_03-350by200-f66675.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_03-350by200-f66675.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_03-1024by683-f66675.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_03-700by467-f66675.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_03-675by450-f66675.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_03-450by300-f66675.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_03-525by300-f66675.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_03-350by200-f66675.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_03-350by200-f66675.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_04-1024by683-3dd149.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_04-700by467-3dd149.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_04-675by450-3dd149.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_04-450by300-3dd149.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_04-525by300-3dd149.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_04-350by200-3dd149.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_04-350by200-3dd149.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_04-1024by683-3dd149.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_04-700by467-3dd149.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_04-675by450-3dd149.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_04-450by300-3dd149.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_04-525by300-3dd149.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_04-350by200-3dd149.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_04-350by200-3dd149.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_05-1024by683-9513f3.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_05-700by467-9513f3.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_05-675by450-9513f3.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_05-450by300-9513f3.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_05-525by300-9513f3.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_05-350by200-9513f3.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_05-350by200-9513f3.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_05-1024by683-9513f3.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_05-700by467-9513f3.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_05-675by450-9513f3.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_05-450by300-9513f3.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_05-525by300-9513f3.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_05-350by200-9513f3.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_05-350by200-9513f3.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_06-1024by683-8aabcc.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_06-700by467-8aabcc.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_06-675by450-8aabcc.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_06-450by300-8aabcc.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_06-525by300-8aabcc.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_06-350by200-8aabcc.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_06-350by200-8aabcc.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_06-1024by683-8aabcc.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_06-700by467-8aabcc.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_06-675by450-8aabcc.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_06-450by300-8aabcc.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_06-525by300-8aabcc.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_06-350by200-8aabcc.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_06-350by200-8aabcc.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_07-1024by683-4fedda.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_07-700by467-4fedda.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_07-675by450-4fedda.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_07-450by300-4fedda.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_07-525by300-4fedda.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_07-350by200-4fedda.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_07-350by200-4fedda.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_07-1024by683-4fedda.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_07-700by467-4fedda.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_07-675by450-4fedda.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_07-450by300-4fedda.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_07-525by300-4fedda.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_07-350by200-4fedda.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_07-350by200-4fedda.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_08-1024by683-1d7ec1.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_08-700by467-1d7ec1.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_08-675by450-1d7ec1.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_08-450by300-1d7ec1.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_08-525by300-1d7ec1.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_08-350by200-1d7ec1.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_08-350by200-1d7ec1.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_08-1024by683-1d7ec1.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_08-700by467-1d7ec1.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_08-675by450-1d7ec1.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_08-450by300-1d7ec1.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_08-525by300-1d7ec1.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_08-350by200-1d7ec1.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_08-350by200-1d7ec1.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_09-1024by683-a18155.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_09-700by467-a18155.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_09-675by450-a18155.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_09-450by300-a18155.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_09-525by300-a18155.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_09-350by200-a18155.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_09-350by200-a18155.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_09-1024by683-a18155.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_09-700by467-a18155.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_09-675by450-a18155.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_09-450by300-a18155.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_09-525by300-a18155.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_09-350by200-a18155.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_09-350by200-a18155.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_10-1024by683-5e19f8.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_10-700by467-5e19f8.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_10-675by450-5e19f8.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_10-450by300-5e19f8.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_10-525by300-5e19f8.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_10-350by200-5e19f8.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_10-350by200-5e19f8.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_10-1024by683-5e19f8.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_10-700by467-5e19f8.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_10-675by450-5e19f8.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_10-450by300-5e19f8.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_10-525by300-5e19f8.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_10-350by200-5e19f8.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_10-350by200-5e19f8.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_11-1024by683-92a5d7.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_11-700by467-92a5d7.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_11-675by450-92a5d7.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_11-450by300-92a5d7.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_11-525by300-92a5d7.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_11-350by200-92a5d7.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_11-350by200-92a5d7.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_11-1024by683-92a5d7.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_11-700by467-92a5d7.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_11-675by450-92a5d7.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_11-450by300-92a5d7.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_11-525by300-92a5d7.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_11-350by200-92a5d7.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_11-350by200-92a5d7.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_12-1024by683-616367.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_12-700by467-616367.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_12-675by450-616367.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_12-450by300-616367.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_12-525by300-616367.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_12-350by200-616367.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_12-350by200-616367.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_12-1024by683-616367.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_12-700by467-616367.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_12-675by450-616367.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_12-450by300-616367.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_12-525by300-616367.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_12-350by200-616367.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_12-350by200-616367.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_13-1024by683-252d92.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_13-700by467-252d92.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_13-675by450-252d92.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_13-450by300-252d92.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_13-525by300-252d92.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_13-350by200-252d92.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_13-350by200-252d92.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_13-1024by683-252d92.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_13-700by467-252d92.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_13-675by450-252d92.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_13-450by300-252d92.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_13-525by300-252d92.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_13-350by200-252d92.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_13-350by200-252d92.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_14-683by1024-11a9ed.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_14-683by1024-11a9ed.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_14-675by1012-11a9ed.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_14-450by675-11a9ed.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_14-525by300-11a9ed.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_14-350by200-11a9ed.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_14-350by200-11a9ed.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_14-683by1024-11a9ed.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_14-683by1024-11a9ed.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_14-675by1012-11a9ed.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_14-450by675-11a9ed.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_14-525by300-11a9ed.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_14-350by200-11a9ed.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_14-350by200-11a9ed.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_15-1024by683-041896.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_15-700by467-041896.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_15-675by450-041896.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_15-450by300-041896.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_15-525by300-041896.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_15-350by200-041896.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_15-350by200-041896.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_15-1024by683-041896.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_15-700by467-041896.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_15-675by450-041896.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_15-450by300-041896.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_15-525by300-041896.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_15-350by200-041896.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_15-350by200-041896.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_16-1024by683-d54473.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_16-700by467-d54473.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_16-675by450-d54473.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_16-450by300-d54473.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_16-525by300-d54473.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_16-350by200-d54473.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_16-350by200-d54473.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_16-1024by683-d54473.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_16-700by467-d54473.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_16-675by450-d54473.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_16-450by300-d54473.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_16-525by300-d54473.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_16-350by200-d54473.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_16-350by200-d54473.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_17-1024by683-411887.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_17-700by467-411887.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_17-675by450-411887.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_17-450by300-411887.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_17-525by300-411887.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_17-350by200-411887.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_17-350by200-411887.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_17-1024by683-411887.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_17-700by467-411887.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_17-675by450-411887.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_17-450by300-411887.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_17-525by300-411887.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_17-350by200-411887.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_17-350by200-411887.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_18-1024by683-f2a7d2.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_18-700by467-f2a7d2.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_18-675by450-f2a7d2.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_18-450by300-f2a7d2.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_18-525by300-f2a7d2.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_18-350by200-f2a7d2.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_18-350by200-f2a7d2.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_18-1024by683-f2a7d2.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_18-700by467-f2a7d2.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_18-675by450-f2a7d2.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_18-450by300-f2a7d2.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_18-525by300-f2a7d2.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_18-350by200-f2a7d2.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_18-350by200-f2a7d2.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_19-1024by683-b0c2c1.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_19-700by467-b0c2c1.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_19-675by450-b0c2c1.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_19-450by300-b0c2c1.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_19-525by300-b0c2c1.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_19-350by200-b0c2c1.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_19-350by200-b0c2c1.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_19-1024by683-b0c2c1.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_19-700by467-b0c2c1.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_19-675by450-b0c2c1.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_19-450by300-b0c2c1.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_19-525by300-b0c2c1.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_19-350by200-b0c2c1.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_19-350by200-b0c2c1.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_20-1024by683-8abd0d.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_20-700by467-8abd0d.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_20-675by450-8abd0d.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_20-450by300-8abd0d.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_20-525by300-8abd0d.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_20-350by200-8abd0d.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_20-350by200-8abd0d.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_20-1024by683-8abd0d.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_20-700by467-8abd0d.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_20-675by450-8abd0d.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_20-450by300-8abd0d.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_20-525by300-8abd0d.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_20-350by200-8abd0d.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_20-350by200-8abd0d.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_21-1024by683-cfb900.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_21-700by467-cfb900.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_21-675by450-cfb900.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_21-450by300-cfb900.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_21-525by300-cfb900.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_21-350by200-cfb900.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_21-350by200-cfb900.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_21-1024by683-cfb900.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_21-700by467-cfb900.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_21-675by450-cfb900.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_21-450by300-cfb900.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_21-525by300-cfb900.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_21-350by200-cfb900.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_21-350by200-cfb900.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-          &lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&#39;item&#39;&amp;gt;&amp;lt;picture&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_22-1024by683-bce8b3.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_22-700by467-bce8b3.jpg&quot; media=&quot;(min-width: 40em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_22-675by450-bce8b3.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_22-450by300-bce8b3.jpg&quot; media=&quot;(min-width: 30em)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_22-525by300-bce8b3.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot;&amp;gt;
-&amp;lt;source srcset=&quot;/transformative/generated/arup/arup_22-350by200-bce8b3.jpg&quot;&amp;gt;
-&amp;lt;img srcset=&quot;/transformative/generated/arup/arup_22-350by200-bce8b3.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-          &lt;p&gt;&amp;lt;/picture&amp;gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class=&quot;item&quot;&gt;&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_22-1024by683-bce8b3.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_22-700by467-bce8b3.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_22-675by450-bce8b3.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_22-450by300-bce8b3.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_22-525by300-bce8b3.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/arup/arup_22-350by200-bce8b3.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/arup/arup_22-350by200-bce8b3.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
 
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;!-- carousel-inner --&gt;
-      &lt;!-- Controls --&gt;
-      &lt;p&gt;&lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+&lt;/div&gt;  &lt;/div&gt;&lt;!-- carousel-inner --&gt;
+&lt;!-- Controls --&gt;
+  &lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
       &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&quot;right carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
       &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;&lt;/p&gt;
-    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-    &lt;h3 id=&quot;a-model-of-work-spaces&quot;&gt;A model of work spaces&lt;/h3&gt;
+&lt;h3 id=&quot;a-model-of-work-spaces&quot;&gt;A model of work spaces&lt;/h3&gt;
 
-    &lt;p&gt;BVN were commissioned to work with Arup to create a pilot project that would allow the people in Arup to experience and experiment with new types of spaces that would inform their future move to a new building.
+&lt;p&gt;BVN were commissioned to work with Arup to create a pilot project that would allow the people in Arup to experience and experiment with new types of spaces that would inform their future move to a new building.
 BVN embraced the idea that an innovative engineering firm such as Arup needs more than just rectangular desks, computer screens and traditional meeting rooms.&lt;/p&gt;
 
-    &lt;p&gt;BVN wanted to find a model of work spaces that are specific to Arup, that would also help encourage innovation and experimentation within the business and were better aligned with who they believe they are.&lt;/p&gt;
+&lt;p&gt;BVN wanted to find a model of work spaces that are specific to Arup, that would also help encourage innovation and experimentation within the business and were better aligned with who they believe they are.&lt;/p&gt;
 
-    &lt;p&gt;Importantly, the design builds on feedback from staff about being able to have sit-stand desks, a greater variety of spaces as well as spaces which express both the Arup culture and the work and research done within the firm.&lt;/p&gt;
+&lt;p&gt;Importantly, the design builds on feedback from staff about being able to have sit-stand desks, a greater variety of spaces as well as spaces which express both the Arup culture and the work and research done within the firm.&lt;/p&gt;
 
-    &lt;p&gt;The design was developed in two parts.  The first part comprised of an ABW trial space for the consulting group which included work-points, collaborative spaces and lounges and a quiet workspace “the Den”. By selecting three different furniture suppliers ARUP were given the chance to trial and review different furniture settings.&lt;/p&gt;
+&lt;p&gt;The design was developed in two parts.  The first part comprised of an ABW trial space for the consulting group which included work-points, collaborative spaces and lounges and a quiet workspace “the Den”. By selecting three different furniture suppliers ARUP were given the chance to trial and review different furniture settings.&lt;/p&gt;
 
-    &lt;p&gt;Secondly, the Workshop – that was developed in collaboration with Koskela - included a variety of spaces,   such as informal and flexible collaboration spaces, social spaces and spaces devoted to knowledge sharing and research.  In addition the meeting spaces were designed to be radically reconfigurable using folding and sliding walls and a variety of flexible furniture that allows for all types of gatherings ranging from small meetings to ‘Town Hall’ events involving the entire firm.&lt;/p&gt;
+&lt;p&gt;Secondly, the Workshop – that was developed in collaboration with Koskela - included a variety of spaces,   such as informal and flexible collaboration spaces, social spaces and spaces devoted to knowledge sharing and research.  In addition the meeting spaces were designed to be radically reconfigurable using folding and sliding walls and a variety of flexible furniture that allows for all types of gatherings ranging from small meetings to ‘Town Hall’ events involving the entire firm.&lt;/p&gt;
 
-    &lt;p&gt;The Workshop recalibrates the notion of a place at the centre of everything by enabling ideas to be exchanged and objects to be tinkered with both digital and physical. This is aided by the location of the centre for knowledge sharing and research for Arup (Arup University) at the heart of this space, as an archetype of the future model, the workshop is a space which encourages people to collaborate, experiment, discuss, build, research and impart knowledge.&lt;/p&gt;
+&lt;p&gt;The Workshop recalibrates the notion of a place at the centre of everything by enabling ideas to be exchanged and objects to be tinkered with both digital and physical. This is aided by the location of the centre for knowledge sharing and research for Arup (Arup University) at the heart of this space, as an archetype of the future model, the workshop is a space which encourages people to collaborate, experiment, discuss, build, research and impart knowledge.&lt;/p&gt;
 
-    &lt;h1 id=&quot;team&quot;&gt;Team&lt;/h1&gt;
+&lt;h1 id=&quot;team&quot;&gt;Team&lt;/h1&gt;
 
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;Project Team&lt;/th&gt;
-          &lt;th&gt;Name&lt;/th&gt;
-          &lt;th&gt;Title&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Ninotschka Titchkosky&lt;/td&gt;
-          &lt;td&gt;Project Principal&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Alex Chaston&lt;/td&gt;
-          &lt;td&gt;Project Team&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Chris Bickerton&lt;/td&gt;
-          &lt;td&gt;Project Team&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Patrik Typpo&lt;/td&gt;
-          &lt;td&gt;Graphics&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Project Team&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Ninotschka Titchkosky&lt;/td&gt;
+      &lt;td&gt;Project Principal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Alex Chaston&lt;/td&gt;
+      &lt;td&gt;Project Team&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Chris Bickerton&lt;/td&gt;
+      &lt;td&gt;Project Team&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Patrik Typpo&lt;/td&gt;
+      &lt;td&gt;Graphics&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;Consultant Team&lt;/th&gt;
-          &lt;th&gt;Company Name&lt;/th&gt;
-          &lt;th&gt;Role&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Exceed Construction Management Pty Ltd&lt;/td&gt;
-          &lt;td&gt;Main Contractor&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Koskela&lt;/td&gt;
-          &lt;td&gt;Furniture&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Schiavello&lt;/td&gt;
-          &lt;td&gt;Furniture&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Unifor&lt;/td&gt;
-          &lt;td&gt;Furniture&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;Kasian&lt;/td&gt;
-          &lt;td&gt;Mechanical, electrical, lighting and all services&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Consultant Team&lt;/th&gt;
+      &lt;th&gt;Company Name&lt;/th&gt;
+      &lt;th&gt;Role&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Exceed Construction Management Pty Ltd&lt;/td&gt;
+      &lt;td&gt;Main Contractor&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Koskela&lt;/td&gt;
+      &lt;td&gt;Furniture&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Schiavello&lt;/td&gt;
+      &lt;td&gt;Furniture&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Unifor&lt;/td&gt;
+      &lt;td&gt;Furniture&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Kasian&lt;/td&gt;
+      &lt;td&gt;Mechanical, electrical, lighting and all services&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 </description>
         <pubDate>Mon, 01 Jun 2015 10:00:00 +1000</pubDate>
         <link>http://bvn-architecture.github.io/transformative/transformative-4/Arup.html</link>
