@@ -28,11 +28,25 @@ summary : |
 This image should be N39, but it's missing
 {: .caption}
 
-C-Drive, ASB Bank
+<div class="project-details">
+###Location
 
-Location Auckland, New Zealand
-Completed 2002
-Client ASB Bank
+Auckland, New Zealand
+
+###Client
+
+ASB Bank
+
+###Completed
+
+2002
+
+###Floor Area
+
+Stella to put in details
+
+</div>
+{::options parse_block_html="true" /}
 
 {% gallery { "dummy" : "dummy"} %}
   {% picture {{page.assetsfolder}}/cdrive-N1.jpg alt="" %}

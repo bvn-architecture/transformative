@@ -46,11 +46,10 @@ Stella to put in details
 This is an image caption, the .caption bit on the next line is important
 {: .caption}
 
-{% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} this demonstrates our belief and commitment to re-use {% endquote %}
+
+{% quote { "person" : "Brian Donovan" } %} this demonstrates our belief and commitment to re-use {% endquote %}
 
 {% picture {{page.assetsfolder}}/bne_studio_48.jpg alt="" %}
-This is an image caption, the .caption bit on the next line is important
-{: .caption}
 
 {% quote { "person" : "Brian Donovan", "source" : "", "date" : "" } %} the 'design' of the space is primarily an organisational strategy {% endquote %}
 
@@ -73,7 +72,7 @@ This is an image caption, the .caption bit on the next line is important
     {% picture {{page.assetsfolder}}/bne_studio_73.jpg alt="" %}
 {% endgallery %}
 
-A new studio in an old space
+###A new studio in an old space
 
 As the commercial tower typology continues to develop with each new tower built, owners of aging buildings are considering alternative and unique ways of occupying buildings to meet contemporary workplace needs. BVN’s fit out demonstrates an innovative new way of occupying these otherwise conventional spaces.
 

@@ -22,7 +22,7 @@ summary        : |
                   special metacharacters may
                   appear here. The extent of this string is indicated by indentation.
 ---
-<<<<<<< HEAD
+
 
 <div class="project-details">
 ###Location
@@ -44,10 +44,8 @@ Stella to put in details
 </div>
 {::options parse_block_html="true" /}
 
-{% quote { "person" : "Ninotschka Titchkosky", "source" : "", "date" : ""  } %}
-=======
+
 {% quote { "person" : "Ninotschka Titchkosky"  } %}
->>>>>>> 3412ffe3d39b2f50c1cbde0d3626a9e3fdd03391
 The Workshop recalibrates the notion of a place at the centre of everything 
 {% endquote %}
 

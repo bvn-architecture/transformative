@@ -7,6 +7,7 @@
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <pubDate>Fri, 26 Jun 2015 16:46:02 +1000</pubDate>
     <lastBuildDate>Fri, 26 Jun 2015 16:46:02 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
@@ -17,6 +18,10 @@
     <pubDate>Mon, 29 Jun 2015 07:59:19 +1000</pubDate>
     <lastBuildDate>Mon, 29 Jun 2015 07:59:19 +1000</lastBuildDate>
 >>>>>>> 3412ffe3d39b2f50c1cbde0d3626a9e3fdd03391
+=======
+    <pubDate>Mon, 29 Jun 2015 08:09:24 +1000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2015 08:09:24 +1000</lastBuildDate>
+>>>>>>> 097808cc789302cc30b571f57d215253dec91798
     <generator>Jekyll v2.5.3</generator>
 >>>>>>> aa44b841849c5245ccaf460967297b2168aba6f9
     
@@ -507,7 +512,9 @@ But it is the interior workspaces that impress.
     
       <item>
         <title>McCarthy Tetrault</title>
-        <description>&lt;p&gt;(insert quote “promotes osmotic learning and knowledge sharing”)&lt;/p&gt;
+        <description>&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
+promotes osmotic learning and knowledge sharing 
+&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Bill Dowzer&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;(Insert gallery
 Reception_final
@@ -698,20 +705,7 @@ Equally important is providing really great quality communal facilities with a l
     
       <item>
         <title>Brisbane Studio</title>
-        <description>&lt;p&gt;BVN Brisbane Studio&lt;/p&gt;
-&lt;picture&gt;
-    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-1050by787-a7823c.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-700by525-a7823c.jpg&quot; media=&quot;(min-width: 40em)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-675by506-a7823c.jpg&quot; media=&quot;(min-width: 30em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 30em) and (min-resolution: 144dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-450by337-a7823c.jpg&quot; media=&quot;(min-width: 30em)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-525by300-a7823c.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-350by200-a7823c.jpg&quot; /&gt;
-    &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_44-350by200-a7823c.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
-  &lt;/picture&gt;
-
-&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
-
-&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt; this demonstrates our belief and commitment to re-use &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Donovan&lt;/span&gt;, &lt;cite&gt;&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;()&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
+        <description>&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt; this demonstrates our belief and commitment to re-use &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Donovan&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_48-1050by642-d987b8.jpg&quot; media=&quot;(min-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 40em) and (min-resolution: 144dpi)&quot; /&gt;
@@ -722,8 +716,6 @@ Equally important is providing really great quality communal facilities with a l
     &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_48-350by200-d987b8.jpg&quot; /&gt;
     &lt;img srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_48-350by200-d987b8.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
   &lt;/picture&gt;
-
-&lt;p class=&quot;caption&quot;&gt;This is an image caption, the .caption bit on the next line is important&lt;/p&gt;
 
 &lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt; the &#39;design&#39; of the space is primarily an organisational strategy &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Brian Donovan&lt;/span&gt;, &lt;cite&gt;&lt;/cite&gt; &lt;span class=&quot;date&quot;&gt;()&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
@@ -901,7 +893,7 @@ Equally important is providing really great quality communal facilities with a l
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;A new studio in an old space&lt;/p&gt;
+&lt;h3 id=&quot;a-new-studio-in-an-old-space&quot;&gt;A new studio in an old space&lt;/h3&gt;
 
 &lt;p&gt;As the commercial tower typology continues to develop with each new tower built, owners of aging buildings are considering alternative and unique ways of occupying buildings to meet contemporary workplace needs. BVN’s fit out demonstrates an innovative new way of occupying these otherwise conventional spaces.&lt;/p&gt;
 
