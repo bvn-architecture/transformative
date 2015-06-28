@@ -43,7 +43,7 @@ Stella to put in details
 Stella to put in details
 
 </div>
-{::options parse_block_html="true" /}
+
 
 {% quote { "person" : "Barbara Chapman, CEO ASB", "source" : "told BRW"} %}
     …the design of the building has fundamentally changed the way we as a business operate for the better
