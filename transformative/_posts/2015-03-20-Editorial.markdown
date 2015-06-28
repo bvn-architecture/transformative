@@ -1,7 +1,7 @@
 ---
 layout         : post
-title          : "Overview"
-subtitle       : "I'm an editorial"
+title          : "Editorial"
+subtitle       : "Defining workplace"
 tagline        : "Editorial"
 
 assetsfolder   : "asb"
