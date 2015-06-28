@@ -17,9 +17,7 @@ author-twitter : stelladevulder
 author-facebook: "https://www.facebook.com/stella.devulder"
 
 summary        : |
-                  This is a multi-line string.
-                  special metacharacters may
-                  appear here. The extent of this string is indicated by indentation.
+                  Making a 21C studio out of an 80s interior.
 ---
 
 <div class="project-details">
