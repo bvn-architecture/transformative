@@ -105,6 +105,14 @@ p {
   }
 }
 
+article p {
+  width: 70%;
+}
+.featured-image {
+  width: 70%;
+  float: left;
+  margin-right: 1em;
+}
 
 
 .post-content {
@@ -244,8 +252,13 @@ img.blog-full {
 .project-details {
   float: right;
   width: 30%;
-  border: 1px solid white;
   padding: 1em;
+  h3 {
+    margin: -0.2em;
+  }
+  p{
+    line-height: 1.1;
+  }
 }
 
 .post-picture {

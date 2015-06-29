@@ -18,15 +18,15 @@ class HashedImageName < Liquid::Block
       target   = "_site/generated/"+newName[0]+"*"+newName[1]
       thisHash = Dir.glob(target)[0].split(".")[0].split(//).last(6).join
       newName  = "generated/"+newName[0]+"-525by300-"+thisHash+"."+newName[1]
-      puts newName
+      # puts newName
     
       return newName
     rescue
-      puts "freaky with |" + super + "|"
+      # puts "freaky with |" + super + "|"
       target   = "_site/generated/asb/asb-N66*.jpg"
       thisHash = Dir.glob(target)[0].split(".")[0].split(//).last(6).join
       newName  = "generated/asb-N66-525by300-"+thisHash+".jpg"
-      puts newName
+      # puts newName
     
       return newName
     end

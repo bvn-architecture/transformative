@@ -1,10 +1,13 @@
 figure.quote {
+    padding-left: 1em;
     blockquote {
     	font-family: $medium-font-family;
+        border: none;
+        padding: none;
     }
     figcaption {
-    	font-size: 78%;
-  		font-style: italic;
+        font-size: 78%;
+        font-style: italic;
         span.person {}
         cite {}
         span.date{}
