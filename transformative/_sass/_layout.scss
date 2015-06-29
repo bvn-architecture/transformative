@@ -211,7 +211,7 @@ img.blog-full {
   .post-picture{display: none;}
   p{
     color: rgba(99,99,99,1);
-    font-size: 111%;
+    font-size: 118%;
     line-height: 120%;
   }
   h2{margin: 0;}
@@ -237,7 +237,7 @@ img.blog-full {
 }
 .primary-story h2, .secondary-story h2 {
   margin: 0;
-  margin-top: 0.4em;
+  margin-top: 0.28em;
 }
 
 .project-details {
@@ -269,7 +269,7 @@ img.blog-full {
       background-color: $heading-color;
       border-radius: 50%;
       text-align: center;
-      margin: 10px;
+      margin: 5px;
       line-height: 200%;
     }
 }
@@ -345,6 +345,7 @@ h1.site-title {
   margin: auto;
 }
 .site-footer{
+  margin-top: 50em;
   .attr {
     float: right;
     a{text-decoration: none;}

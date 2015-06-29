@@ -4,7 +4,7 @@ header.site-header {
     margin-bottom: 2em;
     position: fixed;
     height: 7em;
-    background-color: rgba(29, 29, 29, 0.80);
+    background-color: $background-color;
     width: 100%;
     z-index: 900;
     text-transform: uppercase;
