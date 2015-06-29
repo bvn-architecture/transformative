@@ -319,6 +319,11 @@ p.in-post-nav {
   position: fixed;
   top: 3em;
   z-index: 1000;
+  background-color: $background-color;
+}
+p.clear-both-sides{
+  display: block;
+  clear: both;
 }
 .nav-arrow {
   display: block;
