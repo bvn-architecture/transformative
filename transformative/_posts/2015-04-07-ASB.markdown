@@ -16,10 +16,10 @@ author-name    : Stella DeVulder
 author-twitter : stelladevulder
 author-facebook: "https://www.facebook.com/stella.devulder"
 
-summary        : This is a string. 
+summary        : This design made ASB business better. 
 ---
 
-##Look at me, I'm a title
+##Barbara Chapman talks about ASB design
 
 {% quote { "person" : "Barbara Chapman, CEO ASB", "source" : "told BRW"} %}
     "…the design of the building has fundamentally changed the way we as a business operate for the better"
