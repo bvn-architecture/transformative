@@ -13,7 +13,7 @@ layout: default
         {% assign post = site.posts.first %}
         <span class="in-post-nav"><a href="{{ post.url | prepend: site.baseurl }}" {% if page.url == post.url %}class="this-page"{% endif %}>{{ post.title }}</a></span>
         {% for post in site.posts offset:1 %}
-        <span class="in-post-nav">{{forloop.index | pad}}. <a href="{{ post.url | prepend: site.baseurl }}" {% if page.url == post.url %}class="this-page"{% endif %}>{{ post.title }}</a></span>
+        <span class="in-post-nav"><a href="{{ post.url | prepend: site.baseurl }}" {% if page.url == post.url %} class="this-page"{% endif %}>{{forloop.index | pad}}. {{ post.title }}</a></span>
         {% endfor %}</p>
 
         <header class="post-header">
@@ -21,7 +21,7 @@ layout: default
             <p class="post-subtitle">{{page.subtitle}}</p>
         </header>
         <article class="post-content">
-            {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="An unsual picture" %}
+            {% picture {{page.assetsfolder}}/{{page.imgfeatured}} alt="{{page.img_alt_text}}" class="featured-image" %}
 
             {{ content }}
         </article>
