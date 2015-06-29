@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jun 2015 16:30:46 +1000</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2015 16:30:46 +1000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2015 16:35:22 +1000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2015 16:35:22 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -1213,9 +1213,45 @@ Services:&lt;/p&gt;
     
       <item>
         <title>Arup</title>
-        <description>&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
-The Workshop recalibrates the notion of a place at the centre of everything 
-&lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Ninotschka Titchkosky&lt;/span&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
+        <description>&lt;h1 id=&quot;head&quot;&gt;«««&amp;lt; HEAD&lt;/h1&gt;
+
+&lt;div class=&quot;project-details&quot;&gt;
+&lt;h3&gt;Location&lt;/h3&gt;
+
+&lt;p&gt;201 Kent Street, Sydney&lt;/p&gt;
+
+&lt;h3&gt;Client&lt;/h3&gt;
+
+&lt;p&gt;Arup&lt;/p&gt;
+
+&lt;h3&gt;Completed&lt;/h3&gt;
+
+&lt;p&gt;February 2015&lt;/p&gt;
+
+&lt;h3&gt;Floor Area&lt;/h3&gt;
+
+&lt;p&gt;1000sqm&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;blockquote&gt;
+      &lt;blockquote&gt;
+        &lt;blockquote&gt;
+          &lt;blockquote&gt;
+            &lt;blockquote&gt;
+              &lt;p&gt;3d1581ddd0a9180c788b16378e8dc0a9cfd5da30
+&lt;figure class=&quot;quote&quot;&gt;  &amp;lt;blockquote&amp;gt;
+The Workshop recalibrates the notion of a place at the centre of everything &lt;/figure&gt;&lt;/p&gt;
+            &lt;/blockquote&gt;
+          &lt;/blockquote&gt;
+        &lt;/blockquote&gt;
+      &lt;/blockquote&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;lt;/blockquote&amp;gt;  &amp;lt;figcaption&amp;gt;    &lt;span class=&quot;person&quot;&gt;Ninotschka Titchkosky&lt;/span&gt;  &amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
 
 &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
 &lt;!--indicators were in here--&gt;
