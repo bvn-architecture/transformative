@@ -214,7 +214,8 @@ p {
     font-size: 340%;
     letter-spacing: -1px;
     line-height: 80%;
-    margin: 0; }
+    margin: 0;
+    text-transform: uppercase; }
   .post-header .post-subtitle {
     color: #b4b4b4;
     font-family: "Blender-book", "Blender", Arial, sans-serif;
@@ -575,6 +576,9 @@ th {
 
 figure.quote blockquote {
   font-family: "Blender-medium", "Blender", Arial, sans-serif; }
+figure.quote figcaption {
+  font-size: 78%;
+  font-style: italic; }
 
 header.site-header {
   border: 0;
