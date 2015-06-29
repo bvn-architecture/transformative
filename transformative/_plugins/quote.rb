@@ -5,7 +5,7 @@ class Quote < Liquid::Block
     super
 
     if markup.to_s == ''
-      markup = "{\"dummy\":\"\"}"#I don't like this at all!
+      markup = '{"dummy":""}'#I don't like this at all!
     end
     @x = JSON.parse markup
   end
