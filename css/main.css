@@ -223,6 +223,14 @@ p {
     letter-spacing: -1px;
     line-height: 1; }
 
+article p {
+  width: 70%; }
+
+.featured-image {
+  width: 70%;
+  float: left;
+  margin-right: 1em; }
+
 .post-content {
   margin-bottom: 30px; }
 
@@ -333,8 +341,11 @@ img.blog-full {
 .project-details {
   float: right;
   width: 30%;
-  border: 1px solid white;
   padding: 1em; }
+  .project-details h3 {
+    margin: -0.2em; }
+  .project-details p {
+    line-height: 1.1; }
 
 .post-picture {
   position: relative; }
@@ -574,11 +585,15 @@ th {
   .highlight .il {
     color: #099; }
 
-figure.quote blockquote {
-  font-family: "Blender-medium", "Blender", Arial, sans-serif; }
-figure.quote figcaption {
-  font-size: 78%;
-  font-style: italic; }
+figure.quote {
+  padding-left: 1em; }
+  figure.quote blockquote {
+    font-family: "Blender-medium", "Blender", Arial, sans-serif;
+    border: none;
+    padding: none; }
+  figure.quote figcaption {
+    font-size: 78%;
+    font-style: italic; }
 
 header.site-header {
   border: 0;
