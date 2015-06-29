@@ -398,7 +398,12 @@ p.in-post-nav {
   text-align: center;
   position: fixed;
   top: 3em;
-  z-index: 1000; }
+  z-index: 1000;
+  background-color: #1d1d1d; }
+
+p.clear-both-sides {
+  display: block;
+  clear: both; }
 
 .nav-arrow {
   display: block;
