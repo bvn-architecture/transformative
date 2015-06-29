@@ -24,26 +24,6 @@ summary : |
    appear here. The extent of this string is indicated by indentation.
 ---
 
-<div class="project-details">
-<h3>Location</h3>
-
-<p>Auckland, New Zealand</p>
-
-<h3>Client</h3>
-
-<p>Northcote Road Holdings and Sovereign Services</p>
-
-<h3>Completed</h3>
-
-<p>2007</p>
-
-<h3>Floor Area</h3>
-
-<p>18,000m²</p>
-
-</div>
-
-
 {% gallery { "dummy" : "dummy"} %}
   {% picture {{page.assetsfolder}}/sov-N1.jpg alt="" %}
   {% picture {{page.assetsfolder}}/sov-N4.jpg alt="" %}
@@ -119,6 +99,25 @@ Awards:
 2008 ACENZ Award of Merit for Structural Engineering
 2008 RMB Commercial Project of the Year
 2008 RMB QBE Insurance Retail and Business Project
+
+<div class="project-details">
+<h3>Location</h3>
+
+<p>Auckland, New Zealand</p>
+
+<h3>Client</h3>
+
+<p>Northcote Road Holdings and Sovereign Services</p>
+
+<h3>Completed</h3>
+
+<p>2007</p>
+
+<h3>Floor Area</h3>
+
+<p>18,000m²</p>
+
+</div>
 
 Sovereign House is a six-storey building – a ground floor with five levels above it. It is the New Zealand head office for Sovereign Insurance, which is part of the ASB Group, and accommodates more than 750 employees in a new, contemporary workplace.
 

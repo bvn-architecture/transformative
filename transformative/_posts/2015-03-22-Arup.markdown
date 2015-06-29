@@ -21,28 +21,6 @@ summary        : |
                   A pilot experimenting with new types of spaces.
 ---
 
-
-<div class="project-details">
-<h3>Location</h3>
-
-<p>201 Kent Street, Sydney</p>
-
-<h3>Client</h3>
-
-<p>Arup</p>
-
-<h3>Completed</h3>
-
-<p>January 2015</p>
-
-<h3>Floor Area</h3>
-
-<p>Stella to put in details</p>
-
-</div>
-
-
-
 {% quote { "person" : "Ninotschka Titchkosky"  } %}
 The Workshop recalibrates the notion of a place at the centre of everything 
 {% endquote %}
@@ -73,6 +51,25 @@ The Workshop recalibrates the notion of a place at the centre of everything
     {% picture {{page.assetsfolder}}/arup_21.jpg alt="" %}
     {% picture {{page.assetsfolder}}/arup_22.jpg alt="" %}
 {% endgallery %}
+
+<div class="project-details">
+<h3>Location</h3>
+
+<p>201 Kent Street, Sydney</p>
+
+<h3>Client</h3>
+
+<p>Arup</p>
+
+<h3>Completed</h3>
+
+<p>January 2015</p>
+
+<h3>Floor Area</h3>
+
+<p>Stella to put in details  m²</p>
+
+</div>
 
 ###A model of work spaces 
 

@@ -20,34 +20,11 @@ summary        : |
                   Making a 21C studio out of an 80s interior.
 ---
 
-<div class="project-details">
-<h3>Location</h3>
-
-<p>12 Creek Street, Brisbane</p>
-
-<h3>Client</h3>
-
-<p>BVN</p>
-
-<h3>Completed</h3>
-
-<p>September 2014</p>
-
-<h3>Floor Area</h3>
-
-<p>1006sqm</p>
-
-</div>
-
+{% quote { "person" : "Brian Donovan" } %} this demonstrates our belief and commitment to re-use {% endquote %}
 
 {% picture {{page.assetsfolder}}/bne_studio_44.jpg alt="" %}
 This is an image caption, the .caption bit on the next line is important
 {: .caption}
-
-
-{% quote { "person" : "Brian Donovan" } %} this demonstrates our belief and commitment to re-use {% endquote %}
-
-
 
 {% gallery { "dummy" : "dummy"} %}
     {% picture {{page.assetsfolder}}/bne_studio_71.jpg alt="" %}
@@ -69,6 +46,25 @@ This is an image caption, the .caption bit on the next line is important
 {% endgallery %}
 
 {% quote { "person" : "Brian Donovan" } %} the 'design' of the space is primarily an organisational strategy {% endquote %}
+
+<div class="project-details">
+<h3>Location</h3>
+
+<p>12 Creek Street, Brisbane</p>
+
+<h3>Client</h3>
+
+<p>BVN</p>
+
+<h3>Completed</h3>
+
+<p>September 2014</p>
+
+<h3>Floor Area</h3>
+
+<p>1006m²</p>
+
+</div>
 
 ###A new studio in an old space
 

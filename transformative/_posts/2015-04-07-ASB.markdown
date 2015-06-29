@@ -25,26 +25,6 @@ summary        : |
 ASB North Wharf with Barbara Chapman
 {: .caption}
 
-<div class="project-details">
-<h3>Location</h3>
-
-<p>Wynyard Quarter, Auckland, NZ</p>
-
-<h3>Client</h3>
-
-<p>Kiwi Income Property Trust + ASB Bank</p>
-
-<h3>Completed</h3>
-
-<p>August 2013</p>
-
-<h3>Floor Area</h3>
-
-<p>28,000m2 GFA</p>
-
-</div>
-
-
 {% quote { "person" : "Barbara Chapman, CEO ASB", "source" : "told BRW"} %}
     …the design of the building has fundamentally changed the way we as a business operate for the better
 {% endquote %}
@@ -89,7 +69,6 @@ Workplace is a cultural phenomenon
     {% picture {{page.assetsfolder}}/asb-N90.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N91.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N94.jpg alt="" %}
-
     {% picture {{page.assetsfolder}}/asb-N102.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N103.jpg alt="" %}
     {% picture {{page.assetsfolder}}/asb-N104.jpg alt="" %}
@@ -110,6 +89,24 @@ Workplace is a cultural phenomenon
     Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
 {% endquote %}    
 
+<div class="project-details">
+<h3>Location</h3>
+
+<p>Wynyard Quarter, Auckland, NZ</p>
+
+<h3>Client</h3>
+
+<p>Kiwi Income Property Trust + ASB Bank</p>
+
+<h3>Completed</h3>
+
+<p>August 2013</p>
+
+<h3>Floor Area</h3>
+
+<p>28,000m² GFA</p>
+
+</div>
 
 ## The architecture of ASB North Wharf ##
 

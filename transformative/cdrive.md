@@ -28,26 +28,6 @@ summary : |
 This image should be N39, but it's missing
 {: .caption}
 
-<div class="project-details">
-<h3>Location</h3>
-
-<p>Auckland, New Zealand</p>
-
-<h3>Client</h3>
-
-<p>ASB Bank</p>
-
-<h3>Completed</h3>
-
-<p>2002</p>
-
-<h3>Floor Area</h3>
-
-<p>Stella to put in details</p>
-
-</div>
-
-
 {% gallery { "dummy" : "dummy"} %}
   {% picture {{page.assetsfolder}}/cdrive-N1.jpg alt="" %}
   {% picture {{page.assetsfolder}}/cdrive-N2.jpg alt="" %}
@@ -77,6 +57,25 @@ This image should be N39, but it's missing
   {% picture {{page.assetsfolder}}/cdrive-Sk1007.jpg alt="" %}
   {% picture {{page.assetsfolder}}/cdrive-Sk1010rev1.jpg alt="" %}
 {% endgallery %}
+
+<div class="project-details">
+<h3>Location</h3>
+
+<p>Auckland, New Zealand</p>
+
+<h3>Client</h3>
+
+<p>ASB Bank</p>
+
+<h3>Completed</h3>
+
+<p>2002</p>
+
+<h3>Floor Area</h3>
+
+<p>Stella to put in details  m²</p>
+
+</div>
 
 ###Awards
  * 2003 NZIA Architecture Award

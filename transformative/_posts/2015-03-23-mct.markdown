@@ -16,9 +16,23 @@ author-name    : Stella DeVulder
 author-twitter : stelladevulder
 author-facebook: "https://www.facebook.com/stella.devulder"
 
-summary        : |
-                  Canada's new model for legal workplaces.
+summary        : Canada's new model for legal workplaces.
 ---
+
+## We can have a heading here too!
+
+{% quote { "person" : "Bill Dowzer"  } %}
+promotes osmotic learning and knowledge sharing 
+{% endquote %}
+
+{% gallery { "dummy" : "dummy"} %}
+    {% picture {{page.assetsfolder}}/Knowledge_hub_final.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/Meeting_cropped_final.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/Patio_final.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/Reception_final.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/Workspace_final.jpg alt="" %}
+    {% picture {{page.assetsfolder}}/mct.jpg alt="" %}
+{% endgallery %}
 
 <div class="project-details">
 <h3>Location</h3>
@@ -35,27 +49,9 @@ summary        : |
 
 <h3>Floor Area</h3>
 
-<p>6000sqm</p>
+<p>6000m²</p>
 
 </div>
-
-
-{% quote { "person" : "Bill Dowzer"  } %}
-promotes osmotic learning and knowledge sharing 
-{% endquote %}
-
-{% gallery { "dummy" : "dummy"} %}
-    {% picture {{page.assetsfolder}}/Knowledge_hub_final.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/Meeting_cropped_final.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/Patio_final.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/Reception_final.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/Workspace_final.jpg alt="" %}
-    {% picture {{page.assetsfolder}}/mct.jpg alt="" %}
-{% endgallery %}
-
-    % picture {{page.assetsfolder}}/.jpg alt="" %
-    % picture {{page.assetsfolder}}/.jpg alt="" %
-    % picture {{page.assetsfolder}}/.jpg alt="" %
 
 ###Creating a new model for work
 
