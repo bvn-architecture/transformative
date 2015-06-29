@@ -23,19 +23,19 @@ summary        : |
 <div class="project-details">
 <h3>Location</h3>
 
-<p>Stella to put in details</p>
+<p>12 Creek Street, Brisbane</p>
 
 <h3>Client</h3>
 
-<p>Stella to put in details</p>
+<p>BVN</p>
 
 <h3>Completed</h3>
 
-<p>Stella to put in details</p>
+<p>September 2014</p>
 
 <h3>Floor Area</h3>
 
-<p>Stella to put in details</p>
+<p>1006sqm</p>
 
 </div>
 
