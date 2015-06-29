@@ -16,27 +16,30 @@ author-name    : Stella DeVulder
 author-twitter : stelladevulder
 author-facebook: "https://www.facebook.com/stella.devulder"
 
-summary        : |
-                  This is a multi-line string.
-                  special metacharacters 
+summary        : This is a string. 
 ---
 
-{% vimeo 107651238 %}
+##Look at me, I'm a title
+
+{% quote { "person" : "Barbara Chapman, CEO ASB", "source" : "told BRW"} %}
+    "…the design of the building has fundamentally changed the way we as a business operate for the better"
+{% endquote %}
+
+{% vimeo 107651238 %}{: .vid-and-x}
 ASB North Wharf with Barbara Chapman
 {: .caption}
 
-{% quote { "person" : "Barbara Chapman, CEO ASB", "source" : "told BRW"} %}
-    …the design of the building has fundamentally changed the way we as a business operate for the better
-{% endquote %}
+&nbsp;
+{: .clear-both-sides}
 
 James Grose
 
-{% vimeo 107651240 %}
+{% vimeo 107651240 %}{: .vid-and-x}
 Workplace is a cultural phenomenon
 {: .caption}
 
 {% quote {"person" : "James Grose"} %}
-    Workplace is no longer just about real estate
+    "Workplace is no longer just about real estate"
 {% endquote %}
 
 {% gallery { "dummy" : "dummy"} %}
