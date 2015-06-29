@@ -152,7 +152,7 @@ p {
   font-family: "Blender-medium", "Blender", Arial, sans-serif; }
 
 .caption {
-  font-size: 88%;
+  font-size: 78%;
   font-family: "Blender-book", "Blender", Arial, sans-serif; }
 
 /**
@@ -218,7 +218,7 @@ p {
   .post-header .post-subtitle {
     color: #b4b4b4;
     font-family: "Blender-book", "Blender", Arial, sans-serif;
-    font-size: 230%;
+    font-size: 250%;
     letter-spacing: -1px;
     line-height: 1; }
 
