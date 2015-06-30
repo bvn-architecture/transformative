@@ -347,7 +347,8 @@ p.clear-both-sides{
   }
 }
 .nav-arrow.go-prev {
-    transform: rotate(180deg);
+   -webkit-transform: rotate(180deg);
+           transform: rotate(180deg);
   }
 //end post specific
 
