@@ -454,9 +454,12 @@ th {
 .quote-and-content {
   border: 1px solid red; }
   .quote-and-content div.quote {
-    width: 30%; }
+    width: 30%;
+    display: inline-block; }
   .quote-and-content div.content {
-    width: 70%; }
+    width: 70%;
+    float: left;
+    display: inline-block; }
 
 /**
  * Syntax highlighting styles
