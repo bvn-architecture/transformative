@@ -18,6 +18,14 @@ class Gallery < Liquid::Block
     gallery_markup ="" +
 "<div id='gallery' class='carousel slide' data-ride='carousel'>
 <!--indicators were in here-->
+  <ol class='carousel-indicators'>
+  <li data-target='#carousel-example-generic' data-slide-to='0' class='active'></li>"
+
+for i in 1..newpics.length
+   gallery_markup << "<li data-target='#carousel-example-generic' data-slide-to='" + i.to_s + "'></li>"
+end
+
+  gallery_markup << "</ol>
   <div class='carousel-inner' role='listbox'>"
 
     flag = true
