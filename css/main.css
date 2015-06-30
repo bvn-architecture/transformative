@@ -451,15 +451,19 @@ th {
   color: #b4b4b4;
   font-size: 144.4444444444444%; }
 
-.quote-and-content {
-  border: 1px solid red; }
-  .quote-and-content div.quote {
-    width: 30%;
-    display: inline-block; }
-  .quote-and-content div.content {
-    width: 70%;
-    float: left;
-    display: inline-block; }
+.quote-and-content div.quote {
+  width: 30%;
+  display: inline-block; }
+.quote-and-content div.content {
+  width: 70%;
+  float: left;
+  display: inline-block; }
+.quote-and-content:after {
+  visibility: hidden;
+  display: block;
+  content: "";
+  clear: both;
+  height: 0; }
 
 /**
  * Syntax highlighting styles
