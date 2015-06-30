@@ -113,6 +113,15 @@ article p {
   float: left;
   margin-right: 1em;
 }
+@media (max-width: 1200px){
+    article p {
+    width: 100%;
+  }
+  .featured-image {
+    width: 100%;
+    margin-right: 0;
+  }
+}
 
 
 .post-content {
@@ -249,17 +258,7 @@ img.blog-full {
   margin-top: 0.28em;
 }
 
-.project-details {
-  float: right;
-  width: 30%;
-  padding: 1em;
-  h3 {
-    margin: -0.2em;
-  }
-  p{
-    line-height: 1.1;
-  }
-}
+
 
 .post-picture {
   position: relative;
