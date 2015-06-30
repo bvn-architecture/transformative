@@ -5,7 +5,7 @@ layout: default
 <div class="post row">
     <div class="col-sm-2 hidden-xs">
         {% if page.next %}
-            <a href="{{ page.next.url | prepend: site.baseurl }}" title="go to the previous article"><span class="nav-arrow go-prev">{% include arrow.svg %}</span></a>
+            <a href="{{ page.next.url | prepend: site.baseurl }}" class="mega-tap-target" title="go to the previous article"><span class="nav-arrow go-prev">{% include arrow.svg %}</span></a>
         {% endif %}
     </div>
     <div class="col-sm-8">
@@ -29,7 +29,7 @@ layout: default
     <div class="col-sm-offset-1 col-sm-1 hidden-xs">
 
         {% if page.previous %}
-            <a href="{{ page.previous.url | prepend: site.baseurl }}" title="go to the next article"><span class="nav-arrow go-next">{% include arrow.svg %}</span></a>
+            <a href="{{ page.previous.url | prepend: site.baseurl }}" class="mega-tap-target" title="go to the next article"><span class="nav-arrow go-next">{% include arrow.svg %}</span></a>
         {% endif %}
     </div>
 </div>
