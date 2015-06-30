@@ -24,6 +24,6 @@ What is evident reviewing the stories in TRANSFORMATIVE since 2013 is how workpl
 
 In contrast as least as far as size goes is the “Workshop” recently completed for ARUP in Sydney, that reconfigures a limited space into areas that can be altered in many different ways.  Our Brisbane studio was a lesson in reworking an 80s commercial floor layout into a 21C space backed by the latest technology enabling total flexibility. Currently under construction are new workplaces for one of Canada’s leading law firms who approached us when the managing partner visited Herbert Smith Freehills workplace in Sydney. 
 
-Follow us on TWITTER @ArchitectureBVN or register (live link) so that we can share developments in the next generation workplace with you.
+Follow us on [Twitter @ArchitectureBVN](https://twitter.com/architecturebvn) or <a data-toggle="modal" data-target="#registrationModal">register</a> so that we can share developments in the next generation workplace with you.
 
 
