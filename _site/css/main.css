@@ -405,6 +405,11 @@ p.clear-both-sides {
   display: block;
   clear: both; }
 
+.mega-tap-target {
+  width: 100%;
+  height: 50em;
+  display: block; }
+
 .nav-arrow {
   display: block;
   width: 64px;
@@ -451,6 +456,9 @@ th {
   color: #b4b4b4;
   font-size: 144.4444444444444%; }
 
+.carousel-control {
+  opacity: 0; }
+
 .quote-and-content div.quote {
   width: 30%;
   display: inline-block; }
@@ -465,6 +473,11 @@ th {
   clear: both;
   height: 0; }
 
+@media (max-width: 1200px) {
+  .quote-and-content div.quote {
+    width: 100%; }
+  .quote-and-content div.content {
+    width: 100%; } }
 /**
  * Syntax highlighting styles
  */
