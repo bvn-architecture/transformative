@@ -5,15 +5,9 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Tue, 30 Jun 2015 11:51:28 +1000</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2015 11:51:28 +1000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2015 11:56:17 +1000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2015 11:56:17 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-=======
-    <pubDate>Tue, 30 Jun 2015 09:19:02 +1000</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2015 09:19:02 +1000</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
->>>>>>> 9d6a3da9a387ae1c24b494931620e91f17c4936d
     
       <item>
         <title>Editorial</title>
@@ -35,29 +29,29 @@
     
       <item>
         <title>ASB</title>
-<<<<<<< HEAD
-        <description>&lt;div class=&quot;quote-and-content&quot;&gt;
-  &lt;div class=&quot;content&quot;&gt;
-=======
-        <description>&lt;h2 id=&quot;barbara-chapman-talks-about-asb-design&quot;&gt;Barbara Chapman talks about ASB design&lt;/h2&gt;
->>>>>>> 9d6a3da9a387ae1c24b494931620e91f17c4936d
+        <description>&lt;p&gt;«««&amp;lt; HEAD
+&amp;lt;div class=&quot;quote-and-content&quot; markdown=&quot;1&quot;&amp;gt;
+&amp;lt;div class=&quot;content&quot; markdown=&quot;1&quot;&amp;gt;&lt;/p&gt;
 
-    &lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
+&lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;
     &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://player.vimeo.com/video/107651238&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
-    &lt;p class=&quot;caption&quot;&gt;ASB North Wharf with Barbara Chapman&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;ASB North Wharf with Barbara Chapman&lt;/p&gt;
 
-  &lt;/div&gt;
-  &lt;div class=&quot;quote&quot;&gt;
+&lt;p&gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;quote&quot; markdown=&quot;1&quot;&amp;gt;&lt;/p&gt;
 
-    &lt;h2 id=&quot;look-at-me-im-a-title&quot;&gt;Look at me, I’m a title&lt;/h2&gt;
+&lt;h2 id=&quot;look-at-me-im-a-title&quot;&gt;Look at me, I’m a title&lt;/h2&gt;
+&lt;p&gt;=======
+##Barbara Chapman talks about ASB design
+»»»&amp;gt; 9d6a3da9a387ae1c24b494931620e91f17c4936d&lt;/p&gt;
 
-    &lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
+&lt;figure class=&quot;quote&quot;&gt;  &lt;blockquote&gt;
 &quot;…the design of the building has fundamentally changed the way we as a business operate for the better&quot;
 &lt;/blockquote&gt;  &lt;figcaption&gt;    &lt;span class=&quot;person&quot;&gt;Barbara Chapman, CEO ASB&lt;/span&gt;, &lt;cite&gt;told BRW&lt;/cite&gt;  &lt;/figcaption&gt;&lt;/figure&gt;
 
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
 
 &lt;div class=&quot;quote-and-content&quot;&gt;
   &lt;div class=&quot;content&quot;&gt;
