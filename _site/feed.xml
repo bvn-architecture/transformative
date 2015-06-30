@@ -5,21 +5,15 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Tue, 30 Jun 2015 16:47:02 +1000</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2015 16:47:02 +1000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2015 18:22:30 +1000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2015 18:22:30 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-=======
-    <pubDate>Tue, 30 Jun 2015 16:01:40 +1000</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2015 16:01:40 +1000</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
->>>>>>> b801296843d37b0ddefa19a679a5622363e29c0d
     
       <item>
         <title>Editorial</title>
-        <description>&lt;p&gt;What is evident reviewing the stories in TRANSFORMATIVE since 2013 is how workplace is no longer a clearly defined space.  In this issue we look at the journey ASB took over 13 years across three different buildings to produce a workplace for collaboration, community and collegiality.&lt;/p&gt;
+        <description>&lt;p&gt;What is evident reviewing the stories in TRANSFORMATIVE since 2013 is how workplace is no longer a clearly defined space.  In this issue we look at the journey ASB took over 13 years across three different buildings to produce a workplace for collaboration, community and collegiality. &lt;/p&gt;
 
-&lt;p&gt;In contrast as least as far as size goes is the “Workshop” recently completed for ARUP in Sydney, that reconfigures a limited space into areas that can be altered in many different ways.  Our Brisbane studio was a lesson in reworking an 80s commercial floor layout into a 21C space backed by the latest technology enabling total flexibility. Currently under construction are new workplaces for one of Canada’s leading law firms who approached us when the managing partner visited Herbert Smith Freehills workplace in Sydney.&lt;/p&gt;
+&lt;p&gt;In contrast as least as far as size goes is the “Workshop” recently completed for ARUP in Sydney, that reconfigures a limited space into areas that can be altered in many different ways.  Our Brisbane studio was a lesson in reworking an 80s commercial floor layout into a 21C space backed by the latest technology enabling total flexibility. Currently under construction are new workplaces for one of Canada’s leading law firms who approached us when the managing partner visited Herbert Smith Freehills workplace in Sydney. &lt;/p&gt;
 
 &lt;p&gt;Follow us on &lt;a href=&quot;https://twitter.com/architecturebvn&quot;&gt;Twitter @ArchitectureBVN&lt;/a&gt; or &lt;a data-toggle=&quot;modal&quot; data-target=&quot;#registrationModal&quot;&gt;register&lt;/a&gt; so that we can share developments in the next generation workplace with you.&lt;/p&gt;
 
@@ -77,6 +71,8 @@
 
 &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
 &lt;!--indicators were in here--&gt;
+  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+  &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;9&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;10&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;11&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;12&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;13&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;14&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;15&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;16&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;17&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;18&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;19&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;20&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;21&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;22&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;23&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;24&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;25&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;26&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;27&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;28&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;29&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;30&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;31&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;32&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;33&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;34&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;35&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;36&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;37&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;38&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;39&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;40&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;41&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;42&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;43&quot;&gt;&lt;/li&gt;&lt;/ol&gt;
   &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;&lt;div class=&quot;item active&quot;&gt;&lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-N66-1408by1125-94e590.jpg&quot; media=&quot;(min-width: 1000px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1000px) and (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/asb/asb-N66-1000by799-94e590.jpg&quot; media=&quot;(min-width: 1000px)&quot; /&gt;
@@ -500,7 +496,9 @@
 &lt;/div&gt;  &lt;/div&gt;&lt;!-- carousel-inner --&gt;
 &lt;!-- Controls --&gt;
   &lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-      &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+      &lt;svg version=&quot;1.1&quot; id=&quot;Layer_1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewbox=&quot;0 0 64 64&quot; enable-background=&quot;new 0 0 64 64&quot; xml:space=&quot;preserve&quot;&gt;
+        &lt;polygon points=&quot;28.7,41.4 25.9,38.6 32.5,32 25.9,25.4 28.7,22.6 38.1,32 38.1,32 38.1,32  &quot; /&gt;
+      &lt;/svg&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&quot;right carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
@@ -990,6 +988,8 @@ promotes osmotic learning and knowledge sharing
 
 &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
 &lt;!--indicators were in here--&gt;
+  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+  &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;&lt;/ol&gt;
   &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;&lt;div class=&quot;item active&quot;&gt;&lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/mct/Knowledge_hub_final-1500by845-51b974.jpg&quot; media=&quot;(min-width: 1000px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1000px) and (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/mct/Knowledge_hub_final-1000by563-51b974.jpg&quot; media=&quot;(min-width: 1000px)&quot; /&gt;
@@ -1053,7 +1053,9 @@ promotes osmotic learning and knowledge sharing
 &lt;/div&gt;  &lt;/div&gt;&lt;!-- carousel-inner --&gt;
 &lt;!-- Controls --&gt;
   &lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-      &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+      &lt;svg version=&quot;1.1&quot; id=&quot;Layer_1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewbox=&quot;0 0 64 64&quot; enable-background=&quot;new 0 0 64 64&quot; xml:space=&quot;preserve&quot;&gt;
+        &lt;polygon points=&quot;28.7,41.4 25.9,38.6 32.5,32 25.9,25.4 28.7,22.6 38.1,32 38.1,32 38.1,32  &quot; /&gt;
+      &lt;/svg&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&quot;right carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
@@ -1280,6 +1282,8 @@ promotes osmotic learning and knowledge sharing
 
 &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
 &lt;!--indicators were in here--&gt;
+  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+  &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;9&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;10&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;11&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;12&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;13&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;14&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;15&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;16&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;17&quot;&gt;&lt;/li&gt;&lt;/ol&gt;
   &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;&lt;div class=&quot;item active&quot;&gt;&lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-1500by976-b65116.jpg&quot; media=&quot;(min-width: 1000px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1000px) and (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/brisbanestudio/bne_studio_71-1000by651-b65116.jpg&quot; media=&quot;(min-width: 1000px)&quot; /&gt;
@@ -1443,7 +1447,9 @@ promotes osmotic learning and knowledge sharing
 &lt;/div&gt;  &lt;/div&gt;&lt;!-- carousel-inner --&gt;
 &lt;!-- Controls --&gt;
   &lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-      &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+      &lt;svg version=&quot;1.1&quot; id=&quot;Layer_1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewbox=&quot;0 0 64 64&quot; enable-background=&quot;new 0 0 64 64&quot; xml:space=&quot;preserve&quot;&gt;
+        &lt;polygon points=&quot;28.7,41.4 25.9,38.6 32.5,32 25.9,25.4 28.7,22.6 38.1,32 38.1,32 38.1,32  &quot; /&gt;
+      &lt;/svg&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&quot;right carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
@@ -1483,9 +1489,9 @@ promotes osmotic learning and knowledge sharing
 
 &lt;p&gt;Raw, but memorable in its physical presence, the ‘design’ of the space is primarily an organisational strategy that offers a range of spaces for studio members to engage in individual and group reflections and discussions that advance architectural and cultural ideas.&lt;/p&gt;
 
-&lt;p&gt;This range of places covers the full workplace spectrum - formal through to casual settings, individual through to large groups, private and public occasions. A continuous ‘working wall’ links these various parts of the studio and is detailed to communicate project ideas through in-situ drawings, pin up, image projection, video conference and model making.&lt;/p&gt;
+&lt;p&gt;This range of places covers the full workplace spectrum - formal through to casual settings, individual through to large groups, private and public occasions. A continuous ‘working wall’ links these various parts of the studio and is detailed to communicate project ideas through in-situ drawings, pin up, image projection, video conference and model making.  &lt;/p&gt;
 
-&lt;p&gt;The working wall is set against the inside edge of the circulation path, above the collection of product samples required in design offices. Thus the singular ‘street’ - the activated public realm - is the place that facilitates and supports interactions of all types, both scheduled and serendipitous. Street planning also includes addresses and destinations, including the series of work bays located in sync with the desk and column layout to ensure people are ‘with’ the view.  Large gathering places enabled by video conferencing facilities connected to the outside world are located at each end. The primary ‘Events Terrace’, adjacent to the entry, is modelled as a series of stepped tiers and platforms to enable large group, fully immersive and inclusive webcast conversations with multiple internal and external participants.&lt;/p&gt;
+&lt;p&gt;The working wall is set against the inside edge of the circulation path, above the collection of product samples required in design offices. Thus the singular ‘street’ - the activated public realm - is the place that facilitates and supports interactions of all types, both scheduled and serendipitous. Street planning also includes addresses and destinations, including the series of work bays located in sync with the desk and column layout to ensure people are ‘with’ the view.  Large gathering places enabled by video conferencing facilities connected to the outside world are located at each end. The primary ‘Events Terrace’, adjacent to the entry, is modelled as a series of stepped tiers and platforms to enable large group, fully immersive and inclusive webcast conversations with multiple internal and external participants. &lt;/p&gt;
 
 &lt;p&gt;Arrival into the studio is through our working library, a surprising and effective way to signal our profession being integral with the history of knowledge transfer. A darkened space, with book spines reflecting the discrete lighting leads directly into the studio, where extensions of the tiered Events Terrace flooring become territories for ‘reception’ and ‘waiting’ and ‘kitchen’. The entire composition, singularly finished in off-white marmoleum is, in a sense, a folding landscape that invites multiple ways of use and occupation.&lt;/p&gt;
 
@@ -1617,6 +1623,8 @@ The Workshop recalibrates the notion of a place at the centre of everything
 
 &lt;div id=&quot;gallery&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
 &lt;!--indicators were in here--&gt;
+  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+  &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;9&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;10&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;11&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;12&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;13&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;14&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;15&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;16&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;17&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;18&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;19&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;20&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;21&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;22&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;23&quot;&gt;&lt;/li&gt;&lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;24&quot;&gt;&lt;/li&gt;&lt;/ol&gt;
   &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;&lt;div class=&quot;item active&quot;&gt;&lt;picture&gt;
     &lt;source srcset=&quot;/transformative/generated/arup/arup_00-1024by683-243d92.jpg&quot; media=&quot;(min-width: 1000px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1000px) and (min-resolution: 144dpi)&quot; /&gt;
     &lt;source srcset=&quot;/transformative/generated/arup/arup_00-1000by667-243d92.jpg&quot; media=&quot;(min-width: 1000px)&quot; /&gt;
@@ -1850,7 +1858,9 @@ The Workshop recalibrates the notion of a place at the centre of everything
 &lt;/div&gt;  &lt;/div&gt;&lt;!-- carousel-inner --&gt;
 &lt;!-- Controls --&gt;
   &lt;a class=&quot;left carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-      &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+      &lt;svg version=&quot;1.1&quot; id=&quot;Layer_1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewbox=&quot;0 0 64 64&quot; enable-background=&quot;new 0 0 64 64&quot; xml:space=&quot;preserve&quot;&gt;
+        &lt;polygon points=&quot;28.7,41.4 25.9,38.6 32.5,32 25.9,25.4 28.7,22.6 38.1,32 38.1,32 38.1,32  &quot; /&gt;
+      &lt;/svg&gt;
       &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
   &lt;/a&gt;
   &lt;a class=&quot;right carousel-control&quot; href=&quot;#gallery&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
