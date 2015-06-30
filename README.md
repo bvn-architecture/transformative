@@ -71,3 +71,30 @@ summary        : |
                   appear here. The extent of this string is indicated by indentation.
 ---
 ```
+
+#quote and content block#
+
+The markup for this is:
+
+```
+<div class="quote-and-content" markdown="1">
+<div class="content" markdown="1">
+
+{% vimeo 107651238 %}
+ASB North Wharf with Barbara Chapman
+{: .caption}
+
+</div>
+<div class="quote" markdown="1">
+
+##Look at me, I'm a title
+
+{% quote { "person" : "Barbara Chapman, CEO ASB", "source" : "told BRW"} %}
+    "…the design of the building has fundamentally changed the way we as a business operate for the better"
+{% endquote %}
+
+</div>
+</div>
+```
+
+You can put whatever markdown you like inside those inner divs

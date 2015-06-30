@@ -21,35 +21,24 @@ summary        : |
                   A pilot experimenting with new types of spaces.
 ---
 
-<<<<<<< HEAD
-=======
+<div class="quote-and-content" markdown="1">
+<div class="content" markdown="1">
 
-<div class="project-details">
-<h3>Location</h3>
-
-<p>201 Kent Street, Sydney</p>
-
-<h3>Client</h3>
-
-<p>Arup</p>
-
-<h3>Completed</h3>
-
-<p>February 2015</p>
-
-<h3>Floor Area</h3>
-
-<p>1000sqm</p>
+{% picture {{page.assetsfolder}}/arup_17.jpg alt="" %}
+AN UNKNOWN CAPTION
+{: .caption}
 
 </div>
+<div class="quote" markdown="1">
 
+##Look at me, I'm a title
 
-
->>>>>>> 3d1581ddd0a9180c788b16378e8dc0a9cfd5da30
 {% quote { "person" : "Ninotschka Titchkosky"  } %}
 The Workshop recalibrates the notion of a place at the centre of everything 
 {% endquote %}
 
+</div>
+</div>
 
 {% gallery { "dummy" : "dummy"} %}
     {% picture {{page.assetsfolder}}/arup_00.jpg alt="" %}
@@ -79,21 +68,13 @@ The Workshop recalibrates the notion of a place at the centre of everything
 
 <div class="project-details">
 <h3>Location</h3>
-
-<p>201 Kent Street, Sydney</p>
-
+<p >201 Kent Street, Sydney</p>
 <h3>Client</h3>
-
-<p>Arup</p>
-
+<p >Arup</p>
 <h3>Completed</h3>
-
-<p>January 2015</p>
-
+<p >February 2015</p>
 <h3>Floor Area</h3>
-
-<p>Stella to put in details  m²</p>
-
+<p >1000m²</p>
 </div>
 
 ###A model of work spaces 
