@@ -102,10 +102,7 @@ Workplace is a cultural phenomenon
     {% picture {{page.assetsfolder}}/Section.jpg alt="" %}
 {% endgallery %}
 
-
-{% quote { "person" : "Jury statement", "source" : "The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards", "date" : "Tuesday"  } %}
-    Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
-{% endquote %}    
+ 
 
 <div class="project-details">
 <h3>Location</h3>
@@ -182,9 +179,25 @@ All 1642 staff members are assigned to 16 ‘neighbourhoods’.  Each neighbourh
 
 The void shifts on each floorplate to reveal internal views, bring daylight deep within and to express structure and services. The overall workplace impression is of a dynamic and democratic environment with a strong sense of community.
 
-{% vimeo 107651239 %}
 
+<div class="quote-and-content" markdown="1">
+<div class="content" markdown="1">
+
+{% vimeo 107651239 %}
 ASB workplace with Barbara Chapman
+{: .caption}
+
+</div>
+<div class="quote" markdown="1">
+
+##Barbara Chapman talks about ASB design
+
+{% quote { "person" : "Jury statement", "source" : "The Supreme Award, in the Property Council New Zealand Rider Levett Bucknall Property Industry Awards", "date" : "Tuesday"  } %}
+    Everything about this building was impressive. The attention to detail, the co-operation of all stakeholders, the leading edge engineering features incorporated, the commitment to sustainability and the delivery of a very complex project providing quality office accommodation for the ASB’s head office.
+{% endquote %} 
+
+</div>
+</div>
 
 [Google plus page](http://bit.ly/1i71rpm) that has tour of ASB North Wharf downloaded 13 November 2013
 
@@ -210,46 +223,46 @@ ASB workplace with Barbara Chapman
  
 # Team #
 
-| ----------------- | ------------   | ----------------- |
-| Project Team      | Name           | Title             |
-| ----------------- | ------------   | ----------------- |
-|                   | James Grose    | Project Principal
-|                   | Brian Clohessy | Project Director
-|                   | Chris Boss       Project Architect
-|                   | Angie Andriic      | Project Team
-                    Ulrike Baeuerle
-Jeremy Benseman
-Jemma Cook
-Chris Dale
-Barry Dineen
-Ben Doherty
-Matthew Downs
-Olivia Giangrasso
-Adele King
-Jason King
-Yi-Jan Lien
-Rakesh Lal
-Susanne Mayer
-William McNaughton
-Josephine Meldgaard
-Zoe Michalski
-Michael Middlebrook
-Matt Middleton
-David Millard
-Alan Milnes
-Adam Mosses
-Katie Newall
-Meg O'Hara
-Tijana Papandrea
-Alice Penna
-Carol-Ann Pickvance
-Graham Rose
-Hyunsoo Song
-Mordechai Toor
-James Whetter
-Tom White
-Joy Yi Zhang
- Kait Zegers
+| ----------------- | ------------        | ----------------- |
+| Project Team      | Name                | Title             |
+| ----------------- | ------------        | ----------------- |
+|                   | James Grose         | Project Principal |
+|                   | Brian Clohessy      | Project Director  |
+|                   | Chris Boss          | Project Architect |
+|                   | Angie Andriic       | Project Team      |
+|                   | Ulrike Baeuerle     | Project Team      |
+|                   | Jeremy Benseman     | Project Team      |
+|                   | Jemma Cook          | Project Team      |
+|                   | Chris Dale          | Project Team      |
+|                   | Barry Dineen        | Project Team      |
+|                   | Ben Doherty         | Project Team      |
+|                   | Matthew Downs       | Project Team      |
+|                   | Olivia Giangrasso   | Project Team      |
+|                   | Adele King          | Project Team      |
+|                   | Jason King          | Project Team      |
+|                   | Yi-Jan Lien         | Project Team      |
+|                   | Rakesh Lal          | Project Team      |
+|                   | Susanne Mayer       | Project Team      |
+|                   | William McNaughton  | Project Team      |
+|                   | Josephine Meldgaard | Project Team      |
+|                   | Zoe Michalski       | Project Team      |
+|                   | Michael Middlebrook | Project Team      |
+|                   | Matt Middleton      | Project Team      |
+|                   | David Millard       | Project Team      |
+|                   | Alan Milnes         | Project Team      |
+|                   | Adam Mosses         | Project Team      |
+|                   | Katie Newall        | Project Team      |
+|                   | Meg O'Hara          | Project Team      |
+|                   | Tijana Papandrea    | Project Team      |
+|                   | Alice Penna         | Project Team      |
+|                   | Carol-Ann Pickvance | Project Team      |
+|                   | Graham Rose         | Project Team      |
+|                   | Hyunsoo Song        | Project Team      |
+|                   | Mordechai Toor      | Project Team      |
+|                   | James Whetter       | Project Team      |
+|                   | Tom White           | Project Team      |
+|                   | Joy Yi Zhang        | Project Team      |
+|                   | Kait Zegers         | Project Team      |
 
 
 | ----------------- | ------------                    | -----------------              |
