@@ -1,12 +1,19 @@
 .quote-and-content{
-	border: 1px solid red;
-	div.quote{
-		  width: 30%;
-		  display: inline-block;
-	}
-	div.content{
-	  width: 70%;
-	  float: left;
-	  display: inline-block;
-	}
+  // border: 1px solid red;
+  div.quote{
+    width: 30%;
+    display: inline-block;
+  }
+  div.content{
+    width: 70%;
+    float: left;
+    display: inline-block;
+  }
+  &:after {
+    visibility: hidden;
+    display: block;
+    content: "";
+    clear: both;
+    height: 0;
+  }
 }
