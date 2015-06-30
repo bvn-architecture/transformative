@@ -5,15 +5,9 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Tue, 30 Jun 2015 15:55:09 +1000</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2015 15:55:09 +1000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2015 16:47:02 +1000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2015 16:47:02 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-=======
-    <pubDate>Tue, 30 Jun 2015 14:11:03 +1000</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2015 14:11:03 +1000</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
->>>>>>> 872e75e7cdcc4af504587bd34ba7e36a3f3b5bc5
     
       <item>
         <title>Editorial</title>
@@ -1555,7 +1549,19 @@ Services:&lt;/p&gt;
     
       <item>
         <title>Kat Martindale</title>
-        <description>&lt;h3 id=&quot;fifteen-years-in-environmental-research&quot;&gt;Fifteen years in environmental research&lt;/h3&gt;
+        <description>&lt;picture&gt;
+    &lt;source srcset=&quot;/transformative/generated/kat/kat-martindale-1500by2254-8ba62a.jpg&quot; media=&quot;(min-width: 1000px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1000px) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/kat/kat-martindale-1000by1503-8ba62a.jpg&quot; media=&quot;(min-width: 1000px)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/kat/kat-martindale-1050by1578-8ba62a.jpg&quot; media=&quot;(min-width: 700px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 700px) and (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/kat/kat-martindale-700by1052-8ba62a.jpg&quot; media=&quot;(min-width: 700px)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/kat/kat-martindale-525by300-8ba62a.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/transformative/generated/kat/kat-martindale-350by200-8ba62a.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/transformative/generated/kat/kat-martindale-350by200-8ba62a.jpg&quot; class=&quot;blog-full&quot; itemprop=&quot;image&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+&lt;p class=&quot;caption&quot;&gt;AN UNKNOWN CAPTION&lt;/p&gt;
+
+&lt;h3 id=&quot;fifteen-years-in-environmental-research&quot;&gt;Fifteen years in environmental research&lt;/h3&gt;
 
 &lt;p&gt;Dr Kat Martindale has been involved in built environment research for over 15 years as a researcher, writer, consultant and lecturer in architecture and urbanism. Originally educated as an architect (Plymouth), then urban designer (Oxford Brookes), and urban geographer (Oxford) before landing in Sydney to read for a PhD in planning policy, Kat has won nine international awards and scholarships for her work.&lt;/p&gt;
 
