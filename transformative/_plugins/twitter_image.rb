@@ -3,11 +3,6 @@ class HashedImageName < Liquid::Block
 
   def initialize(tagName, markup, tokens)
     super
-
-    # if markup.to_s == ''
-    #   markup = '{"file_name":"", "path":"generated", size":"-525by300-"}'
-    # end
-    # @x = JSON.parse markup
   end
 
   def render(context)

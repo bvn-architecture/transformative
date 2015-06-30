@@ -1,5 +1,4 @@
 .quote-and-content{
-  // border: 1px solid red;
   div.quote{
     width: 30%;
     display: inline-block;
@@ -16,4 +15,15 @@
     clear: both;
     height: 0;
   }
+}
+
+@media (max-width: 1200px){
+    .quote-and-content{
+      div.quote{
+        width: 100%;
+      }
+      div.content{
+        width: 100%;
+      }
+    }
 }
