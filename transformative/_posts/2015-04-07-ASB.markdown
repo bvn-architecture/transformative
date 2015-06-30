@@ -16,9 +16,10 @@ author-name    : Stella DeVulder
 author-twitter : stelladevulder
 author-facebook: "https://www.facebook.com/stella.devulder"
 
-summary        : This is a string. 
+summary        : This design made ASB business better. 
 ---
 
+<<<<<<< HEAD
 <div class="quote-and-content" markdown="1">
 <div class="content" markdown="1">
 
@@ -30,6 +31,9 @@ ASB North Wharf with Barbara Chapman
 <div class="quote" markdown="1">
 
 ##Look at me, I'm a title
+=======
+##Barbara Chapman talks about ASB design
+>>>>>>> 9d6a3da9a387ae1c24b494931620e91f17c4936d
 
 {% quote { "person" : "Barbara Chapman, CEO ASB", "source" : "told BRW"} %}
 "…the design of the building has fundamentally changed the way we as a business operate for the better"
@@ -207,4 +211,72 @@ ASB workplace with Barbara Chapman
  * 2014 NZIA Architecture Award - Sustainable Architecture
  * 2014 NZIA Auckland Architecture Award - Sustainable Architecture
  * 
- (Insert full credit list)
+ 
+# Team #
+
+| ----------------- | ------------   | ----------------- |
+| Project Team      | Name           | Title             |
+| ----------------- | ------------   | ----------------- |
+|                   | James Grose    | Project Principal
+|                   | Brian Clohessy | Project Director
+|                   | Chris Boss       Project Architect
+|                   | Angie Andriic      | Project Team
+                    Ulrike Baeuerle
+Jeremy Benseman
+Jemma Cook
+Chris Dale
+Barry Dineen
+Ben Doherty
+Matthew Downs
+Olivia Giangrasso
+Adele King
+Jason King
+Yi-Jan Lien
+Rakesh Lal
+Susanne Mayer
+William McNaughton
+Josephine Meldgaard
+Zoe Michalski
+Michael Middlebrook
+Matt Middleton
+David Millard
+Alan Milnes
+Adam Mosses
+Katie Newall
+Meg O'Hara
+Tijana Papandrea
+Alice Penna
+Carol-Ann Pickvance
+Graham Rose
+Hyunsoo Song
+Mordechai Toor
+James Whetter
+Tom White
+Joy Yi Zhang
+ Kait Zegers
+
+
+| ----------------- | ------------                    | -----------------              |
+| Consultant Team   | Company Name                    | Role                           |
+| ----------------- | ------------                    | -----------------              |
+|                   | Fletcher Construction Co                          | Builder               |
+|                   | Buller George Turkington  | Structural Engineer          |
+|                   | Arup collaboration with Babbage   | Hydraulic Engineer            |
+|                   | Jasmax                  | Landscape       |
+|                   | BVN   | Interiors |
+|                   | Arup               | Lighting               |
+|                   | Lightworks                   | Specialist Lighting          |
+|                   | Janus Facades        | Facade Engineer                      |
+|                   | Rider Levett Bucknall        | Quantity Surveyor            |
+|                   | Yeomans Survey Solutions             | Surveyor               |
+|                   | Riley Consultants   | Geotechnical Consultant            |
+|                   | Traffic Design Group                  | Traffic Consultant      |
+|                   | Barker and Associates  | Planning Consultant |
+|                   | Holmes Fire and Safety              | Fire Consultant              |
+|                   | Michael Day                   | Acoustics         |
+|                   | Octa Associates Ltd       | Project Manager                     |
+|                   | Arup       | ESD            |
+|                   | Veterans Associates            | Lifts               |
+|                   | Opus                   | Civil Engineer        |                    |
+
+
