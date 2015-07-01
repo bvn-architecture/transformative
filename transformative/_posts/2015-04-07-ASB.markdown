@@ -106,21 +106,13 @@ Workplace is a cultural phenomenon
 
 <div class="project-details">
 <h3>Location</h3>
-
-<p>Wynyard Quarter, Auckland, NZ</p>
-
+<p >Wynyard Quarter, Auckland, NZ</p>
 <h3>Client</h3>
-
-<p>Kiwi Income Property Trust + ASB Bank</p>
-
+<p >Kiwi Income Property Trust + ASB Bank</p>
 <h3>Completed</h3>
-
-<p>August 2013</p>
-
+<p >August 2013</p>
 <h3>Floor Area</h3>
-
-<p>28,000m² GFA</p>
-
+<p >28,000m² GFA</p>
 </div>
 
 ## The architecture of ASB North Wharf ##
@@ -153,7 +145,7 @@ Other elements of the building compositionally elaborate the broad cultural and 
 
 The other major compositional element of the building is the reflector, which sits upon the cone. The reflector has a functional purpose to reflect light down through the glass-roofed cone to enhance the daylight quality of the interior. But its emblematic quality is physical–to symbolize a “place” that marks the junction between land and sea, that points enigmatically to the sea and that expresses a dynamic spirit - not just of the community of people inside the building but a greater sense of dynamism between man and nature.
 
-{% picture {{page.assetsfolder}}/asb-N60.jpg alt="" %}
+{% picture {{page.assetsfolder}}/asb-N60.jpg alt="" class="in-column-img" %}
 The connecting lane incorporates public art
 {: .caption}
 
@@ -199,7 +191,7 @@ ASB workplace with Barbara Chapman
 </div>
 </div>
 
-[Google plus page](http://bit.ly/1i71rpm) that has tour of ASB North Wharf downloaded 13 November 2013
+[This is a Google tour of ASB North Wharf](http://bit.ly/1i71rpm) 
 
 {% quote { "person" : "Brian Clohessy", "source" : "responding to advice from ASB"} %}
     Great result for ASB - electrical savings per year are calculated at $304K
@@ -219,7 +211,6 @@ ASB workplace with Barbara Chapman
  * 2014 NZIA Architecture Award - Commercial Architecture
  * 2014 NZIA Architecture Award - Sustainable Architecture
  * 2014 NZIA Auckland Architecture Award - Sustainable Architecture
- * 
  
 # Team #
 
@@ -229,63 +220,63 @@ ASB workplace with Barbara Chapman
 |                   | James Grose         | Project Principal |
 |                   | Brian Clohessy      | Project Director  |
 |                   | Chris Boss          | Project Architect |
+|                   | Adam Mosses         | Project Team      |
+|                   | Adele King          | Project Team      |
+|                   | Alan Milnes         | Project Team      |
+|                   | Alice Penna         | Project Team      |
 |                   | Angie Andriic       | Project Team      |
-|                   | Ulrike Baeuerle     | Project Team      |
-|                   | Jeremy Benseman     | Project Team      |
-|                   | Jemma Cook          | Project Team      |
-|                   | Chris Dale          | Project Team      |
 |                   | Barry Dineen        | Project Team      |
 |                   | Ben Doherty         | Project Team      |
-|                   | Matthew Downs       | Project Team      |
-|                   | Olivia Giangrasso   | Project Team      |
-|                   | Adele King          | Project Team      |
-|                   | Jason King          | Project Team      |
-|                   | Yi-Jan Lien         | Project Team      |
-|                   | Rakesh Lal          | Project Team      |
-|                   | Susanne Mayer       | Project Team      |
-|                   | William McNaughton  | Project Team      |
-|                   | Josephine Meldgaard | Project Team      |
-|                   | Zoe Michalski       | Project Team      |
-|                   | Michael Middlebrook | Project Team      |
-|                   | Matt Middleton      | Project Team      |
-|                   | David Millard       | Project Team      |
-|                   | Alan Milnes         | Project Team      |
-|                   | Adam Mosses         | Project Team      |
-|                   | Katie Newall        | Project Team      |
-|                   | Meg O'Hara          | Project Team      |
-|                   | Tijana Papandrea    | Project Team      |
-|                   | Alice Penna         | Project Team      |
 |                   | Carol-Ann Pickvance | Project Team      |
+|                   | Chris Dale          | Project Team      |
+|                   | David Millard       | Project Team      |
 |                   | Graham Rose         | Project Team      |
 |                   | Hyunsoo Song        | Project Team      |
-|                   | Mordechai Toor      | Project Team      |
 |                   | James Whetter       | Project Team      |
-|                   | Tom White           | Project Team      |
+|                   | Jason King          | Project Team      |
+|                   | Jemma Cook          | Project Team      |
+|                   | Jeremy Benseman     | Project Team      |
+|                   | Josephine Meldgaard | Project Team      |
 |                   | Joy Yi Zhang        | Project Team      |
 |                   | Kait Zegers         | Project Team      |
+|                   | Katie Newall        | Project Team      |
+|                   | Matt Middleton      | Project Team      |
+|                   | Matthew Downs       | Project Team      |
+|                   | Meg O'Hara          | Project Team      |
+|                   | Michael Middlebrook | Project Team      |
+|                   | Mordechai Toor      | Project Team      |
+|                   | Olivia Giangrasso   | Project Team      |
+|                   | Rakesh Lal          | Project Team      |
+|                   | Susanne Mayer       | Project Team      |
+|                   | Tijana Papandrea    | Project Team      |
+|                   | Tom White           | Project Team      |
+|                   | Ulrike Baeuerle     | Project Team      |
+|                   | William McNaughton  | Project Team      |
+|                   | Yi-Jan Lien         | Project Team      |
+|                   | Zoe Michalski       | Project Team      |
 
 
-| ----------------- | ------------                    | -----------------              |
-| Consultant Team   | Company Name                    | Role                           |
-| ----------------- | ------------                    | -----------------              |
-|                   | Fletcher Construction Co                          | Builder               |
-|                   | Buller George Turkington  | Structural Engineer          |
-|                   | Arup collaboration with Babbage   | Hydraulic Engineer            |
-|                   | Jasmax                  | Landscape       |
-|                   | BVN   | Interiors |
-|                   | Arup               | Lighting               |
-|                   | Lightworks                   | Specialist Lighting          |
-|                   | Janus Facades        | Facade Engineer                      |
-|                   | Rider Levett Bucknall        | Quantity Surveyor            |
-|                   | Yeomans Survey Solutions             | Surveyor               |
-|                   | Riley Consultants   | Geotechnical Consultant            |
-|                   | Traffic Design Group                  | Traffic Consultant      |
-|                   | Barker and Associates  | Planning Consultant |
-|                   | Holmes Fire and Safety              | Fire Consultant              |
-|                   | Michael Day                   | Acoustics         |
-|                   | Octa Associates Ltd       | Project Manager                     |
-|                   | Arup       | ESD            |
-|                   | Veterans Associates            | Lifts               |
-|                   | Opus                   | Civil Engineer        |                    |
+| ----------------- | ------------                    | -----------------       |
+| Consultant Team   | Company Name                    | Role                    |
+| ----------------- | ------------                    | -----------------       |
+|                   | Arup                            | ESD                     |
+|                   | Arup                            | Lighting                |
+|                   | Arup collaboration with Babbage | Hydraulic Engineer      |
+|                   | Barker and Associates           | Planning Consultant     |
+|                   | Buller George Turkington        | Structural Engineer     |
+|                   | BVN                             | Interiors               |
+|                   | Fletcher Construction Co        | Builder                 |
+|                   | Holmes Fire and Safety          | Fire Consultant         |
+|                   | Janus Facades                   | Facade Engineer         |
+|                   | Jasmax                          | Landscape               |
+|                   | Lightworks                      | Specialist Lighting     |
+|                   | Michael Day                     | Acoustics               |
+|                   | Octa Associates Ltd             | Project Manager         |
+|                   | Opus                            | Civil Engineer          | 
+|                   | Rider Levett Bucknall           | Quantity Surveyor       |
+|                   | Riley Consultants               | Geotechnical Consultant |
+|                   | Traffic Design Group            | Traffic Consultant      |
+|                   | Veterans Associates             | Lifts                   |
+|                   | Yeomans Survey Solutions        | Surveyor                |
 
 
