@@ -402,6 +402,10 @@ p.in-post-nav {
   top: 3em;
   z-index: 1000;
   background-color: $background-color;
+  a{
+    border-bottom: 1px solid;
+    text-decoration: none;
+  }
 }
 @media (max-width: 770px){
   p.in-post-nav {
