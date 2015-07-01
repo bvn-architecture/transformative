@@ -315,20 +315,6 @@ ul.post-list {
 
 
 //post specific
-span.in-post-nav {
-  margin-right: 1em;
-  display: inline-block;
-  a.this-page{color: $emphasis-color;}
-}
-p.in-post-nav {
-  font-family: $base-font-family;
-  font-size: 145%;
-  text-align: center;
-  position: fixed;
-  top: 3em;
-  z-index: 1000;
-  background-color: $background-color;
-}
 p.clear-both-sides{
   display: block;
   clear: both;
@@ -401,4 +387,45 @@ th{
   background-image: -o-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,0.005) 100%);
   background-image: -webkit-gradient(linear,left top,right top,from(rgba(0,0,0,.0001)),to(rgba(0,0,0,0.005)));
   background-image: linear-gradient(to right,rgba(0,0,0,.0001) 0,rgba(0,0,0,0.005) 100%);
+}
+
+span.in-post-nav {
+  margin-right: 1em;
+  display: inline-block;
+  a.this-page{color: $emphasis-color;}
+}
+p.in-post-nav {
+  font-family: $base-font-family;
+  font-size: 145%;
+  text-align: center;
+  position: fixed;
+  top: 3em;
+  z-index: 1000;
+  background-color: $background-color;
+}
+@media (max-width: 770px){
+  p.in-post-nav {
+    font-size: 145%;
+    text-align: left;
+    top: -4em;
+    padding-left: 0.5em;
+    position: absolute; 
+  }
+  .page-content {
+    padding-top: 12em;
+  }
+  body header.site-header{
+    position: absolute;
+  }
+}
+@media (max-width: 450px){
+  p.in-post-nav {
+    top: -9em;
+  }
+  .page-content {
+    padding-top: 21em;
+  }
+  .nav-links li {
+    margin-right: 1em;
+  }
 }
