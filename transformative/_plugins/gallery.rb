@@ -5,13 +5,12 @@ class Gallery < Liquid::Block
     super
 
     if markup.to_s == ''
-      markup = "{\"dummy\":\"\"}"#I don't like this at all!
+      markup = "{'dummy':''}"#I don't like this at all!
     end
     @x = JSON.parse markup
   end
 
   def render(context)
-    # person = "<span class=\"person\">#{@x["person"]}</span>" if @x["person"]
     newpics = []
     "#{super}".split("<picture>").each {|pic| newpics.push("<picture>"<<pic)}
 
