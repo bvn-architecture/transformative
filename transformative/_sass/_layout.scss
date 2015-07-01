@@ -184,6 +184,15 @@ img:hover {
 img.blog-full {
   width: 100%;
 }
+img.in-column-img {
+  width: 70%;
+}
+@media (max-width: 1200px){
+  img.in-column-img {
+    width: 100%;
+  }
+}
+
 .carousel-inner img {
   height: 30em;
   object-fit: contain;

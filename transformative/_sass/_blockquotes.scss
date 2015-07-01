@@ -1,9 +1,8 @@
 figure.quote {
-    padding-left: 1em;
     blockquote {
     	font-family: $medium-font-family;
         border: none;
-        padding: none;
+        padding: 0;
     }
     figcaption {
         font-size: 78%;

@@ -2,6 +2,7 @@
   div.quote{
     width: 30%;
     display: inline-block;
+    padding-left: 1em;
   }
   div.content{
     width: 70%;
@@ -15,12 +16,14 @@
     clear: both;
     height: 0;
   }
+  // blockquote{margin: 0;padding:0; }
 }
 
 @media (max-width: 1200px){
     .quote-and-content{
       div.quote{
         width: 100%;
+          padding-left: 0;
       }
       div.content{
         width: 100%;
