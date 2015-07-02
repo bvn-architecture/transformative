@@ -43,11 +43,11 @@ end
 "  </div><!-- carousel-inner -->
 <!-- Controls -->
   <a class='left carousel-control' href='#gallery' role='button' data-slide='prev'>
-      <span class='glyphicon glyphicon-chevron-left' aria-hidden='true'></span>
+      <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 595.3 841.9'><path fill='#B4B4B4' d='M267 508.4l-26-26 61.3-61.5-61.4-61.4 26-26 87.4 87.3'/></svg>
       <span class='sr-only'>Previous</span>
   </a>
   <a class='right carousel-control' href='#gallery' role='button' data-slide='next'>
-      <span class='glyphicon glyphicon-chevron-right' aria-hidden='true'></span>
+      <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 595.3 841.9'><path fill='#B4B4B4' d='M267 508.4l-26-26 61.3-61.5-61.4-61.4 26-26 87.4 87.3'/></svg>
       <span class='sr-only'>Next</span>
   </a>
 </div>"

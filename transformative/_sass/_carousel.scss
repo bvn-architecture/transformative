@@ -1,0 +1,38 @@
+.carousel{
+  svg{
+    position: absolute;
+    top: 34%;
+    z-index: 5;
+    display: inline-block;
+  }
+  .left svg{
+    left: 0;
+    -webkit-transform: rotate(180deg);
+  }
+  .right svg{
+    right: 0;
+  }
+  .carousel-inner {
+    img {
+      height: 30em;
+      object-fit: contain;
+    }
+  }
+  .carousel-indicators {
+    li {
+      width:  10px;
+      height: 10px;
+      margin:  1px;
+      margin-right: 8px;
+      background-color: $heading-color;
+      border: none;
+      border-radius: 10px;
+    }
+    .active {
+      width:  11px;
+      height: 11px;
+      margin-right: 8px;
+      background-color: $background-color;
+    }
+  }
+}
