@@ -377,13 +377,6 @@ th{
   font-size: 144.4444444444444%;
 }
 
-.carousel-control{
-  background-image: -webkit-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,0.005) 100%);
-  background-image: -o-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,0.005) 100%);
-  background-image: -webkit-gradient(linear,left top,right top,from(rgba(0,0,0,.0001)),to(rgba(0,0,0,0.005)));
-  background-image: linear-gradient(to right,rgba(0,0,0,.0001) 0,rgba(0,0,0,0.005) 100%);
-}
-
 span.in-post-nav {
   margin-right: 1em;
   display: inline-block;
