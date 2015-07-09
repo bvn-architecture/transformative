@@ -72,9 +72,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300; }
 
 /**
- * Links
- */
-/**
  * Blockquotes
  */
 blockquote {
@@ -265,14 +262,14 @@ blockquote {
 
 a {
   color: #b4b4b4;
-  text-decoration: underline; }
+  text-decoration: none;
+  border-bottom: 1px solid; }
   a:link {
-    color: #b4b4b4;
-    text-decoration: underline; }
+    color: #b4b4b4; }
   a:visited {
     color: #cecece; }
   a:hover {
-    text-decoration: none; }
+    border-bottom: 1px solid; }
   a .active {
     color: #967745; }
 
