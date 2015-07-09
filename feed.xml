@@ -5,15 +5,9 @@
     <description>Write an awesome description for your new site here. trigger</description>
     <link>http://bvn-architecture.github.io/transformative/</link>
     <atom:link href="http://bvn-architecture.github.io/transformative/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Thu, 02 Jul 2015 16:16:05 +1000</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2015 16:16:05 +1000</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
-=======
-    <pubDate>Thu, 02 Jul 2015 16:22:26 +1000</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2015 16:22:26 +1000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2015 10:52:52 +1000</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2015 10:52:52 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
->>>>>>> b40ec9ccf8931be5c39aeb31982dc50899be1f0d
     
       <item>
         <title>Editorial</title>
