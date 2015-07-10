@@ -173,7 +173,7 @@ a{
   border-bottom: 1px solid;
   &:link    { color: $heading-color;}//Unvisited link.
   &:visited { color: lighten( $heading-color, 10%);}//Visited links.
-  &:hover   { border-bottom: 1px solid;}//The user mouses over a link.
+  &:hover   { border-bottom: 1px solid; text-decoration: none;}//The user mouses over a link.
   &:focus   { }//The user clicks on a link.
   //&:active  { color: $emphasis-color;}//The user has clicked a link.
   .active   {color: $emphasis-color;}
@@ -305,10 +305,6 @@ ul.post-list {
   margin-bottom: 1em;
 }
 
-//footer
-.bvn-mark{fill: $text-color}
-.site-footer{border: none;}
-//end footer
 
 
 //post specific
@@ -362,11 +358,16 @@ h1.site-title {
   margin: auto;
 }
 .site-footer{
-  margin-top: 50em;
+  margin-top: 5em;
+  border:none;
   .attr {
     float: right;
-    a{text-decoration: none;}
+    a{
+      text-decoration: none;
+      border:none;
+    }
   }
+  .bvn-mark{fill: $heading-color}
   svg {
     height: 2em;
   }
