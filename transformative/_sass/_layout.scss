@@ -154,7 +154,7 @@ article p {
 
 /*Transformative specific*/
 
-h1,h2,h3,h4,h5{
+h1,h2,h3,h4,h5,th{
   font-family: $medium-font-family;
   color:       $heading-color;
 }
@@ -163,9 +163,13 @@ h1,h2,h3,h4,h5{
   color:       $heading-color;
 }
 h2{         font-size: 144.4444444444444%;}
-h3{         font-size: 111.1111111111111%;}
+h3,th{      font-size: 111.1111111111111%;}
 blockquote{ font-size: 122.2222222222222%;}
-.tagline{   font-size: 88.88888888888889%; font-style: italic;}
+.tagline{   font-size: 88.88888888888889%;
+            line-height: 1.1;
+            font-style:  italic;
+            color:       $heading-color;
+          }
 
 a{
   color: $heading-color; 
@@ -377,7 +381,7 @@ table{width:100%;}
 th{
   width:     33%;
   color:     $heading-color;
-  font-size: 144.4444444444444%;
+  font-weight: normal;
 }
 
 span.in-post-nav {
